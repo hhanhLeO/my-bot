@@ -1,0 +1,43 @@
+name: OptiBot daily job
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # 02:00 UTC daily (09:00 Vietnam time)
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+permissions:
+  contents: write # needed to commit persisted state back to the repo
+
+concurrency:
+  group: optibot-daily # never let two runs overlap
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (brings back state committed by the previous run)
+        uses: actions/checkout@v5
+
+      - name: Build image
+        run: docker build -t optibot .
+
+      - name: Run daily job (scrape -> upload delta)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          docker run --rm \
+            -e OPENAI_API_KEY \
+            -e ZENDESK_LOCALE=en-us \
+            -e VECTOR_STORE_NAME=optibot \
+            -e OPENAI_MODEL=gpt-5.6 \
+            -v "${{ github.workspace }}/articles:/app/articles" \
+            optibot
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A articles/
+          git diff --staged --quiet || git commit -m "chore: daily article sync [skip ci]"
+          git push
