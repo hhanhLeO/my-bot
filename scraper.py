@@ -121,9 +121,9 @@ def main() -> None:
     parser.add_argument(
         "--limit",
         type=int,
-        default=None,
+        default=int(os.getenv("SCRAPE_LIMIT")) if os.getenv("SCRAPE_LIMIT") else None,
         metavar="N",
-        help="Max number of articles to scrape (default: all ~406). Use 30 for the minimum requirement.",
+        help="Max number of articles to scrape (default: env SCRAPE_LIMIT, or all ~406). Use 30 for the minimum requirement.",
     )
     parser.add_argument(
         "--locale",
@@ -131,7 +131,6 @@ def main() -> None:
         help="Zendesk locale (default: en-us)",
     )
     args = parser.parse_args()
-
     scrape(limit=args.limit, locale=args.locale)
 
 
