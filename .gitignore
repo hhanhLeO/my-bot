@@ -1,5 +1,10 @@
 .env
-articles/
 __pycache__/
 *.pyc
 .venv/
+
+# Ignore scraped markdown, but keep the state files the daily job needs
+# to persist between runs (delta hashes + vector store id).
+articles/*
+!articles/manifest.json
+!articles/.store_config_openai.json
