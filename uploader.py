@@ -15,7 +15,7 @@ ARTICLES_DIR = Path("articles")
 MANIFEST_FILE = ARTICLES_DIR / "manifest.json"
 STORE_CONFIG_FILE = ARTICLES_DIR / ".store_config_openai.json"
 
-VECTOR_STORE_NAME = os.environ.get("VECTOR_STORE_NAME", "optisigns-support-docs")
+VECTOR_STORE_NAME = os.environ.get("VECTOR_STORE_NAME", "optibot")
 def get_client() -> OpenAI:
     """Create and return an authenticated OpenAI client."""
     api_key = os.environ.get("OPENAI_API_KEY")
