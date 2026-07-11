@@ -1,0 +1,52 @@
+{
+  "360016313754": {
+    "slug": "how-to-install-an-apk-file-on-your-fire-tv",
+    "title": "How to Install an APK file on your Fire TV",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+    "updated_at": "2026-07-10T23:06:42Z",
+    "hash": "7c1c7b3e45b5d162f48c4ae75c11aa8c",
+    "file": "articles/how-to-install-an-apk-file-on-your-fire-tv.md",
+    "openai_uploaded_hash": "7c1c7b3e45b5d162f48c4ae75c11aa8c",
+    "openai_file_id": "file-Y9Pzh3ye5tJ4cWQZeAUE5a"
+  },
+  "360026559573": {
+    "slug": "how-to-create-and-use-the-split-screen-app",
+    "title": "How to Create and Use the Split Screen App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
+    "updated_at": "2026-07-09T21:32:58Z",
+    "hash": "03d0e66b3cb4755d1951266f7a2edf51",
+    "file": "articles/how-to-create-and-use-the-split-screen-app.md",
+    "openai_uploaded_hash": "03d0e66b3cb4755d1951266f7a2edf51",
+    "openai_file_id": "file-HESG1eWuwKeCuzWFiiwbdK"
+  },
+  "360047275934": {
+    "slug": "whitelist-optisigns-ip-addresses-ports",
+    "title": "Whitelist OptiSigns IP addresses & ports",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+    "updated_at": "2026-07-09T19:48:39Z",
+    "hash": "457605b78b2af8cd6f02e7421efd37b1",
+    "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
+    "openai_uploaded_hash": "457605b78b2af8cd6f02e7421efd37b1",
+    "openai_file_id": "file-Wvb7ax4xiG3MJyc36xQUsR"
+  },
+  "360056086653": {
+    "slug": "how-to-change-time-zone-on-your-fire-stick-device",
+    "title": "How to Change Time Zone on Your Fire Stick device",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+    "updated_at": "2026-07-09T18:27:02Z",
+    "hash": "6f09883469fba22fc30378494049c867",
+    "file": "articles/how-to-change-time-zone-on-your-fire-stick-device.md",
+    "openai_uploaded_hash": "6f09883469fba22fc30378494049c867",
+    "openai_file_id": "file-E3ogjBXAV9MaXZfcgRZ7Vc"
+  },
+  "29217646663187": {
+    "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
+    "title": "How to Set Up Dynamic Data Mapping with OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
+    "updated_at": "2026-07-09T15:33:50Z",
+    "hash": "5e3023897fce29c7100069db3fadb01a",
+    "file": "articles/how-to-set-up-dynamic-data-mapping-with-optisync.md",
+    "openai_uploaded_hash": "5e3023897fce29c7100069db3fadb01a",
+    "openai_file_id": "file-1zrERnbD4x7ZJbhEzFkfKn"
+  }
+}
