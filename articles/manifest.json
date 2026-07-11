@@ -48,5 +48,255 @@
     "file": "articles/how-to-set-up-dynamic-data-mapping-with-optisync.md",
     "openai_uploaded_hash": "5e3023897fce29c7100069db3fadb01a",
     "openai_file_id": "file-1zrERnbD4x7ZJbhEzFkfKn"
+  },
+  "53095698149011": {
+    "slug": "using-the-japan-earthquake-app",
+    "title": "Using the Japan Earthquake App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+    "updated_at": "2026-07-08T18:39:51Z",
+    "hash": "34bff75d5480f93bffa57ed3580821d8",
+    "file": "articles/using-the-japan-earthquake-app.md",
+    "openai_uploaded_hash": "34bff75d5480f93bffa57ed3580821d8",
+    "openai_file_id": "file-WVTsMwT71Y7nAU1M7WLCpr"
+  },
+  "53293393593491": {
+    "slug": "refer-earn-optisigns-referral-program",
+    "title": "Refer & Earn: OptiSigns Referral Program",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+    "updated_at": "2026-07-08T17:09:50Z",
+    "hash": "a32a4571798cc6c6ffc620ddf37be5b4",
+    "file": "articles/refer-earn-optisigns-referral-program.md",
+    "openai_uploaded_hash": "a32a4571798cc6c6ffc620ddf37be5b4",
+    "openai_file_id": "file-QSvdrE7NcUasSjqKziPb9L"
+  },
+  "360051014713": {
+    "slug": "how-to-use-youtube-with-optisigns",
+    "title": "How to use YouTube with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
+    "updated_at": "2026-07-08T15:01:25Z",
+    "hash": "1dea2369e050e7a80a08916535bf24df",
+    "file": "articles/how-to-use-youtube-with-optisigns.md",
+    "openai_uploaded_hash": "1dea2369e050e7a80a08916535bf24df",
+    "openai_file_id": "file-6phxUgV1Yk8v42JzMYYcxt"
+  },
+  "52113036672403": {
+    "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+    "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
+    "updated_at": "2026-07-08T14:58:11Z",
+    "hash": "1f40a961404b387a9b6193507dcc0f86",
+    "file": "articles/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
+    "openai_uploaded_hash": "1f40a961404b387a9b6193507dcc0f86",
+    "openai_file_id": "file-CABKgvh6hEMXn3C24tGT1v"
+  },
+  "28598173096723": {
+    "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
+    "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+    "updated_at": "2026-07-08T14:47:07Z",
+    "hash": "4fe711d8b9bdbd61cf4e4c4b86150d0e",
+    "file": "articles/how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
+    "openai_uploaded_hash": "4fe711d8b9bdbd61cf4e4c4b86150d0e",
+    "openai_file_id": "file-9TdZPLKwkHL4EQv4QrJLdV"
+  },
+  "1500000493782": {
+    "slug": "billing-how-do-i-change-my-subscription-plan",
+    "title": "Billing: How Do I Change my Subscription Plan?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
+    "updated_at": "2026-07-08T04:10:51Z",
+    "hash": "86a2759b49947ded62d9f42d6efa56fd",
+    "file": "articles/billing-how-do-i-change-my-subscription-plan.md",
+    "openai_uploaded_hash": "86a2759b49947ded62d9f42d6efa56fd",
+    "openai_file_id": "file-S7ENG8tjuyN3s1rXAjC4Tn"
+  },
+  "360035538093": {
+    "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati",
+    "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
+    "updated_at": "2026-07-07T16:43:26Z",
+    "hash": "628dbd50c14593cf532dd17ae9f29d14",
+    "file": "articles/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati.md",
+    "openai_uploaded_hash": "628dbd50c14593cf532dd17ae9f29d14",
+    "openai_file_id": "file-3fZeHYZDZnxSsmJyBXqW9k"
+  },
+  "4412065189267": {
+    "slug": "synchronized-playback-sync-play-feature",
+    "title": "Synchronized playback (Sync Play) feature",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
+    "updated_at": "2026-07-06T21:29:32Z",
+    "hash": "b35262b419c18996b5b6d6ecac4d45d1",
+    "file": "articles/synchronized-playback-sync-play-feature.md",
+    "openai_uploaded_hash": "b35262b419c18996b5b6d6ecac4d45d1",
+    "openai_file_id": "file-DdsSYQYwjdSwd6bF3YRxCC"
+  },
+  "53216900345875": {
+    "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+    "title": "What Access Does OptiSigns Have to My Account and Devices?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
+    "updated_at": "2026-07-06T15:29:04Z",
+    "hash": "e45b48d461a3aed2fd89c6398e56691a",
+    "file": "articles/what-access-does-optisigns-have-to-my-account-and-devices.md",
+    "openai_uploaded_hash": "e45b48d461a3aed2fd89c6398e56691a",
+    "openai_file_id": "file-DBxBZRQoC1PkyDBgFx4akN"
+  },
+  "360049875794": {
+    "slug": "how-to-use-follow-us-app",
+    "title": "How to use Follow Us App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
+    "updated_at": "2026-07-05T19:15:39Z",
+    "hash": "1dded1479fc9ddec8565759e786bb9e8",
+    "file": "articles/how-to-use-follow-us-app.md",
+    "openai_uploaded_hash": "1dded1479fc9ddec8565759e786bb9e8",
+    "openai_file_id": "file-TS7Lewi1akTPee4QyqDDDc"
+  },
+  "360016252654": {
+    "slug": "does-optisigns-offer-non-profit-education-discount",
+    "title": "Does OptiSigns offer Non-profit/Education discount?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+    "updated_at": "2026-07-02T17:12:40Z",
+    "hash": "6ee4bcd55b2b2492f569a43b9a742899",
+    "file": "articles/does-optisigns-offer-non-profit-education-discount.md",
+    "openai_uploaded_hash": "6ee4bcd55b2b2492f569a43b9a742899",
+    "openai_file_id": "file-Wt66Poyn16NQnUT5kDsSij"
+  },
+  "53028011485715": {
+    "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+    "title": "How to Display a Snowflake Dashboard with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
+    "updated_at": "2026-07-01T21:59:22Z",
+    "hash": "b4fbab723f955b0e3d016d3aaef3f6e6",
+    "file": "articles/how-to-display-a-snowflake-dashboard-with-optisigns.md",
+    "openai_uploaded_hash": "b4fbab723f955b0e3d016d3aaef3f6e6",
+    "openai_file_id": "file-8Dprf1JhxMXK81TXXLAMsA"
+  },
+  "51343184586643": {
+    "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+    "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-07-01T16:55:46Z",
+    "hash": "fe56461246b9ed00865a0bf441a5c86b",
+    "file": "articles/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
+    "openai_uploaded_hash": "fe56461246b9ed00865a0bf441a5c86b",
+    "openai_file_id": "file-F6eqJ131z2J8jxocC2DouE"
+  },
+  "360054298754": {
+    "slug": "how-to-factory-reset-your-fire-stick-device",
+    "title": "How to Factory Reset Your Fire Stick device ",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+    "updated_at": "2026-07-01T13:59:15Z",
+    "hash": "7523c7fcb97f9fc765c5525aff64cc23",
+    "file": "articles/how-to-factory-reset-your-fire-stick-device.md",
+    "openai_uploaded_hash": "7523c7fcb97f9fc765c5525aff64cc23",
+    "openai_file_id": "file-VAAJ7jKGsitpoHaj3gcDMu"
+  },
+  "27690296225555": {
+    "slug": "ai-camera-app-quick-start",
+    "title": "AI Camera App - Quick Start",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
+    "updated_at": "2026-06-29T19:26:02Z",
+    "hash": "3715b8a8597d550901d638a637ca081b",
+    "file": "articles/ai-camera-app-quick-start.md",
+    "openai_uploaded_hash": "3715b8a8597d550901d638a637ca081b",
+    "openai_file_id": "file-5fqViiPHDzphH4TzR96EKj"
+  },
+  "23565267463315": {
+    "slug": "engage-plan-faqs",
+    "title": "Engage Plan - FAQs",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+    "updated_at": "2026-06-29T19:25:18Z",
+    "hash": "61566bb2ca07429498a4e34c71c53a01",
+    "file": "articles/engage-plan-faqs.md",
+    "openai_uploaded_hash": "61566bb2ca07429498a4e34c71c53a01",
+    "openai_file_id": "file-Kqw4FwhHhVNWNjvB41egH3"
+  },
+  "360042143753": {
+    "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+    "title": "How to re-encode video files for better compatibility on your devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+    "updated_at": "2026-06-29T19:08:36Z",
+    "hash": "e818405f4db1d964c124ff0ef81ba46e",
+    "file": "articles/how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+    "openai_uploaded_hash": "e818405f4db1d964c124ff0ef81ba46e",
+    "openai_file_id": "file-2jwidFqNutZ86DTHv9Y2Kn"
+  },
+  "360055328454": {
+    "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
+    "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
+    "updated_at": "2026-06-28T17:13:26Z",
+    "hash": "ef303630ac8b864ad7a65fa87a80b622",
+    "file": "articles/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
+    "openai_uploaded_hash": "ef303630ac8b864ad7a65fa87a80b622",
+    "openai_file_id": "file-W8ivCNv8H9k2oXGjJy3q52"
+  },
+  "360025661053": {
+    "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
+    "title": "How Can I Remove/Delete Uploaded Files or Assets?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
+    "updated_at": "2026-06-26T20:54:46Z",
+    "hash": "e20e7f3f143213933aaa213f2753369a",
+    "file": "articles/how-can-i-remove-delete-uploaded-files-or-assets.md",
+    "openai_uploaded_hash": "e20e7f3f143213933aaa213f2753369a",
+    "openai_file_id": "file-LtAvPsNp7JxeEmiRtmoKhg"
+  },
+  "21708242980755": {
+    "slug": "how-to-share-playlist-and-folder-with-external-users",
+    "title": "How to Share Playlist and Folder with External Users",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
+    "updated_at": "2026-06-26T13:56:08Z",
+    "hash": "0e1ab41c56fa91df2cbb188e779c82be",
+    "file": "articles/how-to-share-playlist-and-folder-with-external-users.md",
+    "openai_uploaded_hash": "0e1ab41c56fa91df2cbb188e779c82be",
+    "openai_file_id": "file-8kNw2N5h6rYLib7fxkK3vN"
+  },
+  "40147900639891": {
+    "slug": "optistick-troubleshooting-guide",
+    "title": "OptiStick Troubleshooting Guide",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
+    "updated_at": "2026-06-26T13:52:36Z",
+    "hash": "e59791aa5345831d062f095fe4ccef18",
+    "file": "articles/optistick-troubleshooting-guide.md",
+    "openai_uploaded_hash": "e59791aa5345831d062f095fe4ccef18",
+    "openai_file_id": "file-PbMKNDQ9A5axc5VwBe4W5j"
+  },
+  "27267311796243": {
+    "slug": "optistick",
+    "title": "OptiStick",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+    "updated_at": "2026-06-26T13:51:49Z",
+    "hash": "1726b148673af12c747039d5fb53b838",
+    "file": "articles/optistick.md",
+    "openai_uploaded_hash": "1726b148673af12c747039d5fb53b838",
+    "openai_file_id": "file-LeLZvgZQ5v1mJ7EV3L4Z1p"
+  },
+  "10259143299219": {
+    "slug": "how-to-use-website-screenshot-app",
+    "title": "How to use Website Screenshot app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app",
+    "updated_at": "2026-06-25T19:46:15Z",
+    "hash": "2f4213f3b5f38ef300a9b45403d9749f",
+    "file": "articles/how-to-use-website-screenshot-app.md",
+    "openai_uploaded_hash": "2f4213f3b5f38ef300a9b45403d9749f",
+    "openai_file_id": "file-4dhdwNxSTQUdc5XvWConH6"
+  },
+  "360037391854": {
+    "slug": "how-to-display-content-inside-websites-that-require-login",
+    "title": "How to display content inside websites that require login?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
+    "updated_at": "2026-06-25T12:33:44Z",
+    "hash": "2c4dca94c6a056f7954ea240e471af5f",
+    "file": "articles/how-to-display-content-inside-websites-that-require-login.md",
+    "openai_uploaded_hash": "2c4dca94c6a056f7954ea240e471af5f",
+    "openai_file_id": "file-WcqyBy7mmGUSVzgS7VkP7w"
+  },
+  "52350277262483": {
+    "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+    "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-06-24T18:39:16Z",
+    "hash": "b710d60e8d4797c0debd4d7dda965ad6",
+    "file": "articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
+    "openai_uploaded_hash": "b710d60e8d4797c0debd4d7dda965ad6",
+    "openai_file_id": "file-UYfuinR26zeSd39wZRKb9P"
   }
 }
