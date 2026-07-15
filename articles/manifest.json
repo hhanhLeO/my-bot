@@ -318,5 +318,45 @@
     "file": "articles/what-hardware-and-devices-are-supported.md",
     "openai_uploaded_hash": "eff66518ad4f0456b91737b83f930bf9",
     "openai_file_id": "file-Ln4pvX9Qb9kBa7WB3JbC9L"
+  },
+  "1500000480302": {
+    "slug": "advanced-custom-domain-mapping",
+    "title": "Advanced: Custom Domain Mapping",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+    "updated_at": "2026-07-14T17:53:32Z",
+    "hash": "3258785bcb2e93f2d76d174cfc97af6d",
+    "file": "articles/advanced-custom-domain-mapping.md",
+    "openai_uploaded_hash": "3258785bcb2e93f2d76d174cfc97af6d",
+    "openai_file_id": "file-DhxryaL7FRCaGfa4jH5NDC"
+  },
+  "1500000485202": {
+    "slug": "custom-branding-settings",
+    "title": "Custom Branding Settings",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
+    "updated_at": "2026-07-14T16:23:24Z",
+    "hash": "999b24a10259ebc1344fdc0d426f1471",
+    "file": "articles/custom-branding-settings.md",
+    "openai_uploaded_hash": "999b24a10259ebc1344fdc0d426f1471",
+    "openai_file_id": "file-Y42br6nLJEdyzeN3f9uqYB"
+  },
+  "28295104605843": {
+    "slug": "how-to-create-use-playlists",
+    "title": "How to Create & Use Playlists",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
+    "updated_at": "2026-07-14T12:09:21Z",
+    "hash": "fb6ee0276d5d0466af5c53e6e2c284bd",
+    "file": "articles/how-to-create-use-playlists.md",
+    "openai_uploaded_hash": "fb6ee0276d5d0466af5c53e6e2c284bd",
+    "openai_file_id": "file-VAnHsc6dTiWoxk2Arxn6x3"
+  },
+  "15313086319763": {
+    "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro",
+    "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
+    "updated_at": "2026-07-14T07:45:20Z",
+    "hash": "da5e800ac957f2fb53f6246ef2d92674",
+    "file": "articles/how-to-design-kiosk-apps-using-kiosk-designer-pro.md",
+    "openai_uploaded_hash": "da5e800ac957f2fb53f6246ef2d92674",
+    "openai_file_id": "file-7ozNzeU1a4DvbSnZvFnH6C"
   }
 }
