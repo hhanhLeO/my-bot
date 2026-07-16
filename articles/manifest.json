@@ -358,5 +358,15 @@
     "file": "articles/how-to-design-kiosk-apps-using-kiosk-designer-pro.md",
     "openai_uploaded_hash": "da5e800ac957f2fb53f6246ef2d92674",
     "openai_file_id": "file-7ozNzeU1a4DvbSnZvFnH6C"
+  },
+  "360016388733": {
+    "slug": "how-to-create-and-use-instagram-wall",
+    "title": "How to create and use Instagram Wall",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
+    "updated_at": "2026-07-15T15:27:32Z",
+    "hash": "b95a07edf70b40a1c5ec6282fe80a12a",
+    "file": "articles/how-to-create-and-use-instagram-wall.md",
+    "openai_uploaded_hash": "b95a07edf70b40a1c5ec6282fe80a12a",
+    "openai_file_id": "file-5o7LRjHrvF5jSFBGejR8ow"
   }
 }
