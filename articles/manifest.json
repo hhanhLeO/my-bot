@@ -368,5 +368,25 @@
     "file": "articles/how-to-create-and-use-instagram-wall.md",
     "openai_uploaded_hash": "b95a07edf70b40a1c5ec6282fe80a12a",
     "openai_file_id": "file-5o7LRjHrvF5jSFBGejR8ow"
+  },
+  "360053211594": {
+    "slug": "set-optisigns-as-screensaver-on-windows",
+    "title": "Set OptiSigns as ScreenSaver on Windows",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
+    "updated_at": "2026-07-16T22:15:47Z",
+    "hash": "8b144bd0ec6ede94a88e876468e70600",
+    "file": "articles/set-optisigns-as-screensaver-on-windows.md",
+    "openai_uploaded_hash": "8b144bd0ec6ede94a88e876468e70600",
+    "openai_file_id": "file-X6peRCQ7EDhEiadtUnWMaN"
+  },
+  "53497007807251": {
+    "slug": "device-management-and-mass-provisioning",
+    "title": "Device Management and Mass Provisioning",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+    "updated_at": "2026-07-16T16:39:52Z",
+    "hash": "8dceaa8df328f54817dfded6fde088f8",
+    "file": "articles/device-management-and-mass-provisioning.md",
+    "openai_uploaded_hash": "8dceaa8df328f54817dfded6fde088f8",
+    "openai_file_id": "file-E438ihF1KRVq762YVE6Fa5"
   }
 }
