@@ -388,5 +388,35 @@
     "file": "articles/device-management-and-mass-provisioning.md",
     "openai_uploaded_hash": "8dceaa8df328f54817dfded6fde088f8",
     "openai_file_id": "file-E438ihF1KRVq762YVE6Fa5"
+  },
+  "360052361293": {
+    "slug": "how-to-update-fire-tv-os-to-latest-version",
+    "title": "How to Update Fire TV OS to latest version",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
+    "updated_at": "2026-07-18T01:28:41Z",
+    "hash": "1d248b5c3fbebc3f1de0fc26120d753a",
+    "file": "articles/how-to-update-fire-tv-os-to-latest-version.md",
+    "openai_uploaded_hash": "1d248b5c3fbebc3f1de0fc26120d753a",
+    "openai_file_id": "file-QzMWWJStXuZ533aD2LDZv7"
+  },
+  "52069065128723": {
+    "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
+    "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-07-17T22:17:54Z",
+    "hash": "9dce72f20c306e6205864c2f0fd10809",
+    "file": "articles/connect-zoom-rooms-to-optisigns-digital-signage.md",
+    "openai_uploaded_hash": "9dce72f20c306e6205864c2f0fd10809",
+    "openai_file_id": "file-FGbr9SXeJHe7H5x7atg8Bc"
+  },
+  "33382537925267": {
+    "slug": "making-a-video-wall-with-optisigns-video-wall-app",
+    "title": "Making a Video Wall with OptiSigns (Video Wall App)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
+    "updated_at": "2026-07-17T16:59:32Z",
+    "hash": "56efa4cf0636ac95e9540dd33cfe0dda",
+    "file": "articles/making-a-video-wall-with-optisigns-video-wall-app.md",
+    "openai_uploaded_hash": "56efa4cf0636ac95e9540dd33cfe0dda",
+    "openai_file_id": "file-8yHbt7bxuqvbnzKcH8ztRF"
   }
 }
