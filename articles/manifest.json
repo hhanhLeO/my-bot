@@ -418,5 +418,15 @@
     "file": "articles/making-a-video-wall-with-optisigns-video-wall-app.md",
     "openai_uploaded_hash": "56efa4cf0636ac95e9540dd33cfe0dda",
     "openai_file_id": "file-8yHbt7bxuqvbnzKcH8ztRF"
+  },
+  "360016380053": {
+    "slug": "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick",
+    "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
+    "updated_at": "2026-07-19T13:16:43Z",
+    "hash": "77e747d32b1b5bbad7cbf43f3e8b5dae",
+    "file": "articles/how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md",
+    "openai_uploaded_hash": "77e747d32b1b5bbad7cbf43f3e8b5dae",
+    "openai_file_id": "file-Vce3XVivmmocCk2CsD4m4i"
   }
 }
