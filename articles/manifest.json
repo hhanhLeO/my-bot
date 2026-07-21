@@ -428,5 +428,15 @@
     "file": "articles/how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md",
     "openai_uploaded_hash": "77e747d32b1b5bbad7cbf43f3e8b5dae",
     "openai_file_id": "file-Vce3XVivmmocCk2CsD4m4i"
+  },
+  "360055546594": {
+    "slug": "how-does-pre-configured-devices-labeled-in-shipping-package",
+    "title": "How does pre-configured devices labeled in shipping package?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
+    "updated_at": "2026-07-20T15:15:23Z",
+    "hash": "bbacd0235af4aac2b852cf36c3afaae7",
+    "file": "articles/how-does-pre-configured-devices-labeled-in-shipping-package.md",
+    "openai_uploaded_hash": "bbacd0235af4aac2b852cf36c3afaae7",
+    "openai_file_id": "file-8RnqhxmZTwszZyQENDDjcJ"
   }
 }
