@@ -438,5 +438,15 @@
     "file": "articles/how-does-pre-configured-devices-labeled-in-shipping-package.md",
     "openai_uploaded_hash": "bbacd0235af4aac2b852cf36c3afaae7",
     "openai_file_id": "file-8RnqhxmZTwszZyQENDDjcJ"
+  },
+  "360053993934": {
+    "slug": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app",
+    "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
+    "updated_at": "2026-07-21T05:24:44Z",
+    "hash": "3f98a59dd892da57800664a6cba1ab77",
+    "file": "articles/how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
+    "openai_uploaded_hash": "3f98a59dd892da57800664a6cba1ab77",
+    "openai_file_id": "file-ShJWe2KbrzjmFiG2es4Tse"
   }
 }
