@@ -448,5 +448,25 @@
     "file": "articles/how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
     "openai_uploaded_hash": "3f98a59dd892da57800664a6cba1ab77",
     "openai_file_id": "file-ShJWe2KbrzjmFiG2es4Tse"
+  },
+  "360034883113": {
+    "slug": "working-with-teams-and-security-levels",
+    "title": "Working with Teams and Security Levels",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+    "updated_at": "2026-07-23T23:32:27Z",
+    "hash": "13d529d6add7d2513c535b1d099056cd",
+    "file": "articles/working-with-teams-and-security-levels.md",
+    "openai_uploaded_hash": "13d529d6add7d2513c535b1d099056cd",
+    "openai_file_id": "file-WbSF6HjYe1A1LkprbyM7iq"
+  },
+  "4416542923667": {
+    "slug": "how-to-perform-mass-provisioning-with-optisigns",
+    "title": "How to Perform Mass Provisioning with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
+    "updated_at": "2026-07-23T09:04:57Z",
+    "hash": "1e6836d69713ce7c9bb9d62699664d18",
+    "file": "articles/how-to-perform-mass-provisioning-with-optisigns.md",
+    "openai_uploaded_hash": "1e6836d69713ce7c9bb9d62699664d18",
+    "openai_file_id": "file-EqYed89PKHHKjMvRw6EsgD"
   }
 }
