@@ -498,5 +498,25 @@
     "file": "articles/lg-webos-signage-commercial-grade.md",
     "openai_uploaded_hash": "687ea752a02dadfc8224642137ba1f0b",
     "openai_file_id": "file-FENZjojwpDCqsgCgayogqv"
+  },
+  "39080869746067": {
+    "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
+    "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
+    "updated_at": "2026-07-28T20:42:44Z",
+    "hash": "49fed35cace0b8d59332b5eff2112ccf",
+    "file": "articles/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
+    "openai_uploaded_hash": "49fed35cace0b8d59332b5eff2112ccf",
+    "openai_file_id": "file-7DRSZgGvmg4FVcuZYKWTr4"
+  },
+  "35626165056787": {
+    "slug": "how-to-contact-optisigns-support",
+    "title": "How to Contact OptiSigns Support",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+    "updated_at": "2026-07-28T18:51:24Z",
+    "hash": "263e3fb56486501c284c109ebd5835de",
+    "file": "articles/how-to-contact-optisigns-support.md",
+    "openai_uploaded_hash": "263e3fb56486501c284c109ebd5835de",
+    "openai_file_id": "file-7ZarCshZoAEiWV91HqPE8e"
   }
 }
