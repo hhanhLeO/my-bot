@@ -518,5 +518,25 @@
     "file": "articles/how-to-contact-optisigns-support.md",
     "openai_uploaded_hash": "263e3fb56486501c284c109ebd5835de",
     "openai_file_id": "file-7ZarCshZoAEiWV91HqPE8e"
+  },
+  "4414539282067": {
+    "slug": "displaying-sharepoint-sites-on-optisigns",
+    "title": "Displaying SharePoint Sites on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
+    "updated_at": "2026-07-29T21:56:37Z",
+    "hash": "da1ca4d25304b76db28fe4a0571dfbfc",
+    "file": "articles/displaying-sharepoint-sites-on-optisigns.md",
+    "openai_uploaded_hash": "da1ca4d25304b76db28fe4a0571dfbfc",
+    "openai_file_id": "file-KU5J9k29G1AfihncKnKJ1H"
+  },
+  "360042736794": {
+    "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
+    "title": "How to set an asset to Live or Expire at specific time",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+    "updated_at": "2026-07-29T17:54:19Z",
+    "hash": "cdb3607c108a4eb921161aad5c6e623a",
+    "file": "articles/how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
+    "openai_uploaded_hash": "cdb3607c108a4eb921161aad5c6e623a",
+    "openai_file_id": "file-3WBqGKibEHJRQqGZtoeYnz"
   }
 }
