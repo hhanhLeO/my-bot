@@ -538,5 +538,15 @@
     "file": "articles/how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
     "openai_uploaded_hash": "cdb3607c108a4eb921161aad5c6e623a",
     "openai_file_id": "file-3WBqGKibEHJRQqGZtoeYnz"
+  },
+  "360042143333": {
+    "slug": "roku-release-notes-limitation",
+    "title": "Roku Release Notes & Limitation",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation",
+    "updated_at": "2026-07-30T14:35:18Z",
+    "hash": "8b0a333dea1e5f1cf8b73332ddf69b95",
+    "file": "articles/roku-release-notes-limitation.md",
+    "openai_uploaded_hash": "8b0a333dea1e5f1cf8b73332ddf69b95",
+    "openai_file_id": "file-UBPp9bcRErftp2bt21URYq"
   }
 }
