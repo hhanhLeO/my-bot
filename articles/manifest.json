@@ -548,5 +548,15 @@
     "file": "articles/roku-release-notes-limitation.md",
     "openai_uploaded_hash": "8b0a333dea1e5f1cf8b73332ddf69b95",
     "openai_file_id": "file-UBPp9bcRErftp2bt21URYq"
+  },
+  "1500012522362": {
+    "slug": "how-to-use-the-web-scripting-app",
+    "title": "How to use the Web Scripting App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
+    "updated_at": "2026-07-31T13:02:35Z",
+    "hash": "76f817abe06e0555193c52f7de15dd5b",
+    "file": "articles/how-to-use-the-web-scripting-app.md",
+    "openai_uploaded_hash": "76f817abe06e0555193c52f7de15dd5b",
+    "openai_file_id": "file-NqT2StXzRH11nRGLkLLBiC"
   }
 }
