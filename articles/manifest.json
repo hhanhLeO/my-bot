@@ -558,5 +558,15 @@
     "file": "articles/how-to-use-the-web-scripting-app.md",
     "openai_uploaded_hash": "76f817abe06e0555193c52f7de15dd5b",
     "openai_file_id": "file-NqT2StXzRH11nRGLkLLBiC"
+  },
+  "53952018650515": {
+    "slug": "how-to-display-databricks-dashboards-on-optisigns",
+    "title": "How to Display Databricks Dashboards on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+    "updated_at": "2026-08-04T17:57:34Z",
+    "hash": "03064de048b9ffe7e9b627be819af94b",
+    "file": "articles/how-to-display-databricks-dashboards-on-optisigns.md",
+    "openai_uploaded_hash": "03064de048b9ffe7e9b627be819af94b",
+    "openai_file_id": "file-QiDzaBUhahd5PBG7MMoqNk"
   }
 }
