@@ -563,10 +563,20 @@
     "slug": "how-to-display-databricks-dashboards-on-optisigns",
     "title": "How to Display Databricks Dashboards on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-    "updated_at": "2026-08-04T17:57:34Z",
-    "hash": "03064de048b9ffe7e9b627be819af94b",
+    "updated_at": "2026-08-05T16:53:02Z",
+    "hash": "f9de5496c9a0ddbe4adf21517a6d5e60",
     "file": "articles/how-to-display-databricks-dashboards-on-optisigns.md",
-    "openai_uploaded_hash": "03064de048b9ffe7e9b627be819af94b",
-    "openai_file_id": "file-QiDzaBUhahd5PBG7MMoqNk"
+    "openai_uploaded_hash": "f9de5496c9a0ddbe4adf21517a6d5e60",
+    "openai_file_id": "file-61RZKrH9B4NSvaN7LMQTmJ"
+  },
+  "54095075680275": {
+    "slug": "optidev-add-on-free-trial-and-pricing",
+    "title": "OptiDev Add-on - Free Trial and Pricing",
+    "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
+    "updated_at": "2026-08-05T18:22:19Z",
+    "hash": "b33856d5361f94d298765b77ae2f37d9",
+    "file": "articles/optidev-add-on-free-trial-and-pricing.md",
+    "openai_uploaded_hash": "b33856d5361f94d298765b77ae2f37d9",
+    "openai_file_id": "file-C5By4EvzdkJH3tUzgX2iGQ"
   }
 }
