@@ -563,11 +563,11 @@
     "slug": "how-to-display-databricks-dashboards-on-optisigns",
     "title": "How to Display Databricks Dashboards on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-    "updated_at": "2026-08-05T16:53:02Z",
-    "hash": "f9de5496c9a0ddbe4adf21517a6d5e60",
+    "updated_at": "2026-08-11T19:04:29Z",
+    "hash": "ef6949105d83987533dbafdf5b528e4e",
     "file": "articles/how-to-display-databricks-dashboards-on-optisigns.md",
-    "openai_uploaded_hash": "f9de5496c9a0ddbe4adf21517a6d5e60",
-    "openai_file_id": "file-61RZKrH9B4NSvaN7LMQTmJ"
+    "openai_uploaded_hash": "ef6949105d83987533dbafdf5b528e4e",
+    "openai_file_id": "file-L1A8nSRo5nR1AZgh5xivT8"
   },
   "54095075680275": {
     "slug": "optidev-add-on-free-trial-and-pricing",
@@ -588,5 +588,55 @@
     "file": "articles/how-to-delete-your-account-from-optisigns.md",
     "openai_uploaded_hash": "f263a7e59155a7e159166b499eb4ed58",
     "openai_file_id": "file-Pg4m5RZZiqebAETXnZVb2a"
+  },
+  "360039566974": {
+    "slug": "how-to-install-optisigns-as-channel-app-on-roku",
+    "title": "How to install OptiSigns as channel/app on Roku",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
+    "updated_at": "2026-08-12T01:53:55Z",
+    "hash": "2d77110b967bb568643b293e0ae5e436",
+    "file": "articles/how-to-install-optisigns-as-channel-app-on-roku.md",
+    "openai_uploaded_hash": "2d77110b967bb568643b293e0ae5e436",
+    "openai_file_id": "file-4krvfScxZwRMio6cPen66v"
+  },
+  "1500003244381": {
+    "slug": "about-the-onhold-devices-folder",
+    "title": "About the OnHold Devices Folder",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
+    "updated_at": "2026-08-11T22:01:43Z",
+    "hash": "b9b8b23e65c7f3e92efda86f3b1c43b3",
+    "file": "articles/about-the-onhold-devices-folder.md",
+    "openai_uploaded_hash": "b9b8b23e65c7f3e92efda86f3b1c43b3",
+    "openai_file_id": "file-Q9anvfe78MNTGsoDoMUZDz"
+  },
+  "42526907045651": {
+    "slug": "photos-gifs-and-qr-codes-in-designer",
+    "title": "Photos, GIFs, and QR Codes in Designer",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
+    "updated_at": "2026-08-11T21:18:17Z",
+    "hash": "2e3743c54e5b630377af9a127b11c4cf",
+    "file": "articles/photos-gifs-and-qr-codes-in-designer.md",
+    "openai_uploaded_hash": "2e3743c54e5b630377af9a127b11c4cf",
+    "openai_file_id": "file-3tmV8xPFBrF6rufatGYMnU"
+  },
+  "360050642833": {
+    "slug": "how-to-use-google-slides-with-optisigns",
+    "title": "How to Use Google Slides with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns",
+    "updated_at": "2026-08-11T21:06:54Z",
+    "hash": "c2d8fa32448b2c5f3ecd939e3978d6cf",
+    "file": "articles/how-to-use-google-slides-with-optisigns.md",
+    "openai_uploaded_hash": "c2d8fa32448b2c5f3ecd939e3978d6cf",
+    "openai_file_id": "file-2kQPHyMsu7pWHSbg1nnsrF"
+  },
+  "17882306279315": {
+    "slug": "samsung-smart-signage-platform-sssp-supported-model-list",
+    "title": "Samsung Smart Signage Platform (SSSP) Supported Model List",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
+    "updated_at": "2026-08-11T10:19:33Z",
+    "hash": "5a386043455ad52bded3c462d5b6ce84",
+    "file": "articles/samsung-smart-signage-platform-sssp-supported-model-list.md",
+    "openai_uploaded_hash": "5a386043455ad52bded3c462d5b6ce84",
+    "openai_file_id": "file-GMUFpZP6jjZinFEEA2CuqL"
   }
 }
