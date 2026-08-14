@@ -638,5 +638,15 @@
     "file": "articles/samsung-smart-signage-platform-sssp-supported-model-list.md",
     "openai_uploaded_hash": "5a386043455ad52bded3c462d5b6ce84",
     "openai_file_id": "file-GMUFpZP6jjZinFEEA2CuqL"
+  },
+  "360024859713": {
+    "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
+    "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "updated_at": "2026-08-13T15:38:13Z",
+    "hash": "48365c9f945268e7c507751e5c055fb8",
+    "file": "articles/how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
+    "openai_uploaded_hash": "48365c9f945268e7c507751e5c055fb8",
+    "openai_file_id": "file-QY6XkpB4cBFC4Ux56a4q7u"
   }
 }
