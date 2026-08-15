@@ -648,5 +648,15 @@
     "file": "articles/how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
     "openai_uploaded_hash": "48365c9f945268e7c507751e5c055fb8",
     "openai_file_id": "file-QY6XkpB4cBFC4Ux56a4q7u"
+  },
+  "360042950593": {
+    "slug": "how-to-use-the-simple-clock-app",
+    "title": "How to Use the Simple Clock App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
+    "updated_at": "2026-08-14T20:14:02Z",
+    "hash": "67b652aea9a6c9a2daf4462f4a89cfb4",
+    "file": "articles/how-to-use-the-simple-clock-app.md",
+    "openai_uploaded_hash": "67b652aea9a6c9a2daf4462f4a89cfb4",
+    "openai_file_id": "file-MYtEy37R7ZMNbChz3dGrvp"
   }
 }
