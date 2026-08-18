@@ -23,11 +23,11 @@
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "title": "Whitelist OptiSigns IP addresses & ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-07-09T19:48:39Z",
-    "hash": "457605b78b2af8cd6f02e7421efd37b1",
+    "updated_at": "2026-08-17T15:21:01Z",
+    "hash": "bae9046fb5f53f99dea01b9360ac1c98",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "457605b78b2af8cd6f02e7421efd37b1",
-    "openai_file_id": "file-Wvb7ax4xiG3MJyc36xQUsR"
+    "openai_uploaded_hash": "bae9046fb5f53f99dea01b9360ac1c98",
+    "openai_file_id": "file-MwRDbQJ1yQVDNF1bDDTLr1"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -43,11 +43,11 @@
     "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
     "title": "How to Set Up Dynamic Data Mapping with OptiSync",
     "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "updated_at": "2026-07-09T15:33:50Z",
-    "hash": "5e3023897fce29c7100069db3fadb01a",
+    "updated_at": "2026-08-17T15:33:48Z",
+    "hash": "b0fb2285d95d0c69b95a78c591959ebb",
     "file": "articles/how-to-set-up-dynamic-data-mapping-with-optisync.md",
-    "openai_uploaded_hash": "5e3023897fce29c7100069db3fadb01a",
-    "openai_file_id": "file-1zrERnbD4x7ZJbhEzFkfKn"
+    "openai_uploaded_hash": "b0fb2285d95d0c69b95a78c591959ebb",
+    "openai_file_id": "file-QEX4AHsG9zSzkyDz68smXg"
   },
   "53095698149011": {
     "slug": "using-the-japan-earthquake-app",
@@ -658,5 +658,25 @@
     "file": "articles/how-to-use-the-simple-clock-app.md",
     "openai_uploaded_hash": "67b652aea9a6c9a2daf4462f4a89cfb4",
     "openai_file_id": "file-MYtEy37R7ZMNbChz3dGrvp"
+  },
+  "22875592994195": {
+    "slug": "how-to-integrate-api-and-publish-api-data-via-optisync",
+    "title": "How to Integrate API and Publish API Data via OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
+    "updated_at": "2026-08-17T15:33:02Z",
+    "hash": "b33fc2ce8ce42b09d51fc03633ec0b4b",
+    "file": "articles/how-to-integrate-api-and-publish-api-data-via-optisync.md",
+    "openai_uploaded_hash": "b33fc2ce8ce42b09d51fc03633ec0b4b",
+    "openai_file_id": "file-45QJAJEEcQ4GCsoTawBvzU"
+  },
+  "44669013147923": {
+    "slug": "kiosk32",
+    "title": "Kiosk32",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
+    "updated_at": "2026-08-17T12:43:11Z",
+    "hash": "52e02c242b57a5c75f87078f1e17e646",
+    "file": "articles/kiosk32.md",
+    "openai_uploaded_hash": "52e02c242b57a5c75f87078f1e17e646",
+    "openai_file_id": "file-2djZfbJSMWx1S5XodZ5zoR"
   }
 }
