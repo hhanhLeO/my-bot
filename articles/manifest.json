@@ -678,5 +678,15 @@
     "file": "articles/kiosk32.md",
     "openai_uploaded_hash": "52e02c242b57a5c75f87078f1e17e646",
     "openai_file_id": "file-2djZfbJSMWx1S5XodZ5zoR"
+  },
+  "4408658251027": {
+    "slug": "how-to-use-remote-command-execution-windows-linux",
+    "title": "How to use Remote Command Execution - Windows/Linux",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
+    "updated_at": "2026-08-18T09:38:04Z",
+    "hash": "a757aed66eb0a590cb904c63f87601eb",
+    "file": "articles/how-to-use-remote-command-execution-windows-linux.md",
+    "openai_uploaded_hash": "a757aed66eb0a590cb904c63f87601eb",
+    "openai_file_id": "file-QyPCCjgBSuLrcFFjc8FARR"
   }
 }
