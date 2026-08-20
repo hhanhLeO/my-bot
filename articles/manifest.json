@@ -653,11 +653,11 @@
     "slug": "how-to-use-the-simple-clock-app",
     "title": "How to Use the Simple Clock App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-14T20:14:02Z",
-    "hash": "67b652aea9a6c9a2daf4462f4a89cfb4",
+    "updated_at": "2026-08-19T18:54:53Z",
+    "hash": "6248def692cac6b5c7ebf294a3ddb7c3",
     "file": "articles/how-to-use-the-simple-clock-app.md",
-    "openai_uploaded_hash": "67b652aea9a6c9a2daf4462f4a89cfb4",
-    "openai_file_id": "file-MYtEy37R7ZMNbChz3dGrvp"
+    "openai_uploaded_hash": "6248def692cac6b5c7ebf294a3ddb7c3",
+    "openai_file_id": "file-VPqPn3qj9dkkGkMP65Hdt1"
   },
   "22875592994195": {
     "slug": "how-to-integrate-api-and-publish-api-data-via-optisync",
@@ -688,5 +688,25 @@
     "file": "articles/how-to-use-remote-command-execution-windows-linux.md",
     "openai_uploaded_hash": "a757aed66eb0a590cb904c63f87601eb",
     "openai_file_id": "file-QyPCCjgBSuLrcFFjc8FARR"
+  },
+  "360016382473": {
+    "slug": "how-to-use-the-website-app-and-display-urls-on-optisigns",
+    "title": "How to Use the Website App and Display URLs on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
+    "updated_at": "2026-08-19T20:31:24Z",
+    "hash": "2acebadb426fb41f0e44df24c0fde790",
+    "file": "articles/how-to-use-the-website-app-and-display-urls-on-optisigns.md",
+    "openai_uploaded_hash": "2acebadb426fb41f0e44df24c0fde790",
+    "openai_file_id": "file-2pCyEq3bXZ3vKcjH8hRJse"
+  },
+  "15861880059283": {
+    "slug": "silent-installation-process-for-optisigns-player-on-windows",
+    "title": "Silent Installation process for OptiSigns Player on Windows",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
+    "updated_at": "2026-08-19T07:25:03Z",
+    "hash": "7a3a963c053a6aebef0c29462e1465d6",
+    "file": "articles/silent-installation-process-for-optisigns-player-on-windows.md",
+    "openai_uploaded_hash": "7a3a963c053a6aebef0c29462e1465d6",
+    "openai_file_id": "file-FsYTp8Gi8Cj5mvfpmNGv6F"
   }
 }
