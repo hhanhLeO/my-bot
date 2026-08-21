@@ -708,5 +708,25 @@
     "file": "articles/silent-installation-process-for-optisigns-player-on-windows.md",
     "openai_uploaded_hash": "7a3a963c053a6aebef0c29462e1465d6",
     "openai_file_id": "file-FsYTp8Gi8Cj5mvfpmNGv6F"
+  },
+  "360037416494": {
+    "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
+    "title": "How to use the Jira (formerly Atlassian JIRA) app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+    "updated_at": "2026-08-20T19:03:52Z",
+    "hash": "6bb168c71781165ac36cd969e289e46f",
+    "file": "articles/how-to-use-the-jira-formerly-atlassian-jira-app.md",
+    "openai_uploaded_hash": "6bb168c71781165ac36cd969e289e46f",
+    "openai_file_id": "file-HX2jV8g741fTyuV6fVjxJZ"
+  },
+  "19171222981523": {
+    "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
+    "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "updated_at": "2026-08-20T19:03:01Z",
+    "hash": "b3e3cd8ad4fb55e9a7c1332abfb51b9d",
+    "file": "articles/how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
+    "openai_uploaded_hash": "b3e3cd8ad4fb55e9a7c1332abfb51b9d",
+    "openai_file_id": "file-EYmxbtS1Pft9hYMcs7Qs1Q"
   }
 }
