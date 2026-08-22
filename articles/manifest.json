@@ -653,11 +653,11 @@
     "slug": "how-to-use-the-simple-clock-app",
     "title": "How to Use the Simple Clock App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-19T18:54:53Z",
-    "hash": "6248def692cac6b5c7ebf294a3ddb7c3",
+    "updated_at": "2026-08-21T21:14:32Z",
+    "hash": "1536845ec3e05ae393aa5a0b564257ba",
     "file": "articles/how-to-use-the-simple-clock-app.md",
-    "openai_uploaded_hash": "6248def692cac6b5c7ebf294a3ddb7c3",
-    "openai_file_id": "file-VPqPn3qj9dkkGkMP65Hdt1"
+    "openai_uploaded_hash": "1536845ec3e05ae393aa5a0b564257ba",
+    "openai_file_id": "file-3o2wSoz6qtVztMwocbVQtw"
   },
   "22875592994195": {
     "slug": "how-to-integrate-api-and-publish-api-data-via-optisync",
@@ -723,10 +723,20 @@
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
     "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-    "updated_at": "2026-08-20T19:03:01Z",
-    "hash": "b3e3cd8ad4fb55e9a7c1332abfb51b9d",
+    "updated_at": "2026-08-21T18:40:48Z",
+    "hash": "694f274d50d8a23d8a3fa5819dfa9102",
     "file": "articles/how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
-    "openai_uploaded_hash": "b3e3cd8ad4fb55e9a7c1332abfb51b9d",
-    "openai_file_id": "file-EYmxbtS1Pft9hYMcs7Qs1Q"
+    "openai_uploaded_hash": "694f274d50d8a23d8a3fa5819dfa9102",
+    "openai_file_id": "file-TMWfHdq4rtH8HfjtX8c32D"
+  },
+  "18823504383891": {
+    "slug": "optisigns-getting-started-guide",
+    "title": "OptiSigns - Getting Started Guide",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+    "updated_at": "2026-08-21T05:37:19Z",
+    "hash": "5bf8864b59f3dec827c6fb02a4678d80",
+    "file": "articles/optisigns-getting-started-guide.md",
+    "openai_uploaded_hash": "5bf8864b59f3dec827c6fb02a4678d80",
+    "openai_file_id": "file-LFaVCLPsfM5H9L2LixsezP"
   }
 }
