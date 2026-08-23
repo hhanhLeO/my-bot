@@ -738,5 +738,15 @@
     "file": "articles/optisigns-getting-started-guide.md",
     "openai_uploaded_hash": "5bf8864b59f3dec827c6fb02a4678d80",
     "openai_file_id": "file-LFaVCLPsfM5H9L2LixsezP"
+  },
+  "360056087613": {
+    "slug": "how-to-clear-cache-on-your-fire-stick-device",
+    "title": "How to Clear Cache on Your Fire Stick device",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
+    "updated_at": "2026-08-22T13:10:02Z",
+    "hash": "2f4ec1cdf1e2acc4aeaf130f148db96a",
+    "file": "articles/how-to-clear-cache-on-your-fire-stick-device.md",
+    "openai_uploaded_hash": "2f4ec1cdf1e2acc4aeaf130f148db96a",
+    "openai_file_id": "file-QkdUL8zRUzvBQCMXRosz3x"
   }
 }
