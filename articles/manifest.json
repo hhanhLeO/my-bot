@@ -748,5 +748,15 @@
     "file": "articles/how-to-clear-cache-on-your-fire-stick-device.md",
     "openai_uploaded_hash": "2f4ec1cdf1e2acc4aeaf130f148db96a",
     "openai_file_id": "file-QkdUL8zRUzvBQCMXRosz3x"
+  },
+  "1500009937122": {
+    "slug": "resolve-autostart-issues-on-your-android-tv-devices",
+    "title": "Resolve Autostart issues on your Android TV devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
+    "updated_at": "2026-08-24T21:20:19Z",
+    "hash": "bd75b34bdb201d66b6a1f156f78618b9",
+    "file": "articles/resolve-autostart-issues-on-your-android-tv-devices.md",
+    "openai_uploaded_hash": "bd75b34bdb201d66b6a1f156f78618b9",
+    "openai_file_id": "file-3xkzTvzgFiBsLFQYZPnimL"
   }
 }
