@@ -758,5 +758,25 @@
     "file": "articles/resolve-autostart-issues-on-your-android-tv-devices.md",
     "openai_uploaded_hash": "bd75b34bdb201d66b6a1f156f78618b9",
     "openai_file_id": "file-3xkzTvzgFiBsLFQYZPnimL"
+  },
+  "360016174554": {
+    "slug": "amazon-firestick",
+    "title": "Amazon Firestick",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
+    "updated_at": "2026-08-25T22:35:02Z",
+    "hash": "98c86f2c2865aeb3ec3b39212841180d",
+    "file": "articles/amazon-firestick.md",
+    "openai_uploaded_hash": "98c86f2c2865aeb3ec3b39212841180d",
+    "openai_file_id": "file-9JnkUZR4B5qd7NWoES2hUV"
+  },
+  "31960461758611": {
+    "slug": "how-to-order-a-preconfigured-optisigns-android-stick",
+    "title": "How to Order a Preconfigured OptiSigns Android Stick",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+    "updated_at": "2026-08-25T21:52:40Z",
+    "hash": "41a2dd3f032584bcef2f7c70b1fd539d",
+    "file": "articles/how-to-order-a-preconfigured-optisigns-android-stick.md",
+    "openai_uploaded_hash": "41a2dd3f032584bcef2f7c70b1fd539d",
+    "openai_file_id": "file-GVMXqA5XfHX73Nhf3ChWnR"
   }
 }
