@@ -203,11 +203,11 @@
     "slug": "engage-plan-faqs",
     "title": "Engage Plan - FAQs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-06-29T19:25:18Z",
-    "hash": "61566bb2ca07429498a4e34c71c53a01",
+    "updated_at": "2026-08-27T17:21:45Z",
+    "hash": "669f6d3fc616807ed1423adef6c35a1e",
     "file": "articles/engage-plan-faqs.md",
-    "openai_uploaded_hash": "61566bb2ca07429498a4e34c71c53a01",
-    "openai_file_id": "file-Kqw4FwhHhVNWNjvB41egH3"
+    "openai_uploaded_hash": "669f6d3fc616807ed1423adef6c35a1e",
+    "openai_file_id": "file-7gExk4RFuEcBaJphE42di8"
   },
   "360042143753": {
     "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
@@ -293,11 +293,11 @@
     "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
     "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
     "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-    "updated_at": "2026-06-24T18:39:16Z",
-    "hash": "b710d60e8d4797c0debd4d7dda965ad6",
+    "updated_at": "2026-08-27T19:45:55Z",
+    "hash": "6ae98eb7626246331288e24c19ae8f2a",
     "file": "articles/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
-    "openai_uploaded_hash": "b710d60e8d4797c0debd4d7dda965ad6",
-    "openai_file_id": "file-UYfuinR26zeSd39wZRKb9P"
+    "openai_uploaded_hash": "6ae98eb7626246331288e24c19ae8f2a",
+    "openai_file_id": "file-F45fTEmNWMoLR7qVsu3XHu"
   },
   "6604468198291": {
     "slug": "how-to-use-the-cap-alert-app",
@@ -583,11 +583,11 @@
     "slug": "how-to-delete-your-account-from-optisigns",
     "title": "How to Delete Your Account from OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-08-10T11:48:19Z",
-    "hash": "f263a7e59155a7e159166b499eb4ed58",
+    "updated_at": "2026-08-27T15:33:20Z",
+    "hash": "41ded82837c9489bd613705ab638d337",
     "file": "articles/how-to-delete-your-account-from-optisigns.md",
-    "openai_uploaded_hash": "f263a7e59155a7e159166b499eb4ed58",
-    "openai_file_id": "file-Pg4m5RZZiqebAETXnZVb2a"
+    "openai_uploaded_hash": "41ded82837c9489bd613705ab638d337",
+    "openai_file_id": "file-Y5bBNJqCSzbNg7w4arLFNM"
   },
   "360039566974": {
     "slug": "how-to-install-optisigns-as-channel-app-on-roku",
