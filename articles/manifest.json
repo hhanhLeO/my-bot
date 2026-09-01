@@ -233,11 +233,11 @@
     "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
     "title": "How Can I Remove/Delete Uploaded Files or Assets?",
     "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-    "updated_at": "2026-06-26T20:54:46Z",
-    "hash": "e20e7f3f143213933aaa213f2753369a",
+    "updated_at": "2026-08-31T12:06:14Z",
+    "hash": "3709547417e2ac2d6b6fd8728cd87da4",
     "file": "articles/how-can-i-remove-delete-uploaded-files-or-assets.md",
-    "openai_uploaded_hash": "e20e7f3f143213933aaa213f2753369a",
-    "openai_file_id": "file-LtAvPsNp7JxeEmiRtmoKhg"
+    "openai_uploaded_hash": "3709547417e2ac2d6b6fd8728cd87da4",
+    "openai_file_id": "file-VKttKQutazDwGCuNgRPrd8"
   },
   "21708242980755": {
     "slug": "how-to-share-playlist-and-folder-with-external-users",
@@ -778,5 +778,15 @@
     "file": "articles/how-to-order-a-preconfigured-optisigns-android-stick.md",
     "openai_uploaded_hash": "41a2dd3f032584bcef2f7c70b1fd539d",
     "openai_file_id": "file-GVMXqA5XfHX73Nhf3ChWnR"
+  },
+  "4472060158355": {
+    "slug": "how-to-get-the-list-of-playlists-where-the-asset-is-used",
+    "title": "How to get the list of playlists where the asset is used",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
+    "updated_at": "2026-08-31T16:30:59Z",
+    "hash": "7bdf6d3d32e8f822cc05f036cabac144",
+    "file": "articles/how-to-get-the-list-of-playlists-where-the-asset-is-used.md",
+    "openai_uploaded_hash": "7bdf6d3d32e8f822cc05f036cabac144",
+    "openai_file_id": "file-LHvV3Q1JqkS26okeERSmVg"
   }
 }
