@@ -788,5 +788,15 @@
     "file": "articles/how-to-get-the-list-of-playlists-where-the-asset-is-used.md",
     "openai_uploaded_hash": "7bdf6d3d32e8f822cc05f036cabac144",
     "openai_file_id": "file-LHvV3Q1JqkS26okeERSmVg"
+  },
+  "360016375153": {
+    "slug": "assign-content-to-your-screens",
+    "title": "Assign content to your screens",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+    "updated_at": "2026-09-01T22:55:42Z",
+    "hash": "2ac4fbc6a10d45f2aa4094c61d90b177",
+    "file": "articles/assign-content-to-your-screens.md",
+    "openai_uploaded_hash": "2ac4fbc6a10d45f2aa4094c61d90b177",
+    "openai_file_id": "file-PQEW9dKnjL1tM5RZT9ReNj"
   }
 }
