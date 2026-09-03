@@ -23,11 +23,11 @@
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "title": "Whitelist OptiSigns IP addresses & ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-08-17T15:21:01Z",
-    "hash": "bae9046fb5f53f99dea01b9360ac1c98",
+    "updated_at": "2026-09-02T20:00:13Z",
+    "hash": "e25d78488c484e92437fe007c69af093",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "bae9046fb5f53f99dea01b9360ac1c98",
-    "openai_file_id": "file-MwRDbQJ1yQVDNF1bDDTLr1"
+    "openai_uploaded_hash": "e25d78488c484e92437fe007c69af093",
+    "openai_file_id": "file-8nSUMK5oEZKt1Yeqt8jmWj"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -798,5 +798,35 @@
     "file": "articles/assign-content-to-your-screens.md",
     "openai_uploaded_hash": "2ac4fbc6a10d45f2aa4094c61d90b177",
     "openai_file_id": "file-PQEW9dKnjL1tM5RZT9ReNj"
+  },
+  "30304278652563": {
+    "slug": "how-to-use-the-mobile-app-for-remote-control",
+    "title": "How to Use the Mobile App for Remote Control",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
+    "updated_at": "2026-09-02T20:41:23Z",
+    "hash": "ea2b488e64792bd8327ee8c52b5af8ba",
+    "file": "articles/how-to-use-the-mobile-app-for-remote-control.md",
+    "openai_uploaded_hash": "ea2b488e64792bd8327ee8c52b5af8ba",
+    "openai_file_id": "file-Kedr5UavcdAA2eSAgPpN5z"
+  },
+  "360048914673": {
+    "slug": "edit-screen-what-does-each-option-do",
+    "title": "Edit Screen: What does each option do?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+    "updated_at": "2026-09-02T20:33:01Z",
+    "hash": "e223cf975985cc4cb01709b1185a1566",
+    "file": "articles/edit-screen-what-does-each-option-do.md",
+    "openai_uploaded_hash": "e223cf975985cc4cb01709b1185a1566",
+    "openai_file_id": "file-YL1YjfQ99FdjTXRV7Hte87"
+  },
+  "12498801963027": {
+    "slug": "show-offline-indicator-feature",
+    "title": "Show Offline Indicator feature",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
+    "updated_at": "2026-09-02T15:47:19Z",
+    "hash": "a17d78c55b352c3195fcff5c0486ab77",
+    "file": "articles/show-offline-indicator-feature.md",
+    "openai_uploaded_hash": "a17d78c55b352c3195fcff5c0486ab77",
+    "openai_file_id": "file-Kk5ksSy8QvfEnTVSsoVa5i"
   }
 }
