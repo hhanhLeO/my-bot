@@ -23,11 +23,11 @@
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "title": "Whitelist OptiSigns IP addresses & ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-02T20:00:13Z",
-    "hash": "e25d78488c484e92437fe007c69af093",
+    "updated_at": "2026-09-03T14:57:04Z",
+    "hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "e25d78488c484e92437fe007c69af093",
-    "openai_file_id": "file-8nSUMK5oEZKt1Yeqt8jmWj"
+    "openai_uploaded_hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
+    "openai_file_id": "file-9VPdQtGdHeNKwd7XmeC1H7"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -203,11 +203,11 @@
     "slug": "engage-plan-faqs",
     "title": "Engage Plan - FAQs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-08-27T17:21:45Z",
-    "hash": "669f6d3fc616807ed1423adef6c35a1e",
+    "updated_at": "2026-09-03T14:57:02Z",
+    "hash": "b915f6d28a1804eb35abcf1ccbf30c4f",
     "file": "articles/engage-plan-faqs.md",
-    "openai_uploaded_hash": "669f6d3fc616807ed1423adef6c35a1e",
-    "openai_file_id": "file-7gExk4RFuEcBaJphE42di8"
+    "openai_uploaded_hash": "b915f6d28a1804eb35abcf1ccbf30c4f",
+    "openai_file_id": "file-MNcBUdbQWiyWVZowRyNX28"
   },
   "360042143753": {
     "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
@@ -443,11 +443,11 @@
     "slug": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app",
     "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
     "url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-    "updated_at": "2026-07-21T05:24:44Z",
-    "hash": "3f98a59dd892da57800664a6cba1ab77",
+    "updated_at": "2026-09-03T14:57:05Z",
+    "hash": "a5e81af3f2f58b81646dc3829d62cee7",
     "file": "articles/how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
-    "openai_uploaded_hash": "3f98a59dd892da57800664a6cba1ab77",
-    "openai_file_id": "file-ShJWe2KbrzjmFiG2es4Tse"
+    "openai_uploaded_hash": "a5e81af3f2f58b81646dc3829d62cee7",
+    "openai_file_id": "file-7dDbMsTUeDfKSmJxQkKfbs"
   },
   "360034883113": {
     "slug": "working-with-teams-and-security-levels",
@@ -828,5 +828,45 @@
     "file": "articles/show-offline-indicator-feature.md",
     "openai_uploaded_hash": "a17d78c55b352c3195fcff5c0486ab77",
     "openai_file_id": "file-Kk5ksSy8QvfEnTVSsoVa5i"
+  },
+  "29465595849235": {
+    "slug": "list-of-supported-cities-for-weather-wall-city-themes",
+    "title": "List of Supported Cities for Weather Wall City Themes",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "updated_at": "2026-09-03T16:49:43Z",
+    "hash": "e001af4fe4e64169953a9825725297f4",
+    "file": "articles/list-of-supported-cities-for-weather-wall-city-themes.md",
+    "openai_uploaded_hash": "e001af4fe4e64169953a9825725297f4",
+    "openai_file_id": "file-XvQGjiE1i58ftwp7mcfGUA"
+  },
+  "33940834613139": {
+    "slug": "what-do-i-get-with-an-optisigns-free-plan",
+    "title": "What Do I Get With an OptiSigns Free Plan?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "updated_at": "2026-09-03T14:57:58Z",
+    "hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
+    "file": "articles/what-do-i-get-with-an-optisigns-free-plan.md",
+    "openai_uploaded_hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
+    "openai_file_id": "file-7ndF2V89YdWe2MBh2xpKsS"
+  },
+  "9169378546195": {
+    "slug": "data-residency-and-optisigns",
+    "title": "Data Residency and OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+    "updated_at": "2026-09-03T14:57:01Z",
+    "hash": "eeb3b609b14df38cefa7330972c417c8",
+    "file": "articles/data-residency-and-optisigns.md",
+    "openai_uploaded_hash": "eeb3b609b14df38cefa7330972c417c8",
+    "openai_file_id": "file-CKhDs6E3twoFyW1rdpFaGn"
+  },
+  "360035739414": {
+    "slug": "how-to-preview-a-screen",
+    "title": "How to Preview a Screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+    "updated_at": "2026-09-03T10:41:51Z",
+    "hash": "5d8788a1f0d5fdad04dac6292583a5bb",
+    "file": "articles/how-to-preview-a-screen.md",
+    "openai_uploaded_hash": "5d8788a1f0d5fdad04dac6292583a5bb",
+    "openai_file_id": "file-XWZv1y1Ebcj6zbvLWcP7q6"
   }
 }
