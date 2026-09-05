@@ -71,13 +71,13 @@
   },
   "360051014713": {
     "slug": "how-to-use-youtube-with-optisigns",
-    "title": "How to use YouTube with OptiSigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "updated_at": "2026-07-08T15:01:25Z",
-    "hash": "1dea2369e050e7a80a08916535bf24df",
+    "title": "How to Use YouTube with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+    "updated_at": "2026-09-04T20:47:35Z",
+    "hash": "f1cf93290e1d4d556606469157f057bc",
     "file": "articles/how-to-use-youtube-with-optisigns.md",
-    "openai_uploaded_hash": "1dea2369e050e7a80a08916535bf24df",
-    "openai_file_id": "file-6phxUgV1Yk8v42JzMYYcxt"
+    "openai_uploaded_hash": "f1cf93290e1d4d556606469157f057bc",
+    "openai_file_id": "file-DTLJ3WmrvZeDv47mSsrGwG"
   },
   "52113036672403": {
     "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
@@ -413,11 +413,11 @@
     "slug": "making-a-video-wall-with-optisigns-video-wall-app",
     "title": "Making a Video Wall with OptiSigns (Video Wall App)",
     "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "updated_at": "2026-07-17T16:59:32Z",
-    "hash": "56efa4cf0636ac95e9540dd33cfe0dda",
+    "updated_at": "2026-09-04T16:24:39Z",
+    "hash": "7ca5205f73bb1b52583e6893858d6d1f",
     "file": "articles/making-a-video-wall-with-optisigns-video-wall-app.md",
-    "openai_uploaded_hash": "56efa4cf0636ac95e9540dd33cfe0dda",
-    "openai_file_id": "file-8yHbt7bxuqvbnzKcH8ztRF"
+    "openai_uploaded_hash": "7ca5205f73bb1b52583e6893858d6d1f",
+    "openai_file_id": "file-RrcjR7XYCa65nGQGAZ2uM3"
   },
   "360016380053": {
     "slug": "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick",
@@ -603,11 +603,11 @@
     "slug": "about-the-onhold-devices-folder",
     "title": "About the OnHold Devices Folder",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-08-11T22:01:43Z",
-    "hash": "b9b8b23e65c7f3e92efda86f3b1c43b3",
+    "updated_at": "2026-09-04T16:45:10Z",
+    "hash": "b49e69f2b6f7377d4674ca4b1c359a1e",
     "file": "articles/about-the-onhold-devices-folder.md",
-    "openai_uploaded_hash": "b9b8b23e65c7f3e92efda86f3b1c43b3",
-    "openai_file_id": "file-Q9anvfe78MNTGsoDoMUZDz"
+    "openai_uploaded_hash": "b49e69f2b6f7377d4674ca4b1c359a1e",
+    "openai_file_id": "file-JyWggyvE1t1tX2MnYNTLGo"
   },
   "42526907045651": {
     "slug": "photos-gifs-and-qr-codes-in-designer",
@@ -868,5 +868,45 @@
     "file": "articles/how-to-preview-a-screen.md",
     "openai_uploaded_hash": "5d8788a1f0d5fdad04dac6292583a5bb",
     "openai_file_id": "file-XWZv1y1Ebcj6zbvLWcP7q6"
+  },
+  "1500006130902": {
+    "slug": "how-to-use-the-live-tv-with-ads-app",
+    "title": "How to Use the Live TV with Ads App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
+    "updated_at": "2026-09-04T18:30:12Z",
+    "hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
+    "file": "articles/how-to-use-the-live-tv-with-ads-app.md",
+    "openai_uploaded_hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
+    "openai_file_id": "file-RwujbvezhWiEJm9doyjuHs"
+  },
+  "38680194603155": {
+    "slug": "promax",
+    "title": "ProMax",
+    "url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
+    "updated_at": "2026-09-04T16:55:12Z",
+    "hash": "359b5708e64fb4ae84b7b1fc9528af54",
+    "file": "articles/promax.md",
+    "openai_uploaded_hash": "359b5708e64fb4ae84b7b1fc9528af54",
+    "openai_file_id": "file-FJZrZks4V3ekLm8En3rYcS"
+  },
+  "32272215514131": {
+    "slug": "proplayer",
+    "title": "ProPlayer",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
+    "updated_at": "2026-09-04T16:24:05Z",
+    "hash": "9462a7eaf40ca4f4fb8ce7fd3a4add2c",
+    "file": "articles/proplayer.md",
+    "openai_uploaded_hash": "9462a7eaf40ca4f4fb8ce7fd3a4add2c",
+    "openai_file_id": "file-G8HKKDaut6NPGXPFsg8J2J"
+  },
+  "20425113117459": {
+    "slug": "navigating-through-optisigns-template-library",
+    "title": "Navigating Through OptiSigns' Template Library",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
+    "updated_at": "2026-09-04T09:52:58Z",
+    "hash": "4149a2c0aaa4cfad66e0b201dffb7dac",
+    "file": "articles/navigating-through-optisigns-template-library.md",
+    "openai_uploaded_hash": "4149a2c0aaa4cfad66e0b201dffb7dac",
+    "openai_file_id": "file-71qaJHNH1AcnobMfqcLWWf"
   }
 }
