@@ -908,5 +908,15 @@
     "file": "articles/navigating-through-optisigns-template-library.md",
     "openai_uploaded_hash": "4149a2c0aaa4cfad66e0b201dffb7dac",
     "openai_file_id": "file-71qaJHNH1AcnobMfqcLWWf"
+  },
+  "31860170199955": {
+    "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
+    "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
+    "updated_at": "2026-09-07T01:18:36Z",
+    "hash": "662bd9aff99df15dc67aea7e30474c97",
+    "file": "articles/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
+    "openai_uploaded_hash": "662bd9aff99df15dc67aea7e30474c97",
+    "openai_file_id": "file-NbGTNkvKPtBXutFUR1KBSL"
   }
 }
