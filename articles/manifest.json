@@ -203,11 +203,11 @@
     "slug": "engage-plan-faqs",
     "title": "Engage Plan - FAQs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-09-03T14:57:02Z",
-    "hash": "b915f6d28a1804eb35abcf1ccbf30c4f",
+    "updated_at": "2026-09-08T04:06:22Z",
+    "hash": "ff59a31e3972ce1813170561c3232569",
     "file": "articles/engage-plan-faqs.md",
-    "openai_uploaded_hash": "b915f6d28a1804eb35abcf1ccbf30c4f",
-    "openai_file_id": "file-MNcBUdbQWiyWVZowRyNX28"
+    "openai_uploaded_hash": "ff59a31e3972ce1813170561c3232569",
+    "openai_file_id": "file-8NVcbHyAMYM7HrxPAjt2Ju"
   },
   "360042143753": {
     "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
@@ -583,11 +583,11 @@
     "slug": "how-to-delete-your-account-from-optisigns",
     "title": "How to Delete Your Account from OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-08-27T15:33:20Z",
-    "hash": "41ded82837c9489bd613705ab638d337",
+    "updated_at": "2026-09-07T08:42:16Z",
+    "hash": "b7f66a971541b40f8e4013f86eea48ef",
     "file": "articles/how-to-delete-your-account-from-optisigns.md",
-    "openai_uploaded_hash": "41ded82837c9489bd613705ab638d337",
-    "openai_file_id": "file-Y5bBNJqCSzbNg7w4arLFNM"
+    "openai_uploaded_hash": "b7f66a971541b40f8e4013f86eea48ef",
+    "openai_file_id": "file-3nDUo9KdkkrNYUCcYBE3TK"
   },
   "360039566974": {
     "slug": "how-to-install-optisigns-as-channel-app-on-roku",
@@ -843,11 +843,11 @@
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-09-03T14:57:58Z",
-    "hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
+    "updated_at": "2026-09-07T09:51:00Z",
+    "hash": "ba52d0630801099acd80f9e8068d110e",
     "file": "articles/what-do-i-get-with-an-optisigns-free-plan.md",
-    "openai_uploaded_hash": "b34bd1df661d18dd75a4d50e1e3c67fe",
-    "openai_file_id": "file-7ndF2V89YdWe2MBh2xpKsS"
+    "openai_uploaded_hash": "ba52d0630801099acd80f9e8068d110e",
+    "openai_file_id": "file-FkhzwMDFSu4JZH8na4Nopz"
   },
   "9169378546195": {
     "slug": "data-residency-and-optisigns",
@@ -873,11 +873,11 @@
     "slug": "how-to-use-the-live-tv-with-ads-app",
     "title": "How to Use the Live TV with Ads App",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
-    "updated_at": "2026-09-04T18:30:12Z",
-    "hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
+    "updated_at": "2026-09-07T09:04:05Z",
+    "hash": "c09e4f21259d26280a93c8d76b7c1ab0",
     "file": "articles/how-to-use-the-live-tv-with-ads-app.md",
-    "openai_uploaded_hash": "b98e1b19e8fc86aa106e6afb0fc884e7",
-    "openai_file_id": "file-RwujbvezhWiEJm9doyjuHs"
+    "openai_uploaded_hash": "c09e4f21259d26280a93c8d76b7c1ab0",
+    "openai_file_id": "file-KvTLv3xdjj8EDCeLKnPTMA"
   },
   "38680194603155": {
     "slug": "promax",
@@ -918,5 +918,35 @@
     "file": "articles/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
     "openai_uploaded_hash": "662bd9aff99df15dc67aea7e30474c97",
     "openai_file_id": "file-NbGTNkvKPtBXutFUR1KBSL"
+  },
+  "360060049534": {
+    "slug": "how-to-export-high-resolution-canvas-template-designs",
+    "title": "How to export high resolution canvas, template designs",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
+    "updated_at": "2026-09-08T04:06:29Z",
+    "hash": "1dd8acf7e08b453c88966ef606faa0b3",
+    "file": "articles/how-to-export-high-resolution-canvas-template-designs.md",
+    "openai_uploaded_hash": "1dd8acf7e08b453c88966ef606faa0b3",
+    "openai_file_id": "file-5E2g8CFCdKFpDJHDSRGc5g"
+  },
+  "4404616314515": {
+    "slug": "how-to-change-account-owners",
+    "title": "How to Change Account Owners",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+    "updated_at": "2026-09-07T10:13:21Z",
+    "hash": "85cf4344ce84ae0e85c3c2d7c4fe696c",
+    "file": "articles/how-to-change-account-owners.md",
+    "openai_uploaded_hash": "85cf4344ce84ae0e85c3c2d7c4fe696c",
+    "openai_file_id": "file-DvQyuRknVy4ubqGqQ43VGp"
+  },
+  "4417940565139": {
+    "slug": "how-to-display-microsoft-teams-on-optisigns",
+    "title": "How to display Microsoft Teams on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
+    "updated_at": "2026-09-07T09:37:05Z",
+    "hash": "2995e407205495b89871ab63d7b5b9cb",
+    "file": "articles/how-to-display-microsoft-teams-on-optisigns.md",
+    "openai_uploaded_hash": "2995e407205495b89871ab63d7b5b9cb",
+    "openai_file_id": "file-1FjQRHzURW83P1PFobTsi7"
   }
 }
