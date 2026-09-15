@@ -1558,5 +1558,95 @@
     "file": "articles/tutorial-create-update-add-remove-items-from-playlists.md",
     "openai_uploaded_hash": "16a2633b88f5b635e9382d0b2adce395",
     "openai_file_id": "file-Fc5Fp5UZzMYS1UmVGLujj2"
+  },
+  "4409673381011": {
+    "slug": "how-to-use-the-emergency-feed-app",
+    "title": "How to Use the Emergency Feed App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
+    "updated_at": "2026-09-14T21:00:39Z",
+    "hash": "a51f0a0be37df3b58742a20bd5d5279f",
+    "file": "articles/how-to-use-the-emergency-feed-app.md",
+    "openai_uploaded_hash": "a51f0a0be37df3b58742a20bd5d5279f",
+    "openai_file_id": "file-JsBqjEXaREVpzq1SPfxsZX"
+  },
+  "1500009492202": {
+    "slug": "how-to-use-the-on-this-day-app",
+    "title": "How to Use the On This Day App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
+    "updated_at": "2026-09-14T20:35:04Z",
+    "hash": "4287944f5070e8aae2029b056b8a56a6",
+    "file": "articles/how-to-use-the-on-this-day-app.md",
+    "openai_uploaded_hash": "4287944f5070e8aae2029b056b8a56a6",
+    "openai_file_id": "file-Hu5WBEhyPYCK8dTFSktPuo"
+  },
+  "9061950942995": {
+    "slug": "using-rs232-to-schedule-tv-power-on-off-or-other-commands",
+    "title": "Using RS232 to Schedule TV Power On/Off or other commands",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
+    "updated_at": "2026-09-14T20:13:11Z",
+    "hash": "6a92add5c524b2709929ab8cb6fb2d4a",
+    "file": "articles/using-rs232-to-schedule-tv-power-on-off-or-other-commands.md",
+    "openai_uploaded_hash": "6a92add5c524b2709929ab8cb6fb2d4a",
+    "openai_file_id": "file-U1qhyFurpjxaZDtxKaJfXi"
+  },
+  "13097501958291": {
+    "slug": "optisigns-iot-sensor-add-on-quick-start",
+    "title": "OptiSigns IoT Sensor Add-on - Quick Start",
+    "url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
+    "updated_at": "2026-09-14T18:49:07Z",
+    "hash": "c33d236b74dab8865cceb6d35561d532",
+    "file": "articles/optisigns-iot-sensor-add-on-quick-start.md",
+    "openai_uploaded_hash": "c33d236b74dab8865cceb6d35561d532",
+    "openai_file_id": "file-PDb6uKxZa24G5KBnfFH1Fe"
+  },
+  "360059386254": {
+    "slug": "how-to-use-the-youtube-playlist-app-with-optisigns",
+    "title": "How to Use the YouTube Playlist App with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
+    "updated_at": "2026-09-14T18:47:59Z",
+    "hash": "d7334f215d1d8e37185d3c9f4c77f3ef",
+    "file": "articles/how-to-use-the-youtube-playlist-app-with-optisigns.md",
+    "openai_uploaded_hash": "d7334f215d1d8e37185d3c9f4c77f3ef",
+    "openai_file_id": "file-STyqMmBvSS3NCB5mnjWv9b"
+  },
+  "16364134190355": {
+    "slug": "how-to-use-streaming-app-with-optisigns",
+    "title": "How to use Streaming App with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
+    "updated_at": "2026-09-14T16:05:11Z",
+    "hash": "94e3fe11fc5a61d9f5653831409847f0",
+    "file": "articles/how-to-use-streaming-app-with-optisigns.md",
+    "openai_uploaded_hash": "94e3fe11fc5a61d9f5653831409847f0",
+    "openai_file_id": "file-9Pp5X7aqXM8wQGZbaa9eKs"
+  },
+  "28295074995859": {
+    "slug": "how-to-manage-and-edit-your-playlist-settings",
+    "title": "How to Manage and Edit Your Playlist Settings",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+    "updated_at": "2026-09-14T16:01:05Z",
+    "hash": "eae739612d08bd58bf1c26e539d8e84b",
+    "file": "articles/how-to-manage-and-edit-your-playlist-settings.md",
+    "openai_uploaded_hash": "eae739612d08bd58bf1c26e539d8e84b",
+    "openai_file_id": "file-9pzartmnwXE8NDRum9rBUK"
+  },
+  "13320135306515": {
+    "slug": "build-integrations-using-the-optisigns-enterprise-app",
+    "title": "Build Integrations Using the OptiSigns Enterprise App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+    "updated_at": "2026-09-14T15:53:06Z",
+    "hash": "8a7209026e01c6fa179075bb727485aa",
+    "file": "articles/build-integrations-using-the-optisigns-enterprise-app.md",
+    "openai_uploaded_hash": "8a7209026e01c6fa179075bb727485aa",
+    "openai_file_id": "file-WnY1UjB2VPdsq1PVsmAhi1"
+  },
+  "360051014773": {
+    "slug": "show-youtube-video-s-subtitle-closed-caption",
+    "title": "Show YouTube video's subtitle/closed caption",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
+    "updated_at": "2026-09-14T11:06:00Z",
+    "hash": "f5c52a78ce1af4d8f2417249f25ebc5b",
+    "file": "articles/show-youtube-video-s-subtitle-closed-caption.md",
+    "openai_uploaded_hash": "f5c52a78ce1af4d8f2417249f25ebc5b",
+    "openai_file_id": "file-LAUcY8FHrxYUukUrGqBy7e"
   }
 }
