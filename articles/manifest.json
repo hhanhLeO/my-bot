@@ -1648,5 +1648,65 @@
     "file": "articles/show-youtube-video-s-subtitle-closed-caption.md",
     "openai_uploaded_hash": "f5c52a78ce1af4d8f2417249f25ebc5b",
     "openai_file_id": "file-LAUcY8FHrxYUukUrGqBy7e"
+  },
+  "360050664913": {
+    "slug": "how-to-use-google-trends-app",
+    "title": "How to use Google Trends App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
+    "updated_at": "2026-09-16T03:55:59Z",
+    "hash": "edad94bffc99d5d158c4c70d3b6517db",
+    "file": "articles/how-to-use-google-trends-app.md",
+    "openai_uploaded_hash": "edad94bffc99d5d158c4c70d3b6517db",
+    "openai_file_id": "file-YEvpFDNCim4CS38jsauUs1"
+  },
+  "55450681344915": {
+    "slug": "connect-sharepoint-news-to-optisigns-digital-signage",
+    "title": "Connect SharePoint News to OptiSigns Digital Signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-09-15T23:09:01Z",
+    "hash": "c09a8beea924b1bcba423c8954b033a5",
+    "file": "articles/connect-sharepoint-news-to-optisigns-digital-signage.md",
+    "openai_uploaded_hash": "c09a8beea924b1bcba423c8954b033a5",
+    "openai_file_id": "file-WaaVGN49er6KqRQY2Qu9zx"
+  },
+  "55416186918163": {
+    "slug": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast",
+    "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "updated_at": "2026-09-15T17:33:06Z",
+    "hash": "e5906b906115a823967c94786a50e4e6",
+    "file": "articles/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+    "openai_uploaded_hash": "e5906b906115a823967c94786a50e4e6",
+    "openai_file_id": "file-YFb92LaKM9md5BAUx8s4YY"
+  },
+  "55416185869331": {
+    "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
+    "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "updated_at": "2026-09-15T15:34:23Z",
+    "hash": "6902b63232f8a44b9d9c4c7c12600402",
+    "file": "articles/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+    "openai_uploaded_hash": "6902b63232f8a44b9d9c4c7c12600402",
+    "openai_file_id": "file-KMnop3MbV4pkUKLU53pxGi"
+  },
+  "360056977214": {
+    "slug": "how-to-use-google-sheets-with-optisigns",
+    "title": "How to use Google Sheets with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
+    "updated_at": "2026-09-15T14:05:54Z",
+    "hash": "705c20d4413f4b8cea66ba2c84241b95",
+    "file": "articles/how-to-use-google-sheets-with-optisigns.md",
+    "openai_uploaded_hash": "705c20d4413f4b8cea66ba2c84241b95",
+    "openai_file_id": "file-XygAnBmHfhwckQTGuotX4Y"
+  },
+  "360047499893": {
+    "slug": "how-to-use-google-traffic-app",
+    "title": "How to use Google Traffic App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
+    "updated_at": "2026-09-15T11:32:26Z",
+    "hash": "acf9e4f2fcf2d29d1a607b62a71c81c3",
+    "file": "articles/how-to-use-google-traffic-app.md",
+    "openai_uploaded_hash": "acf9e4f2fcf2d29d1a607b62a71c81c3",
+    "openai_file_id": "file-6td4cf8EmNHnk8B8Cng99w"
   }
 }
