@@ -23,11 +23,11 @@
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "title": "Whitelist OptiSigns IP addresses & ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-03T14:57:04Z",
-    "hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
+    "updated_at": "2026-09-17T05:36:01Z",
+    "hash": "f73863a3be02100860d616c658d0e54d",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "7e43e51f2a14d09fa8a9eab32f6ea49a",
-    "openai_file_id": "file-9VPdQtGdHeNKwd7XmeC1H7"
+    "openai_uploaded_hash": "f73863a3be02100860d616c658d0e54d",
+    "openai_file_id": "file-LsXjcUypU5XW1xbh6xbLEb"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -1708,5 +1708,25 @@
     "file": "articles/how-to-use-google-traffic-app.md",
     "openai_uploaded_hash": "acf9e4f2fcf2d29d1a607b62a71c81c3",
     "openai_file_id": "file-6td4cf8EmNHnk8B8Cng99w"
+  },
+  "10159088954387": {
+    "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
+    "title": "How to put Live TV on your screens with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
+    "updated_at": "2026-09-17T05:00:57Z",
+    "hash": "4582494d79d6fdc98961dc01afd9a051",
+    "file": "articles/how-to-put-live-tv-on-your-screens-with-optisigns.md",
+    "openai_uploaded_hash": "4582494d79d6fdc98961dc01afd9a051",
+    "openai_file_id": "file-5iWbfhaVfeBcABHG4i7wqa"
+  },
+  "360016833514": {
+    "slug": "changing-screen-s-orientation-portrait-landscape",
+    "title": "Changing screen's orientation (portrait & landscape)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
+    "updated_at": "2026-09-17T04:18:56Z",
+    "hash": "97622a94951e796450d8436a274f8f3d",
+    "file": "articles/changing-screen-s-orientation-portrait-landscape.md",
+    "openai_uploaded_hash": "97622a94951e796450d8436a274f8f3d",
+    "openai_file_id": "file-C3GysMZLdhGnesaVvjeDi3"
   }
 }
