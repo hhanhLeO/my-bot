@@ -1738,5 +1738,55 @@
     "file": "articles/how-to-create-and-use-virtual-screen-app.md",
     "openai_uploaded_hash": "00c7951b5621c23b9a0728438ce12bbe",
     "openai_file_id": "file-6zWiHPuCVcP488bWSGBDWR"
+  },
+  "4403332894867": {
+    "slug": "setting-up-audit-logging",
+    "title": "Setting Up Audit Logging",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+    "updated_at": "2026-09-21T20:44:11Z",
+    "hash": "0a1364288797cfa80b22d20fbcdb7c09",
+    "file": "articles/setting-up-audit-logging.md",
+    "openai_uploaded_hash": "0a1364288797cfa80b22d20fbcdb7c09",
+    "openai_file_id": "file-EoX7esUF5rwNJVJUwyJ1PB"
+  },
+  "55640830295187": {
+    "slug": "using-the-japan-transit-app",
+    "title": "Using the Japan Transit App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+    "updated_at": "2026-09-21T20:41:52Z",
+    "hash": "1ff31268b6ffdd66d965c02500f66d5b",
+    "file": "articles/using-the-japan-transit-app.md",
+    "openai_uploaded_hash": "1ff31268b6ffdd66d965c02500f66d5b",
+    "openai_file_id": "file-B6hZGvXkAoDkNqjxXXyY8F"
+  },
+  "31695220475283": {
+    "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
+    "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
+    "updated_at": "2026-09-21T19:42:14Z",
+    "hash": "f76ba278e9104897cf8ba101a9bdb31f",
+    "file": "articles/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
+    "openai_uploaded_hash": "f76ba278e9104897cf8ba101a9bdb31f",
+    "openai_file_id": "file-Rbxt45FaVn7eXZur35b74a"
+  },
+  "4411762539027": {
+    "slug": "multilingual-and-multi-currency-options",
+    "title": "Multilingual and Multi-Currency Options",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+    "updated_at": "2026-09-21T17:51:53Z",
+    "hash": "548a5d0539237ff45bf2dad6e501f1a9",
+    "file": "articles/multilingual-and-multi-currency-options.md",
+    "openai_uploaded_hash": "548a5d0539237ff45bf2dad6e501f1a9",
+    "openai_file_id": "file-PLJs3cZJkx9PN5vSuB27SL"
+  },
+  "35577511423635": {
+    "slug": "optisigns-pro-player-advanced-features",
+    "title": "OptiSigns Pro Player Advanced Features",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
+    "updated_at": "2026-09-21T15:11:34Z",
+    "hash": "0888663d1a6807cb039d9d488a13b021",
+    "file": "articles/optisigns-pro-player-advanced-features.md",
+    "openai_uploaded_hash": "0888663d1a6807cb039d9d488a13b021",
+    "openai_file_id": "file-QQgEW2518MRutjyEWV4xx6"
   }
 }
