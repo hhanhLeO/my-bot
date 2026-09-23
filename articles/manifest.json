@@ -1523,11 +1523,11 @@
     "slug": "how-to-use-the-local-folder-app-in-optisigns",
     "title": "How to Use the Local Folder App in OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-    "updated_at": "2026-09-11T11:30:23Z",
-    "hash": "4b0b0bfc24a984c1392cf0b6938ee6a3",
+    "updated_at": "2026-09-22T15:01:01Z",
+    "hash": "3c62cd7de0e95b0ba46638b6eeb3ddbf",
     "file": "articles/how-to-use-the-local-folder-app-in-optisigns.md",
-    "openai_uploaded_hash": "4b0b0bfc24a984c1392cf0b6938ee6a3",
-    "openai_file_id": "file-Li4pzjfP933gkRhe9GEfDY"
+    "openai_uploaded_hash": "3c62cd7de0e95b0ba46638b6eeb3ddbf",
+    "openai_file_id": "file-61M9repxuT22TeKU44a6Tm"
   },
   "20879903340947": {
     "slug": "how-to-use-content-tags-in-the-playlist",
@@ -1788,5 +1788,35 @@
     "file": "articles/optisigns-pro-player-advanced-features.md",
     "openai_uploaded_hash": "0888663d1a6807cb039d9d488a13b021",
     "openai_file_id": "file-QQgEW2518MRutjyEWV4xx6"
+  },
+  "55669121864979": {
+    "slug": "using-the-flight-schedule-app",
+    "title": "Using the Flight Schedule App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
+    "updated_at": "2026-09-22T18:59:24Z",
+    "hash": "cf689a0e3dd9ec70e0779176e5b00b7c",
+    "file": "articles/using-the-flight-schedule-app.md",
+    "openai_uploaded_hash": "cf689a0e3dd9ec70e0779176e5b00b7c",
+    "openai_file_id": "file-JkhFgWZAtcHGvkbbhk69xf"
+  },
+  "55447693635731": {
+    "slug": "how-to-display-grafana-dashboards-on-optisigns",
+    "title": "How to Display Grafana Dashboards on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+    "updated_at": "2026-09-22T14:14:49Z",
+    "hash": "cdfdb4987320c067f8348e6935f0bded",
+    "file": "articles/how-to-display-grafana-dashboards-on-optisigns.md",
+    "openai_uploaded_hash": "cdfdb4987320c067f8348e6935f0bded",
+    "openai_file_id": "file-VtVDXm49rPbRHC14F2DcfU"
+  },
+  "360048660813": {
+    "slug": "how-to-use-facebook-live-stream-app",
+    "title": "How to use Facebook Live Stream App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
+    "updated_at": "2026-09-22T09:12:00Z",
+    "hash": "2da13fd23ddb50a3d70425eb93c77c3f",
+    "file": "articles/how-to-use-facebook-live-stream-app.md",
+    "openai_uploaded_hash": "2da13fd23ddb50a3d70425eb93c77c3f",
+    "openai_file_id": "file-E47cUM4izDEidSJA9iMjLw"
   }
 }
