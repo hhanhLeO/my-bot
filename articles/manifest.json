@@ -1683,11 +1683,11 @@
     "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
     "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
     "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-    "updated_at": "2026-09-15T15:34:23Z",
-    "hash": "6902b63232f8a44b9d9c4c7c12600402",
+    "updated_at": "2026-09-23T16:24:51Z",
+    "hash": "770d35282495118c9d296303250d673b",
     "file": "articles/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
-    "openai_uploaded_hash": "6902b63232f8a44b9d9c4c7c12600402",
-    "openai_file_id": "file-KMnop3MbV4pkUKLU53pxGi"
+    "openai_uploaded_hash": "770d35282495118c9d296303250d673b",
+    "openai_file_id": "file-2hoEvMdFubR2izFVnEXopn"
   },
   "360056977214": {
     "slug": "how-to-use-google-sheets-with-optisigns",
@@ -1818,5 +1818,25 @@
     "file": "articles/how-to-use-facebook-live-stream-app.md",
     "openai_uploaded_hash": "2da13fd23ddb50a3d70425eb93c77c3f",
     "openai_file_id": "file-E47cUM4izDEidSJA9iMjLw"
+  },
+  "55709616003219": {
+    "slug": "using-the-x-social-app-add-on",
+    "title": "Using the X Social App / Add-On",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+    "updated_at": "2026-09-23T19:58:50Z",
+    "hash": "6bf965810cd0a224e73fff56be426aa5",
+    "file": "articles/using-the-x-social-app-add-on.md",
+    "openai_uploaded_hash": "6bf965810cd0a224e73fff56be426aa5",
+    "openai_file_id": "file-Em3MpDGCkvksPJmEeLL1gE"
+  },
+  "32129032857875": {
+    "slug": "where-to-buy-optisigns-devices",
+    "title": "Where to Buy OptiSigns Devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+    "updated_at": "2026-09-23T19:17:01Z",
+    "hash": "77df5828accf85085a7f81d65abc799a",
+    "file": "articles/where-to-buy-optisigns-devices.md",
+    "openai_uploaded_hash": "77df5828accf85085a7f81d65abc799a",
+    "openai_file_id": "file-1Uqnom5wUPksEaHJVnR3Sg"
   }
 }
