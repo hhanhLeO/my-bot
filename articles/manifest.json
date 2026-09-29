@@ -643,11 +643,11 @@
     "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
     "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "updated_at": "2026-08-13T15:38:13Z",
-    "hash": "48365c9f945268e7c507751e5c055fb8",
+    "updated_at": "2026-09-28T20:24:16Z",
+    "hash": "63b4c08ab0b42c21422fa07c2f4c6e0e",
     "file": "articles/how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
-    "openai_uploaded_hash": "48365c9f945268e7c507751e5c055fb8",
-    "openai_file_id": "file-QY6XkpB4cBFC4Ux56a4q7u"
+    "openai_uploaded_hash": "63b4c08ab0b42c21422fa07c2f4c6e0e",
+    "openai_file_id": "file-G7XKexf3emuA4fz8BGkwcw"
   },
   "360042950593": {
     "slug": "how-to-use-the-simple-clock-app",
@@ -1848,5 +1848,55 @@
     "file": "articles/inbound-webhook-datasources-in-designer.md",
     "openai_uploaded_hash": "d4dac151e35c9a9c913da02f4c4e04f2",
     "openai_file_id": "file-6y9R6DHzQsTAzQeTDJbVxb"
+  },
+  "23566927217939": {
+    "slug": "how-to-use-check-in-app-with-sms-follow-up",
+    "title": "How to use Check-in app with SMS follow up",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
+    "updated_at": "2026-09-28T22:24:04Z",
+    "hash": "92e410b708378b918150d038abd2318b",
+    "file": "articles/how-to-use-check-in-app-with-sms-follow-up.md",
+    "openai_uploaded_hash": "92e410b708378b918150d038abd2318b",
+    "openai_file_id": "file-8zCCqNNa9dkxvY7naSJYd7"
+  },
+  "360061576673": {
+    "slug": "advanced-enforce-sso-login-for-your-account",
+    "title": "Advanced: Enforce SSO login for your account",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
+    "updated_at": "2026-09-28T21:53:26Z",
+    "hash": "75b52e8329eb066305992f59744fe143",
+    "file": "articles/advanced-enforce-sso-login-for-your-account.md",
+    "openai_uploaded_hash": "75b52e8329eb066305992f59744fe143",
+    "openai_file_id": "file-M4EdPVoTX8ov2GH9Dn6r9d"
+  },
+  "32860569148819": {
+    "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
+    "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
+    "updated_at": "2026-09-28T20:24:07Z",
+    "hash": "65c492e6dc198750dca92d6f5c078015",
+    "file": "articles/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
+    "openai_uploaded_hash": "65c492e6dc198750dca92d6f5c078015",
+    "openai_file_id": "file-5YenfY7i2PSiyMZ7kjLqHq"
+  },
+  "29838866920211": {
+    "slug": "how-to-add-google-sheets-as-a-datasource-for-optisync",
+    "title": "How to add Google Sheets as a DataSource for OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
+    "updated_at": "2026-09-28T19:13:38Z",
+    "hash": "f622d7929c9d70330db0bf401f4435d1",
+    "file": "articles/how-to-add-google-sheets-as-a-datasource-for-optisync.md",
+    "openai_uploaded_hash": "f622d7929c9d70330db0bf401f4435d1",
+    "openai_file_id": "file-Paaq3FCWDwRJA16PomFPZw"
+  },
+  "1500010436341": {
+    "slug": "adjust-the-gpu-memory-on-the-raspberry-pi",
+    "title": "Adjust the GPU memory on the Raspberry Pi",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
+    "updated_at": "2026-09-28T17:02:14Z",
+    "hash": "dca8b1669ed31c9527417a208b0d6486",
+    "file": "articles/adjust-the-gpu-memory-on-the-raspberry-pi.md",
+    "openai_uploaded_hash": "dca8b1669ed31c9527417a208b0d6486",
+    "openai_file_id": "file-3ZvqBbmwG5F9WDWgyfo5JB"
   }
 }
