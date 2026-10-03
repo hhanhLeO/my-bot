@@ -2048,5 +2048,45 @@
     "file": "articles/how-to-use-microsoft-outlook-calendar-with-optisigns.md",
     "openai_uploaded_hash": "845315502abe3c80afebda00dca776c7",
     "openai_file_id": "file-9933GfTFAtC4973tKtBCYq"
+  },
+  "1500005889381": {
+    "slug": "how-to-use-the-mindmeister-app",
+    "title": "How to Use the MindMeister App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+    "updated_at": "2026-10-02T18:17:46Z",
+    "hash": "a81099e01e486e8399e203f3ab384503",
+    "file": "articles/how-to-use-the-mindmeister-app.md",
+    "openai_uploaded_hash": "a81099e01e486e8399e203f3ab384503",
+    "openai_file_id": "file-DL9PkMWYDETXfiAwtmGo8A"
+  },
+  "11032964830227": {
+    "slug": "how-to-use-the-monday-com-app",
+    "title": "How to Use the Monday.com App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+    "updated_at": "2026-10-02T15:17:32Z",
+    "hash": "b82c0c130551feecad592b85213471e3",
+    "file": "articles/how-to-use-the-monday-com-app.md",
+    "openai_uploaded_hash": "b82c0c130551feecad592b85213471e3",
+    "openai_file_id": "file-JdWtzALEBqFQpT2ZCPJiWg"
+  },
+  "9392587446675": {
+    "slug": "how-to-use-airtable-with-optisigns",
+    "title": "How to use Airtable with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
+    "updated_at": "2026-10-02T15:09:00Z",
+    "hash": "23afdc47f2e17237478c17911ef6e55b",
+    "file": "articles/how-to-use-airtable-with-optisigns.md",
+    "openai_uploaded_hash": "23afdc47f2e17237478c17911ef6e55b",
+    "openai_file_id": "file-8NC4r2ZiRizZ1ZfgwgcWkn"
+  },
+  "1500005888781": {
+    "slug": "how-to-best-use-canva-with-optisigns",
+    "title": "How to Best Use Canva with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
+    "updated_at": "2026-10-02T15:05:25Z",
+    "hash": "5cb6f0249b7c12f46b5cace18d7f4e85",
+    "file": "articles/how-to-best-use-canva-with-optisigns.md",
+    "openai_uploaded_hash": "5cb6f0249b7c12f46b5cace18d7f4e85",
+    "openai_file_id": "file-NdnetD3ZytwDamo1Sgbwns"
   }
 }
