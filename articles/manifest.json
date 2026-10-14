@@ -710,14 +710,14 @@
     "openai_file_id": "file-FsYTp8Gi8Cj5mvfpmNGv6F"
   },
   "360037416494": {
-    "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
-    "title": "How to use the Jira (formerly Atlassian JIRA) app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-    "updated_at": "2026-08-20T19:03:52Z",
-    "hash": "6bb168c71781165ac36cd969e289e46f",
-    "file": "articles/how-to-use-the-jira-formerly-atlassian-jira-app.md",
-    "openai_uploaded_hash": "6bb168c71781165ac36cd969e289e46f",
-    "openai_file_id": "file-HX2jV8g741fTyuV6fVjxJZ"
+    "slug": "how-to-use-the-jira-app",
+    "title": "How to Use the Jira App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+    "updated_at": "2026-10-13T21:50:54Z",
+    "hash": "226d53542d58acb8959b1f21053f9c9d",
+    "file": "articles/how-to-use-the-jira-app.md",
+    "openai_uploaded_hash": "226d53542d58acb8959b1f21053f9c9d",
+    "openai_file_id": "file-BczHXm3nynDJnKGSTiV7W4"
   },
   "19171222981523": {
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
@@ -2123,11 +2123,11 @@
     "slug": "how-to-display-vimeo-videos-with-optisigns",
     "title": "How to Display Vimeo Videos with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-    "updated_at": "2026-10-12T20:49:41Z",
-    "hash": "838e34cd325936f24a4af4efd7b7a1e2",
+    "updated_at": "2026-10-13T17:40:15Z",
+    "hash": "038bc1b7e307b3105f8ed6b13a6f75e1",
     "file": "articles/how-to-display-vimeo-videos-with-optisigns.md",
-    "openai_uploaded_hash": "838e34cd325936f24a4af4efd7b7a1e2",
-    "openai_file_id": "file-7xZUgSYSS2qtK9wx8QJsTZ"
+    "openai_uploaded_hash": "038bc1b7e307b3105f8ed6b13a6f75e1",
+    "openai_file_id": "file-LXr2h9S553pnQmaDNwCuue"
   },
   "31113088917907": {
     "slug": "how-to-use-toast-api-data-with-optisigns",
@@ -2148,5 +2148,65 @@
     "file": "articles/how-to-display-a-smartsheet-report-on-optisigns.md",
     "openai_uploaded_hash": "ec3a4234a3cc07218a969776412e03e3",
     "openai_file_id": "file-V5y9YHbV8FyHG36U8P6L2L"
+  },
+  "360050244454": {
+    "slug": "how-to-use-the-trello-app",
+    "title": "How to Use the Trello App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
+    "updated_at": "2026-10-13T21:49:36Z",
+    "hash": "eef37f193aa7dc1c12a83f04e168b522",
+    "file": "articles/how-to-use-the-trello-app.md",
+    "openai_uploaded_hash": "eef37f193aa7dc1c12a83f04e168b522",
+    "openai_file_id": "file-6K9YKcaivDXwdLu2ALumM6"
+  },
+  "12454101966355": {
+    "slug": "how-to-use-the-musthavemenus-app",
+    "title": "How to Use the MustHaveMenus App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
+    "updated_at": "2026-10-13T20:53:34Z",
+    "hash": "97d771ae8f625e5694ac322fde989f84",
+    "file": "articles/how-to-use-the-musthavemenus-app.md",
+    "openai_uploaded_hash": "97d771ae8f625e5694ac322fde989f84",
+    "openai_file_id": "file-PpsTsUtwrv3ZR9kmFpioNm"
+  },
+  "6091289267475": {
+    "slug": "how-to-use-the-matterport-app",
+    "title": "How to Use the Matterport App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
+    "updated_at": "2026-10-13T20:37:01Z",
+    "hash": "9d439ee57101b15cc90964172fca1810",
+    "file": "articles/how-to-use-the-matterport-app.md",
+    "openai_uploaded_hash": "9d439ee57101b15cc90964172fca1810",
+    "openai_file_id": "file-FujvRBtLTLwHACFQmWHmoh"
+  },
+  "5119724468371": {
+    "slug": "how-to-use-the-notion-app",
+    "title": "How to Use the Notion App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
+    "updated_at": "2026-10-13T17:37:02Z",
+    "hash": "de269d080ed15b2458dd92e846206f6e",
+    "file": "articles/how-to-use-the-notion-app.md",
+    "openai_uploaded_hash": "de269d080ed15b2458dd92e846206f6e",
+    "openai_file_id": "file-8zpxQTpBLZH2i168HbUVVc"
+  },
+  "360046859534": {
+    "slug": "how-to-use-the-twitch-app",
+    "title": "How to Use the Twitch App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
+    "updated_at": "2026-10-13T17:00:14Z",
+    "hash": "72d2b5b4d44cc9989095b6ae1741a837",
+    "file": "articles/how-to-use-the-twitch-app.md",
+    "openai_uploaded_hash": "72d2b5b4d44cc9989095b6ae1741a837",
+    "openai_file_id": "file-YXGrPuDJ747AN5kqykohyS"
+  },
+  "1500002233221": {
+    "slug": "how-to-use-the-asana-app",
+    "title": "How to Use the Asana App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
+    "updated_at": "2026-10-13T16:34:14Z",
+    "hash": "74d98b17ca6c3980f582edcbc891cd28",
+    "file": "articles/how-to-use-the-asana-app.md",
+    "openai_uploaded_hash": "74d98b17ca6c3980f582edcbc891cd28",
+    "openai_file_id": "file-8zEnyF6KA1kmZ784khrCQM"
   }
 }
