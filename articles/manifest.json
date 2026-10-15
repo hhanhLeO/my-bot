@@ -813,11 +813,11 @@
     "slug": "edit-screen-what-does-each-option-do",
     "title": "Edit Screen: What does each option do?",
     "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-    "updated_at": "2026-09-02T20:33:01Z",
-    "hash": "e223cf975985cc4cb01709b1185a1566",
+    "updated_at": "2026-10-14T18:02:17Z",
+    "hash": "1b8e48de43e2cdc58aa5ac4fb2f3be70",
     "file": "articles/edit-screen-what-does-each-option-do.md",
-    "openai_uploaded_hash": "e223cf975985cc4cb01709b1185a1566",
-    "openai_file_id": "file-YL1YjfQ99FdjTXRV7Hte87"
+    "openai_uploaded_hash": "1b8e48de43e2cdc58aa5ac4fb2f3be70",
+    "openai_file_id": "file-RY5LoNyM4TNkkqVDK3g1V4"
   },
   "12498801963027": {
     "slug": "show-offline-indicator-feature",
@@ -1483,11 +1483,11 @@
     "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
     "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
     "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-    "updated_at": "2026-09-10T10:46:35Z",
-    "hash": "2c2f6cded68bb272abc48f2f6673bffd",
+    "updated_at": "2026-10-14T21:03:18Z",
+    "hash": "888c726c78e9b304ec13aabb04bf9c4b",
     "file": "articles/how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
-    "openai_uploaded_hash": "2c2f6cded68bb272abc48f2f6673bffd",
-    "openai_file_id": "file-HejY8zTM7gzi4yip3woALx"
+    "openai_uploaded_hash": "888c726c78e9b304ec13aabb04bf9c4b",
+    "openai_file_id": "file-5xprNKvrszXLLRh8Dwt6J2"
   },
   "40212027797523": {
     "slug": "disk-encryption",
@@ -1623,11 +1623,11 @@
     "slug": "how-to-manage-and-edit-your-playlist-settings",
     "title": "How to Manage and Edit Your Playlist Settings",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-10-12T21:22:30Z",
-    "hash": "372087bc2ae3fccb37b9e8914719030b",
+    "updated_at": "2026-10-14T18:00:33Z",
+    "hash": "69cd4758e6fa989af1979a693348584b",
     "file": "articles/how-to-manage-and-edit-your-playlist-settings.md",
-    "openai_uploaded_hash": "372087bc2ae3fccb37b9e8914719030b",
-    "openai_file_id": "file-6DQ3jFkuAmz6dGHU9RZCFe"
+    "openai_uploaded_hash": "69cd4758e6fa989af1979a693348584b",
+    "openai_file_id": "file-KCicpy7YbzMhNdN6rzBwff"
   },
   "13320135306515": {
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
@@ -2208,5 +2208,25 @@
     "file": "articles/how-to-use-the-asana-app.md",
     "openai_uploaded_hash": "74d98b17ca6c3980f582edcbc891cd28",
     "openai_file_id": "file-8zEnyF6KA1kmZ784khrCQM"
+  },
+  "49039295567891": {
+    "slug": "chromeos-pwa-instructions",
+    "title": "ChromeOS PWA Instructions",
+    "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+    "updated_at": "2026-10-14T19:21:13Z",
+    "hash": "8301bfdcb1711cb5e229cdbd7eea8d63",
+    "file": "articles/chromeos-pwa-instructions.md",
+    "openai_uploaded_hash": "8301bfdcb1711cb5e229cdbd7eea8d63",
+    "openai_file_id": "file-Fro7hexrbJnFgWnQLcntg6"
+  },
+  "360060919453": {
+    "slug": "how-to-use-the-zendesk-app",
+    "title": "How to Use the Zendesk App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+    "updated_at": "2026-10-14T18:07:38Z",
+    "hash": "e7a0c2126afd721bed47b00c578fb01a",
+    "file": "articles/how-to-use-the-zendesk-app.md",
+    "openai_uploaded_hash": "e7a0c2126afd721bed47b00c578fb01a",
+    "openai_file_id": "file-9eLwotbqeCGKbLSd7X4qsm"
   }
 }
