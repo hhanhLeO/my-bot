@@ -140,14 +140,14 @@
     "openai_file_id": "file-DBxBZRQoC1PkyDBgFx4akN"
   },
   "360049875794": {
-    "slug": "how-to-use-follow-us-app",
-    "title": "How to use Follow Us App",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
-    "updated_at": "2026-07-05T19:15:39Z",
-    "hash": "1dded1479fc9ddec8565759e786bb9e8",
-    "file": "articles/how-to-use-follow-us-app.md",
-    "openai_uploaded_hash": "1dded1479fc9ddec8565759e786bb9e8",
-    "openai_file_id": "file-TS7Lewi1akTPee4QyqDDDc"
+    "slug": "how-to-use-the-follow-us-app",
+    "title": "How to Use the Follow Us App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+    "updated_at": "2026-10-15T21:48:40Z",
+    "hash": "f5c21ee4d2e9563d0a339e34b6a003fa",
+    "file": "articles/how-to-use-the-follow-us-app.md",
+    "openai_uploaded_hash": "f5c21ee4d2e9563d0a339e34b6a003fa",
+    "openai_file_id": "file-VE7CzHSiSAkVS83hqPsA3i"
   },
   "360016252654": {
     "slug": "does-optisigns-offer-non-profit-education-discount",
@@ -383,11 +383,11 @@
     "slug": "device-management-and-mass-provisioning",
     "title": "Device Management and Mass Provisioning",
     "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-    "updated_at": "2026-07-16T16:39:52Z",
-    "hash": "8dceaa8df328f54817dfded6fde088f8",
+    "updated_at": "2026-10-15T16:10:20Z",
+    "hash": "1d7bc636be7095c69a2b50c11871bb22",
     "file": "articles/device-management-and-mass-provisioning.md",
-    "openai_uploaded_hash": "8dceaa8df328f54817dfded6fde088f8",
-    "openai_file_id": "file-E438ihF1KRVq762YVE6Fa5"
+    "openai_uploaded_hash": "1d7bc636be7095c69a2b50c11871bb22",
+    "openai_file_id": "file-GY2BVdnfdcDwrGDL721fvN"
   },
   "360052361293": {
     "slug": "how-to-update-fire-tv-os-to-latest-version",
@@ -1271,13 +1271,13 @@
   },
   "360041638433": {
     "slug": "how-to-use-the-countdown-app",
-    "title": "How to use the CountDown App",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-    "updated_at": "2026-09-11T04:37:51Z",
-    "hash": "271fca2e12d08c598a72bf54e50b390d",
+    "title": "How to Use the CountDown App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+    "updated_at": "2026-10-15T18:24:17Z",
+    "hash": "973a7053b44e8f55bc8ad9bfc346ee08",
     "file": "articles/how-to-use-the-countdown-app.md",
-    "openai_uploaded_hash": "271fca2e12d08c598a72bf54e50b390d",
-    "openai_file_id": "file-Ttte6vapYgD8T67MVB1P9m"
+    "openai_uploaded_hash": "973a7053b44e8f55bc8ad9bfc346ee08",
+    "openai_file_id": "file-TWeM1UDc6z5LUkShftnsb7"
   },
   "360050602413": {
     "slug": "how-to-use-overlay-layers-with-optisigns",
@@ -2033,11 +2033,11 @@
     "slug": "how-to-use-the-countup-app",
     "title": "How to Use the CountUp App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-    "updated_at": "2026-10-01T17:24:51Z",
-    "hash": "272f4ca146fc5a0c635035195173c718",
+    "updated_at": "2026-10-15T16:20:51Z",
+    "hash": "ee261db82c1fad10b16fa4769a7ecaa1",
     "file": "articles/how-to-use-the-countup-app.md",
-    "openai_uploaded_hash": "272f4ca146fc5a0c635035195173c718",
-    "openai_file_id": "file-Hd5gyqHCHUpos5NY5Lnn5P"
+    "openai_uploaded_hash": "ee261db82c1fad10b16fa4769a7ecaa1",
+    "openai_file_id": "file-PgRtHdwSVPX7AFw9jc1JeE"
   },
   "360036250853": {
     "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
@@ -2228,5 +2228,45 @@
     "file": "articles/how-to-use-the-zendesk-app.md",
     "openai_uploaded_hash": "e7a0c2126afd721bed47b00c578fb01a",
     "openai_file_id": "file-9eLwotbqeCGKbLSd7X4qsm"
+  },
+  "1500009343862": {
+    "slug": "how-to-use-the-taggbox-display-app",
+    "title": "How to Use the Taggbox Display App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+    "updated_at": "2026-10-15T22:17:54Z",
+    "hash": "ae5bbcd58e67987b7bfb0055b8172c73",
+    "file": "articles/how-to-use-the-taggbox-display-app.md",
+    "openai_uploaded_hash": "ae5bbcd58e67987b7bfb0055b8172c73",
+    "openai_file_id": "file-JLyWaTGtq6xhF3572XssWF"
+  },
+  "4406180781203": {
+    "slug": "how-to-use-the-linkedin-app",
+    "title": "How to Use the LinkedIn App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+    "updated_at": "2026-10-15T21:52:35Z",
+    "hash": "6f7f96a35211ba1ffd622ea4db0918a5",
+    "file": "articles/how-to-use-the-linkedin-app.md",
+    "openai_uploaded_hash": "6f7f96a35211ba1ffd622ea4db0918a5",
+    "openai_file_id": "file-E4rRhhj26CEMsKhHqYbctR"
+  },
+  "4403267825171": {
+    "slug": "how-to-use-the-social-mix-app",
+    "title": "How to Use the Social Mix App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+    "updated_at": "2026-10-15T21:07:28Z",
+    "hash": "0bd2724be172a9a19097025006c7662e",
+    "file": "articles/how-to-use-the-social-mix-app.md",
+    "openai_uploaded_hash": "0bd2724be172a9a19097025006c7662e",
+    "openai_file_id": "file-6W5oHEU829df5dtWwcEgZD"
+  },
+  "360051495193": {
+    "slug": "how-to-use-the-instagram-business-app",
+    "title": "How to Use the Instagram Business App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+    "updated_at": "2026-10-15T19:29:03Z",
+    "hash": "0ef36a3d429b225dab5d6259dcce4edf",
+    "file": "articles/how-to-use-the-instagram-business-app.md",
+    "openai_uploaded_hash": "0ef36a3d429b225dab5d6259dcce4edf",
+    "openai_file_id": "file-5sVdgmrfPk5my6HgSH33Ne"
   }
 }
