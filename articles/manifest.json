@@ -280,14 +280,14 @@
     "openai_file_id": "file-8jkg5Mxb5zipYL4oViuBov"
   },
   "360037391854": {
-    "slug": "how-to-display-content-inside-websites-that-require-login",
-    "title": "How to display content inside websites that require login?",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
-    "updated_at": "2026-08-26T15:08:46Z",
-    "hash": "55a8b0c4e2165098d7fbd7fc26e446ce",
-    "file": "articles/how-to-display-content-inside-websites-that-require-login.md",
-    "openai_uploaded_hash": "55a8b0c4e2165098d7fbd7fc26e446ce",
-    "openai_file_id": "file-VusscAjP8JGttiWAhCSxp8"
+    "slug": "how-to-display-content-from-websites-that-require-a-login",
+    "title": "How to Display Content From Websites That Require a Login",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login",
+    "updated_at": "2026-10-16T17:01:33Z",
+    "hash": "4ce177a25b9d2294c930b40e02f98932",
+    "file": "articles/how-to-display-content-from-websites-that-require-a-login.md",
+    "openai_uploaded_hash": "4ce177a25b9d2294c930b40e02f98932",
+    "openai_file_id": "file-LarpsWh6AqgZMCGP594LcP"
   },
   "52350277262483": {
     "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
@@ -360,14 +360,14 @@
     "openai_file_id": "file-7ozNzeU1a4DvbSnZvFnH6C"
   },
   "360016388733": {
-    "slug": "how-to-create-and-use-instagram-wall",
-    "title": "How to create and use Instagram Wall",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
-    "updated_at": "2026-07-15T15:27:32Z",
-    "hash": "b95a07edf70b40a1c5ec6282fe80a12a",
-    "file": "articles/how-to-create-and-use-instagram-wall.md",
-    "openai_uploaded_hash": "b95a07edf70b40a1c5ec6282fe80a12a",
-    "openai_file_id": "file-5o7LRjHrvF5jSFBGejR8ow"
+    "slug": "how-to-use-the-instagram-app",
+    "title": "How to Use the Instagram App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
+    "updated_at": "2026-10-16T21:51:44Z",
+    "hash": "dd94e85aa6cd54533d756db1a335b684",
+    "file": "articles/how-to-use-the-instagram-app.md",
+    "openai_uploaded_hash": "dd94e85aa6cd54533d756db1a335b684",
+    "openai_file_id": "file-EFndpeDy9Bo3aGeGZ63Y7C"
   },
   "360053211594": {
     "slug": "set-optisigns-as-screensaver-on-windows",
@@ -470,14 +470,14 @@
     "openai_file_id": "file-EqYed89PKHHKjMvRw6EsgD"
   },
   "360037463934": {
-    "slug": "how-to-create-and-use-google-reviews-wall",
-    "title": "How to create and use Google Reviews Wall",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
-    "updated_at": "2026-07-27T15:39:23Z",
-    "hash": "4d48c529b7f345c7970d9b7c3637756c",
-    "file": "articles/how-to-create-and-use-google-reviews-wall.md",
-    "openai_uploaded_hash": "4d48c529b7f345c7970d9b7c3637756c",
-    "openai_file_id": "file-EMjaxgZJ8cS48C29EpS8qm"
+    "slug": "how-to-use-the-google-reviews-app",
+    "title": "How to Use the Google Reviews App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-Use-the-Google-Reviews-App",
+    "updated_at": "2026-10-16T21:27:23Z",
+    "hash": "00073f0eb2782a291fff284b0286b353",
+    "file": "articles/how-to-use-the-google-reviews-app.md",
+    "openai_uploaded_hash": "00073f0eb2782a291fff284b0286b353",
+    "openai_file_id": "file-6hDAmSNXXhhnvvQyZNwq5V"
   },
   "27463953562899": {
     "slug": "amazon-tv-firestick-troubleshooting-guide",
@@ -1903,11 +1903,11 @@
     "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisigns",
     "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-    "updated_at": "2026-10-12T20:31:04Z",
-    "hash": "7fdfd5fda4a16924fe274df82851d95d",
+    "updated_at": "2026-10-16T21:20:16Z",
+    "hash": "ece6db02afe9aa2c5424a75c555cf1a9",
     "file": "articles/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
-    "openai_uploaded_hash": "7fdfd5fda4a16924fe274df82851d95d",
-    "openai_file_id": "file-BT6KJsGnBK2px6BrbUDQsc"
+    "openai_uploaded_hash": "ece6db02afe9aa2c5424a75c555cf1a9",
+    "openai_file_id": "file-AvH88dMeHr7y3iEbusu3JG"
   },
   "55906396437523": {
     "slug": "how-to-use-the-weather-radar-app",
@@ -1963,11 +1963,11 @@
     "slug": "how-to-use-the-onedrive-app",
     "title": "How to Use the OneDrive App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
-    "updated_at": "2026-09-30T18:35:21Z",
-    "hash": "23bbed0e8d32e1e9cb15911208919207",
+    "updated_at": "2026-10-16T16:30:48Z",
+    "hash": "80c4eab53f8d269526f92713745f3749",
     "file": "articles/how-to-use-the-onedrive-app.md",
-    "openai_uploaded_hash": "23bbed0e8d32e1e9cb15911208919207",
-    "openai_file_id": "file-HBqdSUqjFyRf2xR6Ps97z7"
+    "openai_uploaded_hash": "80c4eab53f8d269526f92713745f3749",
+    "openai_file_id": "file-BLq9wghGfNjXz8Lbr16pgd"
   },
   "4414355658899": {
     "slug": "how-to-use-microsoft-powerpoint-with-optisigns",
@@ -1993,11 +1993,11 @@
     "slug": "how-to-use-the-dropbox-app",
     "title": "How to Use the Dropbox App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
-    "updated_at": "2026-10-01T21:20:35Z",
-    "hash": "3265b2fefd668afbc3e975b54fb2d081",
+    "updated_at": "2026-10-16T16:32:20Z",
+    "hash": "e0e09b3e26230a4d7fbbd1fcd1452d12",
     "file": "articles/how-to-use-the-dropbox-app.md",
-    "openai_uploaded_hash": "3265b2fefd668afbc3e975b54fb2d081",
-    "openai_file_id": "file-SiZwhYNAjwqh3C5GQHaoZx"
+    "openai_uploaded_hash": "e0e09b3e26230a4d7fbbd1fcd1452d12",
+    "openai_file_id": "file-JXZMav4FQEhNY7HPDg8zfr"
   },
   "4408946045715": {
     "slug": "how-to-integrate-bonusly-digital-signage-with-optisigns",
@@ -2263,10 +2263,70 @@
     "slug": "how-to-use-the-instagram-business-app",
     "title": "How to Use the Instagram Business App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
-    "updated_at": "2026-10-15T19:29:03Z",
-    "hash": "0ef36a3d429b225dab5d6259dcce4edf",
+    "updated_at": "2026-10-16T21:53:33Z",
+    "hash": "eca1a0a4ce2c224074a423ecd0400f14",
     "file": "articles/how-to-use-the-instagram-business-app.md",
-    "openai_uploaded_hash": "0ef36a3d429b225dab5d6259dcce4edf",
-    "openai_file_id": "file-5sVdgmrfPk5my6HgSH33Ne"
+    "openai_uploaded_hash": "eca1a0a4ce2c224074a423ecd0400f14",
+    "openai_file_id": "file-TtXaGD8iJGekoMXbAgCeyi"
+  },
+  "44652521310099": {
+    "slug": "kiosk10",
+    "title": "Kiosk10",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
+    "updated_at": "2026-10-16T21:29:53Z",
+    "hash": "77afe28ba398f52b831354fb70228d1f",
+    "file": "articles/kiosk10.md",
+    "openai_uploaded_hash": "77afe28ba398f52b831354fb70228d1f",
+    "openai_file_id": "file-FRfTGyQfhB5FVssmSMSSfU"
+  },
+  "56498391179667": {
+    "slug": "how-to-use-the-eventbrite-events-app",
+    "title": "How to Use the Eventbrite Events App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
+    "updated_at": "2026-10-16T21:22:00Z",
+    "hash": "0e28cdcba4ac07f428a4947ac17c8a2d",
+    "file": "articles/how-to-use-the-eventbrite-events-app.md",
+    "openai_uploaded_hash": "0e28cdcba4ac07f428a4947ac17c8a2d",
+    "openai_file_id": "file-3ZAj6ZmmzZgaV4gKKAmeoG"
+  },
+  "56498363329683": {
+    "slug": "how-to-use-the-air-quality-index-app",
+    "title": "How to Use the Air Quality Index App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App",
+    "updated_at": "2026-10-16T21:10:49Z",
+    "hash": "88236d6694acff0db02d01394772e8d8",
+    "file": "articles/how-to-use-the-air-quality-index-app.md",
+    "openai_uploaded_hash": "88236d6694acff0db02d01394772e8d8",
+    "openai_file_id": "file-LTACthZygU6YcgJNGhuKDh"
+  },
+  "56493703696659": {
+    "slug": "how-to-display-datadog-dashboards-on-optisigns",
+    "title": "How to Display Datadog Dashboards on OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns",
+    "updated_at": "2026-10-16T19:51:56Z",
+    "hash": "d40dfdc862ceea13c954f0c8ebe9f191",
+    "file": "articles/how-to-display-datadog-dashboards-on-optisigns.md",
+    "openai_uploaded_hash": "d40dfdc862ceea13c954f0c8ebe9f191",
+    "openai_file_id": "file-JtcizeJrqzfCQhQ89mBLzN"
+  },
+  "360049518313": {
+    "slug": "how-to-use-the-google-drive-app",
+    "title": "How to Use the Google Drive App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App",
+    "updated_at": "2026-10-16T16:33:18Z",
+    "hash": "5db363d975ad6f4789246baa29b94dee",
+    "file": "articles/how-to-use-the-google-drive-app.md",
+    "openai_uploaded_hash": "5db363d975ad6f4789246baa29b94dee",
+    "openai_file_id": "file-8wYn5ppbAh8mT6PSnjEaoT"
+  },
+  "30003143806099": {
+    "slug": "how-to-use-the-optisigns-mobile-admin-app",
+    "title": "How to Use the OptiSigns Mobile Admin App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
+    "updated_at": "2026-10-16T14:31:48Z",
+    "hash": "cd3fc45d9edda85d9a6c39bca8fe2bf8",
+    "file": "articles/how-to-use-the-optisigns-mobile-admin-app.md",
+    "openai_uploaded_hash": "cd3fc45d9edda85d9a6c39bca8fe2bf8",
+    "openai_file_id": "file-5DEDMiBchYjiAAbbX41Tz1"
   }
 }
