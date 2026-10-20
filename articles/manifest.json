@@ -2328,5 +2328,35 @@
     "file": "articles/how-to-use-the-optisigns-mobile-admin-app.md",
     "openai_uploaded_hash": "cd3fc45d9edda85d9a6c39bca8fe2bf8",
     "openai_file_id": "file-5DEDMiBchYjiAAbbX41Tz1"
+  },
+  "4403015887763": {
+    "slug": "how-to-moderate-your-social-media-feeds",
+    "title": "How to Moderate Your Social Media Feeds",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds",
+    "updated_at": "2026-10-19T20:31:54Z",
+    "hash": "ddb9e27e6559bf5d28e804db47e135e0",
+    "file": "articles/how-to-moderate-your-social-media-feeds.md",
+    "openai_uploaded_hash": "ddb9e27e6559bf5d28e804db47e135e0",
+    "openai_file_id": "file-53g6rzxSbyseKk8jigmDzY"
+  },
+  "360049159814": {
+    "slug": "how-to-use-the-walls-io-app",
+    "title": "How to Use the Walls.io App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-Use-the-Walls-io-App",
+    "updated_at": "2026-10-19T20:14:32Z",
+    "hash": "a15e09d1281ae41702a9512b65e13cd6",
+    "file": "articles/how-to-use-the-walls-io-app.md",
+    "openai_uploaded_hash": "a15e09d1281ae41702a9512b65e13cd6",
+    "openai_file_id": "file-YLikQw4Yizm53vfyvt6xj5"
+  },
+  "360038992973": {
+    "slug": "video-codec-or-video-playback-issues",
+    "title": "Video codec or video playback issues",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
+    "updated_at": "2026-10-19T13:04:32Z",
+    "hash": "e3fc67bb1e300e2b9b9172666445e53e",
+    "file": "articles/video-codec-or-video-playback-issues.md",
+    "openai_uploaded_hash": "e3fc67bb1e300e2b9b9172666445e53e",
+    "openai_file_id": "file-AdM4fijeWWhA4PffPwJ3wY"
   }
 }
