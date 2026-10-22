@@ -2358,5 +2358,15 @@
     "file": "articles/video-codec-or-video-playback-issues.md",
     "openai_uploaded_hash": "e3fc67bb1e300e2b9b9172666445e53e",
     "openai_file_id": "file-AdM4fijeWWhA4PffPwJ3wY"
+  },
+  "15268811715347": {
+    "slug": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv",
+    "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+    "updated_at": "2026-10-21T09:26:59Z",
+    "hash": "7656c26394be466d8bee5f3a21b10a49",
+    "file": "articles/cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md",
+    "openai_uploaded_hash": "7656c26394be466d8bee5f3a21b10a49",
+    "openai_file_id": "file-86ExKM5X8QavLdSqH5fsVj"
   }
 }
