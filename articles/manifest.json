@@ -2368,5 +2368,25 @@
     "file": "articles/cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md",
     "openai_uploaded_hash": "7656c26394be466d8bee5f3a21b10a49",
     "openai_file_id": "file-86ExKM5X8QavLdSqH5fsVj"
+  },
+  "48241081473043": {
+    "slug": "operational-schedule-troubleshooting",
+    "title": "Operational Schedule Troubleshooting",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
+    "updated_at": "2026-10-22T23:47:31Z",
+    "hash": "ac3008bc4c215fd097912eb5915f24f0",
+    "file": "articles/operational-schedule-troubleshooting.md",
+    "openai_uploaded_hash": "ac3008bc4c215fd097912eb5915f24f0",
+    "openai_file_id": "file-S5cFXoygSpoWHETSkuj1vy"
+  },
+  "4414564078995": {
+    "slug": "error-handling",
+    "title": "Error Handling",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling",
+    "updated_at": "2026-10-22T10:22:18Z",
+    "hash": "5ce80cf7523560607b05d4773144266b",
+    "file": "articles/error-handling.md",
+    "openai_uploaded_hash": "5ce80cf7523560607b05d4773144266b",
+    "openai_file_id": "file-VLv4VkbptLJLt9Wng74Kki"
   }
 }
