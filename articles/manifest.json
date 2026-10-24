@@ -2388,5 +2388,15 @@
     "file": "articles/error-handling.md",
     "openai_uploaded_hash": "5ce80cf7523560607b05d4773144266b",
     "openai_file_id": "file-VLv4VkbptLJLt9Wng74Kki"
+  },
+  "25273043501587": {
+    "slug": "how-to-lockdown-ipad-single-app-with-guided-accessibility",
+    "title": "How to Lockdown iPad/Single App with Guided Accessibility",
+    "url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
+    "updated_at": "2026-10-23T15:32:18Z",
+    "hash": "d00de425cd7c9ad1c92c77b2a56ed8fa",
+    "file": "articles/how-to-lockdown-ipad-single-app-with-guided-accessibility.md",
+    "openai_uploaded_hash": "d00de425cd7c9ad1c92c77b2a56ed8fa",
+    "openai_file_id": "file-TqdGEwfV864hxHivQ2PPZy"
   }
 }
