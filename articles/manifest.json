@@ -1633,11 +1633,11 @@
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
     "title": "Build Integrations Using the OptiSigns Enterprise App",
     "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-09-14T15:53:06Z",
-    "hash": "8a7209026e01c6fa179075bb727485aa",
+    "updated_at": "2026-10-26T08:22:44Z",
+    "hash": "99596aaaa88fe519a7ca8739cbd9f3b1",
     "file": "articles/build-integrations-using-the-optisigns-enterprise-app.md",
-    "openai_uploaded_hash": "8a7209026e01c6fa179075bb727485aa",
-    "openai_file_id": "file-WnY1UjB2VPdsq1PVsmAhi1"
+    "openai_uploaded_hash": "99596aaaa88fe519a7ca8739cbd9f3b1",
+    "openai_file_id": "file-UgY84UdKVhyPdT16orJJbg"
   },
   "360051014773": {
     "slug": "show-youtube-video-s-subtitle-closed-caption",
@@ -2398,5 +2398,15 @@
     "file": "articles/how-to-lockdown-ipad-single-app-with-guided-accessibility.md",
     "openai_uploaded_hash": "d00de425cd7c9ad1c92c77b2a56ed8fa",
     "openai_file_id": "file-TqdGEwfV864hxHivQ2PPZy"
+  },
+  "360016375793": {
+    "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-address",
+    "title": "Can I have my invoices, receipts sent to a different email address?",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
+    "updated_at": "2026-10-26T15:43:28Z",
+    "hash": "be86ec5be2e55bd9279bbb4069e2d700",
+    "file": "articles/can-i-have-my-invoices-receipts-sent-to-a-different-email-address.md",
+    "openai_uploaded_hash": "be86ec5be2e55bd9279bbb4069e2d700",
+    "openai_file_id": "file-Wm51cKdwoETA2y3apnKcVn"
   }
 }
