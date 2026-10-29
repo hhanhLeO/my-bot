@@ -263,11 +263,11 @@
     "slug": "optistick",
     "title": "OptiStick",
     "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-    "updated_at": "2026-06-26T13:51:49Z",
-    "hash": "1726b148673af12c747039d5fb53b838",
+    "updated_at": "2026-10-28T19:34:03Z",
+    "hash": "677bb5f2b00c25bac3277a2f59c36fe4",
     "file": "articles/optistick.md",
-    "openai_uploaded_hash": "1726b148673af12c747039d5fb53b838",
-    "openai_file_id": "file-LeLZvgZQ5v1mJ7EV3L4Z1p"
+    "openai_uploaded_hash": "677bb5f2b00c25bac3277a2f59c36fe4",
+    "openai_file_id": "file-HbKQiGQxSFT3MsEme9496M"
   },
   "10259143299219": {
     "slug": "how-to-use-the-website-screenshot-app",
@@ -330,14 +330,14 @@
     "openai_file_id": "file-DhxryaL7FRCaGfa4jH5NDC"
   },
   "1500000485202": {
-    "slug": "custom-branding-settings",
-    "title": "Custom Branding Settings",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-    "updated_at": "2026-07-14T16:23:24Z",
-    "hash": "999b24a10259ebc1344fdc0d426f1471",
-    "file": "articles/custom-branding-settings.md",
-    "openai_uploaded_hash": "999b24a10259ebc1344fdc0d426f1471",
-    "openai_file_id": "file-Y42br6nLJEdyzeN3f9uqYB"
+    "slug": "custom-branding-settings-and-branded-portals",
+    "title": "Custom Branding Settings and Branded Portals",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
+    "updated_at": "2026-10-28T16:37:29Z",
+    "hash": "59ea8d1440122eada94f3f42bd7e08c1",
+    "file": "articles/custom-branding-settings-and-branded-portals.md",
+    "openai_uploaded_hash": "59ea8d1440122eada94f3f42bd7e08c1",
+    "openai_file_id": "file-531882rnFzvBibfKuxT5U5"
   },
   "28295104605843": {
     "slug": "how-to-create-use-playlists",
@@ -843,11 +843,11 @@
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-10-08T16:57:16Z",
-    "hash": "1bf9d9257a73cd07a33720cd186ce1b3",
+    "updated_at": "2026-10-28T15:43:14Z",
+    "hash": "8a6672a224576748a509b58d5c228727",
     "file": "articles/what-do-i-get-with-an-optisigns-free-plan.md",
-    "openai_uploaded_hash": "1bf9d9257a73cd07a33720cd186ce1b3",
-    "openai_file_id": "file-UH5qao7vrKpNi2b34nuNv8"
+    "openai_uploaded_hash": "8a6672a224576748a509b58d5c228727",
+    "openai_file_id": "file-K5HQsTzhzfwJcGRH6u4Sc4"
   },
   "9169378546195": {
     "slug": "data-residency-and-optisigns",
@@ -1073,11 +1073,11 @@
     "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
     "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-    "updated_at": "2026-09-08T08:33:10Z",
-    "hash": "37ddbbbf666552e5f823867c68e056a5",
+    "updated_at": "2026-10-28T21:12:21Z",
+    "hash": "08656bba60dd142fe79fe3ccd1a6a4fe",
     "file": "articles/fireos-tvs-amazon-insigna-toshiba-tcl.md",
-    "openai_uploaded_hash": "37ddbbbf666552e5f823867c68e056a5",
-    "openai_file_id": "file-Ebb7nui8DfdKm2baSZfJPR"
+    "openai_uploaded_hash": "08656bba60dd142fe79fe3ccd1a6a4fe",
+    "openai_file_id": "file-UxAiu278GzThCV1eKokLrg"
   },
   "360016376793": {
     "slug": "what-happen-if-internet-connection-is-lost",
@@ -2408,5 +2408,65 @@
     "file": "articles/can-i-have-my-invoices-receipts-sent-to-a-different-email-address.md",
     "openai_uploaded_hash": "be86ec5be2e55bd9279bbb4069e2d700",
     "openai_file_id": "file-Wm51cKdwoETA2y3apnKcVn"
+  },
+  "360060284174": {
+    "slug": "how-to-use-youtube-live-schedule-with-optisigns",
+    "title": "How to use YouTube Live Schedule with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
+    "updated_at": "2026-10-29T06:24:09Z",
+    "hash": "d1904d5d2c6f807b7566bad17b623ea5",
+    "file": "articles/how-to-use-youtube-live-schedule-with-optisigns.md",
+    "openai_uploaded_hash": "d1904d5d2c6f807b7566bad17b623ea5",
+    "openai_file_id": "file-TLv5wBbVsqNNJmdxYeXd4M"
+  },
+  "360041501494": {
+    "slug": "macos",
+    "title": "MacOS",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS",
+    "updated_at": "2026-10-28T22:17:31Z",
+    "hash": "4edaf306b64f002871be896df789ba91",
+    "file": "articles/macos.md",
+    "openai_uploaded_hash": "4edaf306b64f002871be896df789ba91",
+    "openai_file_id": "file-BTBfSjYZ6GoT282P8MkrPj"
+  },
+  "360034379293": {
+    "slug": "windows",
+    "title": "Windows",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows",
+    "updated_at": "2026-10-28T21:29:33Z",
+    "hash": "c540133576f9ea276343bf885abe60a6",
+    "file": "articles/windows.md",
+    "openai_uploaded_hash": "c540133576f9ea276343bf885abe60a6",
+    "openai_file_id": "file-9N8LExQ5kD3oN6yPtADFv6"
+  },
+  "1500004699122": {
+    "slug": "android-tv-chromecast",
+    "title": "Android TV / ChromeCast",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast",
+    "updated_at": "2026-10-28T21:05:51Z",
+    "hash": "cbdad6f9b7eafaa3ef5c437d9a722b9e",
+    "file": "articles/android-tv-chromecast.md",
+    "openai_uploaded_hash": "cbdad6f9b7eafaa3ef5c437d9a722b9e",
+    "openai_file_id": "file-3EX8jhkeo6fFcfyKi6bqBF"
+  },
+  "360034379573": {
+    "slug": "linux",
+    "title": "Linux",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux",
+    "updated_at": "2026-10-28T20:03:55Z",
+    "hash": "264f7ded8ba2fca0cc5012b764d560de",
+    "file": "articles/linux.md",
+    "openai_uploaded_hash": "264f7ded8ba2fca0cc5012b764d560de",
+    "openai_file_id": "file-9ZdPZJMCJbbyMCxYuFMhmx"
+  },
+  "15808407287315": {
+    "slug": "preventing-the-optisigns-app-from-turning-on-your-screen",
+    "title": "Preventing the OptiSigns App from Turning On your Screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
+    "updated_at": "2026-10-28T18:52:26Z",
+    "hash": "5924fc56d4a8066b371c9dc6baedd230",
+    "file": "articles/preventing-the-optisigns-app-from-turning-on-your-screen.md",
+    "openai_uploaded_hash": "5924fc56d4a8066b371c9dc6baedd230",
+    "openai_file_id": "file-Q8dftqMEHdRJrxnBxqyp5q"
   }
 }
