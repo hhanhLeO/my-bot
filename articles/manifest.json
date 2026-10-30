@@ -493,11 +493,11 @@
     "slug": "lg-webos-signage-commercial-grade",
     "title": "LG WebOS Signage (Commercial Grade)",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-    "updated_at": "2026-07-27T11:33:43Z",
-    "hash": "687ea752a02dadfc8224642137ba1f0b",
+    "updated_at": "2026-10-29T16:49:32Z",
+    "hash": "794a0e031722cb0a24a3d5f29c07f719",
     "file": "articles/lg-webos-signage-commercial-grade.md",
-    "openai_uploaded_hash": "687ea752a02dadfc8224642137ba1f0b",
-    "openai_file_id": "file-FENZjojwpDCqsgCgayogqv"
+    "openai_uploaded_hash": "794a0e031722cb0a24a3d5f29c07f719",
+    "openai_file_id": "file-QcVj8PYuXnXVr9gnnRHKvp"
   },
   "39080869746067": {
     "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
@@ -590,14 +590,14 @@
     "openai_file_id": "file-3nDUo9KdkkrNYUCcYBE3TK"
   },
   "360039566974": {
-    "slug": "how-to-install-optisigns-as-channel-app-on-roku",
-    "title": "How to install OptiSigns as channel/app on Roku",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-    "updated_at": "2026-08-12T01:53:55Z",
-    "hash": "2d77110b967bb568643b293e0ae5e436",
-    "file": "articles/how-to-install-optisigns-as-channel-app-on-roku.md",
-    "openai_uploaded_hash": "2d77110b967bb568643b293e0ae5e436",
-    "openai_file_id": "file-4krvfScxZwRMio6cPen66v"
+    "slug": "install-optisigns-as-channel-or-app-on-roku",
+    "title": "Install OptiSigns as Channel or App on Roku",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+    "updated_at": "2026-10-29T16:45:01Z",
+    "hash": "eef036c81875392f3c7e2fe7d4cd1671",
+    "file": "articles/install-optisigns-as-channel-or-app-on-roku.md",
+    "openai_uploaded_hash": "eef036c81875392f3c7e2fe7d4cd1671",
+    "openai_file_id": "file-FmYU8Lg6twzmYBSEBDomrx"
   },
   "1500003244381": {
     "slug": "about-the-onhold-devices-folder",
@@ -1263,11 +1263,11 @@
     "slug": "amazon-signage-stick",
     "title": "Amazon Signage Stick",
     "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-09-09T07:45:55Z",
-    "hash": "cb6eb128c8b87788347ce8b3f5b00e15",
+    "updated_at": "2026-10-29T20:18:17Z",
+    "hash": "422be19ca52be7c7f1179421cf8b72bb",
     "file": "articles/amazon-signage-stick.md",
-    "openai_uploaded_hash": "cb6eb128c8b87788347ce8b3f5b00e15",
-    "openai_file_id": "file-JkHKW7xn8uSwtMQJUwtvv2"
+    "openai_uploaded_hash": "422be19ca52be7c7f1179421cf8b72bb",
+    "openai_file_id": "file-75ddR5c86hwwSHomhNy9Va"
   },
   "360041638433": {
     "slug": "how-to-use-the-countdown-app",
@@ -1833,11 +1833,11 @@
     "slug": "where-to-buy-optisigns-devices",
     "title": "Where to Buy OptiSigns Devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-    "updated_at": "2026-09-23T19:17:01Z",
-    "hash": "77df5828accf85085a7f81d65abc799a",
+    "updated_at": "2026-10-29T15:32:35Z",
+    "hash": "3134ffa9901ddb85f64c52d8b9d109bf",
     "file": "articles/where-to-buy-optisigns-devices.md",
-    "openai_uploaded_hash": "77df5828accf85085a7f81d65abc799a",
-    "openai_file_id": "file-1Uqnom5wUPksEaHJVnR3Sg"
+    "openai_uploaded_hash": "3134ffa9901ddb85f64c52d8b9d109bf",
+    "openai_file_id": "file-8NhuQate9KrQwX1FGNZASM"
   },
   "55719322614803": {
     "slug": "inbound-webhook-datasources-in-designer",
@@ -2468,5 +2468,55 @@
     "file": "articles/preventing-the-optisigns-app-from-turning-on-your-screen.md",
     "openai_uploaded_hash": "5924fc56d4a8066b371c9dc6baedd230",
     "openai_file_id": "file-Q8dftqMEHdRJrxnBxqyp5q"
+  },
+  "11116333259283": {
+    "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
+    "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
+    "updated_at": "2026-10-29T20:48:30Z",
+    "hash": "13529953f98b4443cae9a24383d1349c",
+    "file": "articles/setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
+    "openai_uploaded_hash": "13529953f98b4443cae9a24383d1349c",
+    "openai_file_id": "file-UAEd2hbdvh5jfxqoFCB8Yi"
+  },
+  "14726570281875": {
+    "slug": "installing-optisigns-on-samsung-tizen-smart-tvs",
+    "title": "Installing OptiSigns on Samsung Tizen Smart TVs",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+    "updated_at": "2026-10-29T20:45:27Z",
+    "hash": "44601a84476077b4750cc54c1a8fbba7",
+    "file": "articles/installing-optisigns-on-samsung-tizen-smart-tvs.md",
+    "openai_uploaded_hash": "44601a84476077b4750cc54c1a8fbba7",
+    "openai_file_id": "file-81Lg24pdhSj6xW8tmeZ7du"
+  },
+  "5090125683219": {
+    "slug": "brightsign-players",
+    "title": "BrightSign Players",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
+    "updated_at": "2026-10-29T17:44:28Z",
+    "hash": "ec1701fe85bc770410301add5422d9d9",
+    "file": "articles/brightsign-players.md",
+    "openai_uploaded_hash": "ec1701fe85bc770410301add5422d9d9",
+    "openai_file_id": "file-Jwkaq1rxai8zW8MT5R2KQu"
+  },
+  "360034379693": {
+    "slug": "raspberry-pi",
+    "title": "Raspberry Pi",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
+    "updated_at": "2026-10-29T17:18:19Z",
+    "hash": "5f2a66685bf60ea717533c8b4023fc95",
+    "file": "articles/raspberry-pi.md",
+    "openai_uploaded_hash": "5f2a66685bf60ea717533c8b4023fc95",
+    "openai_file_id": "file-HSbp4Lj7GX12WMv3kvcHgu"
+  },
+  "56946344474003": {
+    "slug": "lg-webos-smart-tvs-consumer-grade",
+    "title": "LG webOS Smart TVs (Consumer Grade)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+    "updated_at": "2026-10-29T16:54:08Z",
+    "hash": "3c7fa57e8cce4aed9a9453feb3b2776e",
+    "file": "articles/lg-webos-smart-tvs-consumer-grade.md",
+    "openai_uploaded_hash": "3c7fa57e8cce4aed9a9453feb3b2776e",
+    "openai_file_id": "file-Fkj6px5Bfr4rTZjwqM55dJ"
   }
 }
