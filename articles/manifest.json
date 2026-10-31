@@ -21,13 +21,13 @@
   },
   "360047275934": {
     "slug": "whitelist-optisigns-ip-addresses-ports",
-    "title": "Whitelist OptiSigns IP addresses & ports",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-17T15:37:11Z",
-    "hash": "df4d0a9812760b7bc5e3c6e881006de1",
+    "title": "Whitelist OptiSigns IP Addresses & Ports",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+    "updated_at": "2026-10-30T16:09:57Z",
+    "hash": "ad4038b7799568fce60c688aa2d7443a",
     "file": "articles/whitelist-optisigns-ip-addresses-ports.md",
-    "openai_uploaded_hash": "df4d0a9812760b7bc5e3c6e881006de1",
-    "openai_file_id": "file-L3E3U6FG4HH14PoYgyNW6z"
+    "openai_uploaded_hash": "ad4038b7799568fce60c688aa2d7443a",
+    "openai_file_id": "file-Tv7NqLVuVouzHHzQ6bJobV"
   },
   "360056086653": {
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
@@ -73,11 +73,11 @@
     "slug": "how-to-use-youtube-with-optisigns",
     "title": "How to Use YouTube with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-09-24T14:52:18Z",
-    "hash": "d34e8dc6d000c4ded2f43256b0c4a130",
+    "updated_at": "2026-10-30T20:44:00Z",
+    "hash": "ab2fd95caa98c49513acc037b92c14cf",
     "file": "articles/how-to-use-youtube-with-optisigns.md",
-    "openai_uploaded_hash": "d34e8dc6d000c4ded2f43256b0c4a130",
-    "openai_file_id": "file-NoD5WDdKRqTnCiLwbVRr9N"
+    "openai_uploaded_hash": "ab2fd95caa98c49513acc037b92c14cf",
+    "openai_file_id": "file-FuDmB5Zb9j8bXxDKJYb5UV"
   },
   "52113036672403": {
     "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
@@ -363,11 +363,11 @@
     "slug": "how-to-use-the-instagram-app",
     "title": "How to Use the Instagram App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
-    "updated_at": "2026-10-16T21:51:44Z",
-    "hash": "dd94e85aa6cd54533d756db1a335b684",
+    "updated_at": "2026-10-30T20:24:26Z",
+    "hash": "d7214b6524caa0166aa31f7cf5a64f58",
     "file": "articles/how-to-use-the-instagram-app.md",
-    "openai_uploaded_hash": "dd94e85aa6cd54533d756db1a335b684",
-    "openai_file_id": "file-EFndpeDy9Bo3aGeGZ63Y7C"
+    "openai_uploaded_hash": "d7214b6524caa0166aa31f7cf5a64f58",
+    "openai_file_id": "file-RRk5MF8dqrF53FSZRNQom7"
   },
   "360053211594": {
     "slug": "set-optisigns-as-screensaver-on-windows",
@@ -1633,11 +1633,11 @@
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
     "title": "Build Integrations Using the OptiSigns Enterprise App",
     "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-10-26T08:22:44Z",
-    "hash": "99596aaaa88fe519a7ca8739cbd9f3b1",
+    "updated_at": "2026-10-30T17:06:59Z",
+    "hash": "27409c6f35ca19f5116df9d286533e5b",
     "file": "articles/build-integrations-using-the-optisigns-enterprise-app.md",
-    "openai_uploaded_hash": "99596aaaa88fe519a7ca8739cbd9f3b1",
-    "openai_file_id": "file-UgY84UdKVhyPdT16orJJbg"
+    "openai_uploaded_hash": "27409c6f35ca19f5116df9d286533e5b",
+    "openai_file_id": "file-LP2x9D9VM55m2fP54PTEpA"
   },
   "360051014773": {
     "slug": "show-youtube-video-s-subtitle-closed-caption",
@@ -2518,5 +2518,25 @@
     "file": "articles/lg-webos-smart-tvs-consumer-grade.md",
     "openai_uploaded_hash": "3c7fa57e8cce4aed9a9453feb3b2776e",
     "openai_file_id": "file-Fkj6px5Bfr4rTZjwqM55dJ"
+  },
+  "56987330525587": {
+    "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
+    "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+    "updated_at": "2026-10-30T19:28:50Z",
+    "hash": "1cb465aab49aed6e90c64328e4c898b5",
+    "file": "articles/connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+    "openai_uploaded_hash": "1cb465aab49aed6e90c64328e4c898b5",
+    "openai_file_id": "file-4PKynRuCaPwk1sg8KQJRCu"
+  },
+  "360051745633": {
+    "slug": "how-to-set-up-an-instagram-business-creator-account",
+    "title": "How to Set up an Instagram Business/Creator account",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
+    "updated_at": "2026-10-30T17:23:15Z",
+    "hash": "8f62e2c86544a507d3524804ee0e34ce",
+    "file": "articles/how-to-set-up-an-instagram-business-creator-account.md",
+    "openai_uploaded_hash": "8f62e2c86544a507d3524804ee0e34ce",
+    "openai_file_id": "file-Atitvb352n759rK74YvfiG"
   }
 }
