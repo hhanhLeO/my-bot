@@ -821,13 +821,13 @@
   },
   "12498801963027": {
     "slug": "show-offline-indicator-feature",
-    "title": "Show Offline Indicator feature",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-    "updated_at": "2026-09-02T15:47:19Z",
-    "hash": "a17d78c55b352c3195fcff5c0486ab77",
+    "title": "Show Offline Indicator Feature",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature",
+    "updated_at": "2026-11-05T22:21:11Z",
+    "hash": "d90e05422c2715fb7a31b23b69d4e8ac",
     "file": "articles/show-offline-indicator-feature.md",
-    "openai_uploaded_hash": "a17d78c55b352c3195fcff5c0486ab77",
-    "openai_file_id": "file-Kk5ksSy8QvfEnTVSsoVa5i"
+    "openai_uploaded_hash": "d90e05422c2715fb7a31b23b69d4e8ac",
+    "openai_file_id": "file-Xt29UDSAkaq3Zqk6hnTkxG"
   },
   "29465595849235": {
     "slug": "list-of-supported-cities-for-weather-wall-city-themes",
@@ -2350,14 +2350,14 @@
     "openai_file_id": "file-YLikQw4Yizm53vfyvt6xj5"
   },
   "360038992973": {
-    "slug": "video-codec-or-video-playback-issues",
-    "title": "Video codec or video playback issues",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
-    "updated_at": "2026-10-19T13:04:32Z",
-    "hash": "e3fc67bb1e300e2b9b9172666445e53e",
-    "file": "articles/video-codec-or-video-playback-issues.md",
-    "openai_uploaded_hash": "e3fc67bb1e300e2b9b9172666445e53e",
-    "openai_file_id": "file-AdM4fijeWWhA4PffPwJ3wY"
+    "slug": "video-codec-or-video-playback-issues-and-how-to-re-encode-videos",
+    "title": "Video Codec or Video Playback Issues and How to Re-encode Videos",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+    "updated_at": "2026-11-05T22:37:38Z",
+    "hash": "cf49b243f0893ad218b34cdbe58e6bfb",
+    "file": "articles/video-codec-or-video-playback-issues-and-how-to-re-encode-videos.md",
+    "openai_uploaded_hash": "cf49b243f0893ad218b34cdbe58e6bfb",
+    "openai_file_id": "file-Tuwk7eSg2FpYJaZzNUGEsz"
   },
   "15268811715347": {
     "slug": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv",
@@ -2558,5 +2558,65 @@
     "file": "articles/set-up-add-or-unpair-a-screen.md",
     "openai_uploaded_hash": "106c1851fbfb9890094a9727ba297201",
     "openai_file_id": "file-YT8a4eBTUKNbQ85v8YGTzp"
+  },
+  "360055486554": {
+    "slug": "remotely-control-and-command-optisigns-devices",
+    "title": "Remotely Control and Command OptiSigns Devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
+    "updated_at": "2026-11-05T22:33:29Z",
+    "hash": "ad1df46a60584f47db0ca531c7603547",
+    "file": "articles/remotely-control-and-command-optisigns-devices.md",
+    "openai_uploaded_hash": "ad1df46a60584f47db0ca531c7603547",
+    "openai_file_id": "file-XE5exo2GJYADvGxUxnUC5x"
+  },
+  "8098889840531": {
+    "slug": "how-to-use-rtsp-streams-on-optisigns-devices",
+    "title": "How to Use RTSP Streams on OptiSigns Devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+    "updated_at": "2026-11-05T22:28:24Z",
+    "hash": "7c86befb54fe33a55d03dd0861a3bac8",
+    "file": "articles/how-to-use-rtsp-streams-on-optisigns-devices.md",
+    "openai_uploaded_hash": "7c86befb54fe33a55d03dd0861a3bac8",
+    "openai_file_id": "file-49Pd6ZvfZteC4P9pspKjQt"
+  },
+  "360052513253": {
+    "slug": "how-to-use-the-emergency-message-alert-app",
+    "title": "How to Use the Emergency Message/Alert App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+    "updated_at": "2026-11-05T21:58:11Z",
+    "hash": "0e3dc3ada9860589e9d30eed56335024",
+    "file": "articles/how-to-use-the-emergency-message-alert-app.md",
+    "openai_uploaded_hash": "0e3dc3ada9860589e9d30eed56335024",
+    "openai_file_id": "file-X1DBzKKmwxs5rAhxMpMD4X"
+  },
+  "14502378549907": {
+    "slug": "present-or-share-your-screen-with-optisigns-and-the-aericast-add-on",
+    "title": "Present or Share Your Screen with OptiSigns and the AeriCast Add-on",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+    "updated_at": "2026-11-05T17:28:46Z",
+    "hash": "d4b266216aa4ef11136507e0b4c6cda3",
+    "file": "articles/present-or-share-your-screen-with-optisigns-and-the-aericast-add-on.md",
+    "openai_uploaded_hash": "d4b266216aa4ef11136507e0b4c6cda3",
+    "openai_file_id": "file-Eko6zEzqsC9GWXUCKmvNUg"
+  },
+  "360041587014": {
+    "slug": "how-to-change-your-billing-information-view-billing-history-and-download-receipt",
+    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+    "updated_at": "2026-11-05T16:12:55Z",
+    "hash": "b3449ae3a69ad90dbd7cb44f6f617a50",
+    "file": "articles/how-to-change-your-billing-information-view-billing-history-and-download-receipt.md",
+    "openai_uploaded_hash": "b3449ae3a69ad90dbd7cb44f6f617a50",
+    "openai_file_id": "file-FLrP3voaLQPgWTwt57NbRv"
+  },
+  "4407386819731": {
+    "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and OneLogin",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+    "updated_at": "2026-11-05T16:05:04Z",
+    "hash": "79af5969d3aa9bdfa145af05c25a3f7e",
+    "file": "articles/how-to-set-up-saml-2-0-with-optisigns-and-onelogin.md",
+    "openai_uploaded_hash": "79af5969d3aa9bdfa145af05c25a3f7e",
+    "openai_file_id": "file-HzwkP6Etm9Jaz1xE29zcVC"
   }
 }
