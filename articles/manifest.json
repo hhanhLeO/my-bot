@@ -2618,5 +2618,25 @@
     "file": "articles/how-to-set-up-saml-2-0-with-optisigns-and-onelogin.md",
     "openai_uploaded_hash": "79af5969d3aa9bdfa145af05c25a3f7e",
     "openai_file_id": "file-HzwkP6Etm9Jaz1xE29zcVC"
+  },
+  "28026588373139": {
+    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-devices",
+    "title": "How to Fix the Scaling Issue on OptiSigns Android Devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+    "updated_at": "2026-11-06T21:29:15Z",
+    "hash": "fbbf60505f64a1ec17b5bd26e10f257b",
+    "file": "articles/how-to-fix-the-scaling-issue-on-optisigns-android-devices.md",
+    "openai_uploaded_hash": "fbbf60505f64a1ec17b5bd26e10f257b",
+    "openai_file_id": "file-J4GwcbLtWKGwopfir9ruRB"
+  },
+  "360041570153": {
+    "slug": "screen-calibration-fix-content-bleeding-off-the-screen",
+    "title": "Screen Calibration: Fix Content Bleeding off the Screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+    "updated_at": "2026-11-06T20:25:31Z",
+    "hash": "563a7762308178c842815031cd308c82",
+    "file": "articles/screen-calibration-fix-content-bleeding-off-the-screen.md",
+    "openai_uploaded_hash": "563a7762308178c842815031cd308c82",
+    "openai_file_id": "file-6auTc7hHLtA2n5EyHhxKiL"
   }
 }
