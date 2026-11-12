@@ -643,11 +643,11 @@
     "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
     "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "updated_at": "2026-09-28T20:24:16Z",
-    "hash": "63b4c08ab0b42c21422fa07c2f4c6e0e",
+    "updated_at": "2026-11-11T20:29:28Z",
+    "hash": "cac9a033b84afef3b7a1493790a5f470",
     "file": "articles/how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
-    "openai_uploaded_hash": "63b4c08ab0b42c21422fa07c2f4c6e0e",
-    "openai_file_id": "file-G7XKexf3emuA4fz8BGkwcw"
+    "openai_uploaded_hash": "cac9a033b84afef3b7a1493790a5f470",
+    "openai_file_id": "file-D1XmA5SdairrEdvVjoQzSm"
   },
   "360042950593": {
     "slug": "how-to-use-the-simple-clock-app",
@@ -2638,5 +2638,15 @@
     "file": "articles/screen-calibration-fix-content-bleeding-off-the-screen.md",
     "openai_uploaded_hash": "563a7762308178c842815031cd308c82",
     "openai_file_id": "file-6auTc7hHLtA2n5EyHhxKiL"
+  },
+  "360016247974": {
+    "slug": "how-to-upload-manage-your-files-assets",
+    "title": "How to Upload & Manage Your Files/ Assets",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
+    "updated_at": "2026-11-12T09:09:16Z",
+    "hash": "dd64edd67f73446b770a462f4233b87f",
+    "file": "articles/how-to-upload-manage-your-files-assets.md",
+    "openai_uploaded_hash": "dd64edd67f73446b770a462f4233b87f",
+    "openai_file_id": "file-TtnP7YQmgZvbh5jnBcBpAK"
   }
 }
