@@ -100,14 +100,14 @@
     "openai_file_id": "file-K7zdhzYRVWbt4hYwTCkwv2"
   },
   "1500000493782": {
-    "slug": "billing-how-do-i-change-my-subscription-plan",
-    "title": "Billing: How Do I Change my Subscription Plan?",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "updated_at": "2026-07-08T04:10:51Z",
-    "hash": "86a2759b49947ded62d9f42d6efa56fd",
-    "file": "articles/billing-how-do-i-change-my-subscription-plan.md",
-    "openai_uploaded_hash": "86a2759b49947ded62d9f42d6efa56fd",
-    "openai_file_id": "file-S7ENG8tjuyN3s1rXAjC4Tn"
+    "slug": "billing-changing-plans-or-screen-counts",
+    "title": "Billing: Changing Plans or Screen Counts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+    "updated_at": "2026-11-16T20:25:41Z",
+    "hash": "c6a7973e008e4e4f08994fcf62882b5d",
+    "file": "articles/billing-changing-plans-or-screen-counts.md",
+    "openai_uploaded_hash": "c6a7973e008e4e4f08994fcf62882b5d",
+    "openai_file_id": "file-6Nn97XQAUe51tDwh1C9QWB"
   },
   "360035538093": {
     "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati",
@@ -203,11 +203,11 @@
     "slug": "engage-plan-faqs",
     "title": "Engage Plan - FAQs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-09-08T04:06:22Z",
-    "hash": "ff59a31e3972ce1813170561c3232569",
+    "updated_at": "2026-11-16T19:24:34Z",
+    "hash": "385b4630dc7e2ff0fe19e84b85603fc6",
     "file": "articles/engage-plan-faqs.md",
-    "openai_uploaded_hash": "ff59a31e3972ce1813170561c3232569",
-    "openai_file_id": "file-8NVcbHyAMYM7HrxPAjt2Ju"
+    "openai_uploaded_hash": "385b4630dc7e2ff0fe19e84b85603fc6",
+    "openai_file_id": "file-TkwTR435fPnGztaFmzzefQ"
   },
   "360042143753": {
     "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
@@ -2600,14 +2600,14 @@
     "openai_file_id": "file-Eko6zEzqsC9GWXUCKmvNUg"
   },
   "360041587014": {
-    "slug": "how-to-change-your-billing-information-view-billing-history-and-download-receipt",
-    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-    "updated_at": "2026-11-05T16:12:55Z",
-    "hash": "b3449ae3a69ad90dbd7cb44f6f617a50",
-    "file": "articles/how-to-change-your-billing-information-view-billing-history-and-download-receipt.md",
-    "openai_uploaded_hash": "b3449ae3a69ad90dbd7cb44f6f617a50",
-    "openai_file_id": "file-FLrP3voaLQPgWTwt57NbRv"
+    "slug": "billing-details-failed-payments-receipts",
+    "title": "Billing Details, Failed Payments & Receipts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+    "updated_at": "2026-11-16T21:36:09Z",
+    "hash": "609a4f849aae3451ea1e1f76305995c3",
+    "file": "articles/billing-details-failed-payments-receipts.md",
+    "openai_uploaded_hash": "609a4f849aae3451ea1e1f76305995c3",
+    "openai_file_id": "file-2fKXv1KnkW44aDbBXYGE5i"
   },
   "4407386819731": {
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
@@ -2648,5 +2648,15 @@
     "file": "articles/how-to-upload-manage-your-files-assets.md",
     "openai_uploaded_hash": "dd64edd67f73446b770a462f4233b87f",
     "openai_file_id": "file-TtnP7YQmgZvbh5jnBcBpAK"
+  },
+  "17639078588691": {
+    "slug": "cancel-pause-or-downgrade-your-subscription",
+    "title": "Cancel, Pause or Downgrade Your Subscription",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+    "updated_at": "2026-11-16T22:41:11Z",
+    "hash": "abed3f28c55de3b60f87b8e9f0efe928",
+    "file": "articles/cancel-pause-or-downgrade-your-subscription.md",
+    "openai_uploaded_hash": "abed3f28c55de3b60f87b8e9f0efe928",
+    "openai_file_id": "file-Nnj1oXKebuw655hz2ML8hS"
   }
 }
