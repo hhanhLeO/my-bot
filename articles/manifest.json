@@ -853,11 +853,11 @@
     "slug": "data-residency-and-optisigns",
     "title": "Data Residency and OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-11-02T17:03:51Z",
-    "hash": "011806eb75b5b64c83ac8d465ef95da9",
+    "updated_at": "2026-11-17T16:37:00Z",
+    "hash": "5e203184f0580bc235447624d63b1e86",
     "file": "articles/data-residency-and-optisigns.md",
-    "openai_uploaded_hash": "011806eb75b5b64c83ac8d465ef95da9",
-    "openai_file_id": "file-Ac7sV44CZ9seJA5rtKG4A7"
+    "openai_uploaded_hash": "5e203184f0580bc235447624d63b1e86",
+    "openai_file_id": "file-FoeM9K9ssV1gevYRf8h8MK"
   },
   "360035739414": {
     "slug": "how-to-preview-a-screen",
@@ -2658,5 +2658,15 @@
     "file": "articles/cancel-pause-or-downgrade-your-subscription.md",
     "openai_uploaded_hash": "abed3f28c55de3b60f87b8e9f0efe928",
     "openai_file_id": "file-Nnj1oXKebuw655hz2ML8hS"
+  },
+  "57645638683411": {
+    "slug": "the-new-designer-complete-feature-guide",
+    "title": "The New Designer: Complete Feature Guide",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
+    "updated_at": "2026-11-17T17:52:09Z",
+    "hash": "3318074b584c175030dad3f9294b2252",
+    "file": "articles/the-new-designer-complete-feature-guide.md",
+    "openai_uploaded_hash": "3318074b584c175030dad3f9294b2252",
+    "openai_file_id": "file-WFt99i96wApGfoMsPYwUkD"
   }
 }
