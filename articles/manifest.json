@@ -523,11 +523,11 @@
     "slug": "displaying-sharepoint-sites-on-optisigns",
     "title": "Displaying SharePoint Sites on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-10-01T16:01:20Z",
-    "hash": "666ca297ab74b96709fc1ffb3e5b7c3a",
+    "updated_at": "2026-11-18T16:25:43Z",
+    "hash": "03c1192f0a08a41df5635df912f6b9b2",
     "file": "articles/displaying-sharepoint-sites-on-optisigns.md",
-    "openai_uploaded_hash": "666ca297ab74b96709fc1ffb3e5b7c3a",
-    "openai_file_id": "file-HHitkgXc7rdjM89wB5nduZ"
+    "openai_uploaded_hash": "03c1192f0a08a41df5635df912f6b9b2",
+    "openai_file_id": "file-9rpS3gRQarrSy4qpfVHTsv"
   },
   "360042736794": {
     "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
@@ -573,11 +573,11 @@
     "slug": "optidev-add-on-free-trial-and-pricing",
     "title": "OptiDev Add-on - Free Trial and Pricing",
     "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-    "updated_at": "2026-08-05T18:22:19Z",
-    "hash": "b33856d5361f94d298765b77ae2f37d9",
+    "updated_at": "2026-11-18T17:12:24Z",
+    "hash": "6e3f05f9264df65f657101a3021e7406",
     "file": "articles/optidev-add-on-free-trial-and-pricing.md",
-    "openai_uploaded_hash": "b33856d5361f94d298765b77ae2f37d9",
-    "openai_file_id": "file-C5By4EvzdkJH3tUzgX2iGQ"
+    "openai_uploaded_hash": "6e3f05f9264df65f657101a3021e7406",
+    "openai_file_id": "file-GkakpKd7SfYRy6z7WsQ7Kz"
   },
   "4404608957075": {
     "slug": "how-to-delete-your-account-from-optisigns",
@@ -713,11 +713,11 @@
     "slug": "how-to-use-the-jira-app",
     "title": "How to Use the Jira App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
-    "updated_at": "2026-10-13T21:50:54Z",
-    "hash": "226d53542d58acb8959b1f21053f9c9d",
+    "updated_at": "2026-11-18T16:23:19Z",
+    "hash": "951eba987bdd5a561f3e3fed15ac6042",
     "file": "articles/how-to-use-the-jira-app.md",
-    "openai_uploaded_hash": "226d53542d58acb8959b1f21053f9c9d",
-    "openai_file_id": "file-BczHXm3nynDJnKGSTiV7W4"
+    "openai_uploaded_hash": "951eba987bdd5a561f3e3fed15ac6042",
+    "openai_file_id": "file-32inKJyn3rrbZZw7TKXzBY"
   },
   "19171222981523": {
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
@@ -2523,11 +2523,11 @@
     "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
     "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
-    "updated_at": "2026-10-30T19:28:50Z",
-    "hash": "1cb465aab49aed6e90c64328e4c898b5",
+    "updated_at": "2026-11-18T16:34:19Z",
+    "hash": "d59facf64cbb7142eefb84748a795314",
     "file": "articles/connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
-    "openai_uploaded_hash": "1cb465aab49aed6e90c64328e4c898b5",
-    "openai_file_id": "file-4PKynRuCaPwk1sg8KQJRCu"
+    "openai_uploaded_hash": "d59facf64cbb7142eefb84748a795314",
+    "openai_file_id": "file-NX9DoEHUmnZu9HS3b9weyh"
   },
   "360051745633": {
     "slug": "how-to-set-up-an-instagram-business-creator-account",
@@ -2603,11 +2603,11 @@
     "slug": "billing-details-failed-payments-receipts",
     "title": "Billing Details, Failed Payments & Receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-    "updated_at": "2026-11-16T21:36:09Z",
-    "hash": "609a4f849aae3451ea1e1f76305995c3",
+    "updated_at": "2026-11-18T22:06:47Z",
+    "hash": "d4bda782f337d55c64b27825b3feb41d",
     "file": "articles/billing-details-failed-payments-receipts.md",
-    "openai_uploaded_hash": "609a4f849aae3451ea1e1f76305995c3",
-    "openai_file_id": "file-2fKXv1KnkW44aDbBXYGE5i"
+    "openai_uploaded_hash": "d4bda782f337d55c64b27825b3feb41d",
+    "openai_file_id": "file-N5Cs7umMTjqAb2Bkx4dN81"
   },
   "4407386819731": {
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
@@ -2668,5 +2668,35 @@
     "file": "articles/the-new-designer-complete-feature-guide.md",
     "openai_uploaded_hash": "3318074b584c175030dad3f9294b2252",
     "openai_file_id": "file-WFt99i96wApGfoMsPYwUkD"
+  },
+  "34379983350163": {
+    "slug": "accepted-payment-methods-and-currencies",
+    "title": "Accepted Payment Methods and Currencies",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
+    "updated_at": "2026-11-18T22:42:56Z",
+    "hash": "07e7537e0adaa5a245f211f768049996",
+    "file": "articles/accepted-payment-methods-and-currencies.md",
+    "openai_uploaded_hash": "07e7537e0adaa5a245f211f768049996",
+    "openai_file_id": "file-Pg97hHjE55xi1UPjWGR8WK"
+  },
+  "57688527779219": {
+    "slug": "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector",
+    "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector",
+    "updated_at": "2026-11-18T18:22:31Z",
+    "hash": "0599117fc370f0aaaafc600728aa0cb1",
+    "file": "articles/ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector.md",
+    "openai_uploaded_hash": "0599117fc370f0aaaafc600728aa0cb1",
+    "openai_file_id": "file-13vqfRMAZAPgYV1XQgF7nf"
+  },
+  "5149077938835": {
+    "slug": "how-to-use-the-advanced-website-app",
+    "title": "How to Use the Advanced Website App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-Use-the-Advanced-Website-App",
+    "updated_at": "2026-11-18T16:21:38Z",
+    "hash": "390686314c703ea855ba78c20d7882bb",
+    "file": "articles/how-to-use-the-advanced-website-app.md",
+    "openai_uploaded_hash": "390686314c703ea855ba78c20d7882bb",
+    "openai_file_id": "file-8jwfcb1JwHVtzoR6gSwDus"
   }
 }
