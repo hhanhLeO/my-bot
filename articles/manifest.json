@@ -583,11 +583,11 @@
     "slug": "how-to-delete-your-account-from-optisigns",
     "title": "How to Delete Your Account from OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-09-07T08:42:16Z",
-    "hash": "b7f66a971541b40f8e4013f86eea48ef",
+    "updated_at": "2026-11-19T20:11:27Z",
+    "hash": "b52b5c65f579dd2bdf324d00fceaed43",
     "file": "articles/how-to-delete-your-account-from-optisigns.md",
-    "openai_uploaded_hash": "b7f66a971541b40f8e4013f86eea48ef",
-    "openai_file_id": "file-3nDUo9KdkkrNYUCcYBE3TK"
+    "openai_uploaded_hash": "b52b5c65f579dd2bdf324d00fceaed43",
+    "openai_file_id": "file-LNpHrtBCMt3F2DhFdBLwuF"
   },
   "360039566974": {
     "slug": "install-optisigns-as-channel-or-app-on-roku",
@@ -843,11 +843,11 @@
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-10-28T15:43:14Z",
-    "hash": "8a6672a224576748a509b58d5c228727",
+    "updated_at": "2026-11-19T20:21:36Z",
+    "hash": "aa8984452523493350625b988f227a90",
     "file": "articles/what-do-i-get-with-an-optisigns-free-plan.md",
-    "openai_uploaded_hash": "8a6672a224576748a509b58d5c228727",
-    "openai_file_id": "file-K5HQsTzhzfwJcGRH6u4Sc4"
+    "openai_uploaded_hash": "aa8984452523493350625b988f227a90",
+    "openai_file_id": "file-LW5PzKKgX4V58dMdi63fsc"
   },
   "9169378546195": {
     "slug": "data-residency-and-optisigns",
@@ -1260,14 +1260,14 @@
     "openai_file_id": "file-2XMqDnWW4S7WX3jQnMjf9S"
   },
   "34087061669523": {
-    "slug": "amazon-signage-stick",
-    "title": "Amazon Signage Stick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-10-29T20:18:17Z",
-    "hash": "422be19ca52be7c7f1179421cf8b72bb",
-    "file": "articles/amazon-signage-stick.md",
-    "openai_uploaded_hash": "422be19ca52be7c7f1179421cf8b72bb",
-    "openai_file_id": "file-75ddR5c86hwwSHomhNy9Va"
+    "slug": "amazon-signage-devices-signage-sticks-and-signage-displays",
+    "title": "Amazon Signage Devices: Signage Sticks and Signage Displays",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
+    "updated_at": "2026-11-19T22:08:35Z",
+    "hash": "b40a19e0f9fc11536551c2b6dad65b97",
+    "file": "articles/amazon-signage-devices-signage-sticks-and-signage-displays.md",
+    "openai_uploaded_hash": "b40a19e0f9fc11536551c2b6dad65b97",
+    "openai_file_id": "file-D8NuLcJJwhvsxwho8QJEQh"
   },
   "360041638433": {
     "slug": "how-to-use-the-countdown-app",
@@ -1843,11 +1843,11 @@
     "slug": "inbound-webhook-datasources-in-designer",
     "title": "Inbound Webhook DataSources in Designer",
     "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
-    "updated_at": "2026-09-24T17:00:10Z",
-    "hash": "d4dac151e35c9a9c913da02f4c4e04f2",
+    "updated_at": "2026-11-19T22:38:32Z",
+    "hash": "3ed5195182a73c5015af1a80c03180e3",
     "file": "articles/inbound-webhook-datasources-in-designer.md",
-    "openai_uploaded_hash": "d4dac151e35c9a9c913da02f4c4e04f2",
-    "openai_file_id": "file-6y9R6DHzQsTAzQeTDJbVxb"
+    "openai_uploaded_hash": "3ed5195182a73c5015af1a80c03180e3",
+    "openai_file_id": "file-5YPBBAb7yyQy1FFH586xsD"
   },
   "23566927217939": {
     "slug": "how-to-use-check-in-app-with-sms-follow-up",
@@ -2653,11 +2653,11 @@
     "slug": "cancel-pause-or-downgrade-your-subscription",
     "title": "Cancel, Pause or Downgrade Your Subscription",
     "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
-    "updated_at": "2026-11-16T22:41:11Z",
-    "hash": "abed3f28c55de3b60f87b8e9f0efe928",
+    "updated_at": "2026-11-19T20:34:02Z",
+    "hash": "cd673142805b33856eb6b9ecd1cee713",
     "file": "articles/cancel-pause-or-downgrade-your-subscription.md",
-    "openai_uploaded_hash": "abed3f28c55de3b60f87b8e9f0efe928",
-    "openai_file_id": "file-Nnj1oXKebuw655hz2ML8hS"
+    "openai_uploaded_hash": "cd673142805b33856eb6b9ecd1cee713",
+    "openai_file_id": "file-5xTbRjqCegyEPsvMrEb6PC"
   },
   "57645638683411": {
     "slug": "the-new-designer-complete-feature-guide",
@@ -2698,5 +2698,35 @@
     "file": "articles/how-to-use-the-advanced-website-app.md",
     "openai_uploaded_hash": "390686314c703ea855ba78c20d7882bb",
     "openai_file_id": "file-8jwfcb1JwHVtzoR6gSwDus"
+  },
+  "17129313173395": {
+    "slug": "billing-for-multiple-locations-sub-accounts-and-team-billing",
+    "title": "Billing for Multiple Locations: Sub-Accounts and Team Billing",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
+    "updated_at": "2026-11-19T20:30:08Z",
+    "hash": "3576bb5e16d4733d2889773a4aed17b5",
+    "file": "articles/billing-for-multiple-locations-sub-accounts-and-team-billing.md",
+    "openai_uploaded_hash": "3576bb5e16d4733d2889773a4aed17b5",
+    "openai_file_id": "file-9DkaHR8XD3Ntmq9Y71Q4EG"
+  },
+  "57730354923923": {
+    "slug": "billing-purchase-orders-invoices-and-tax-exemption",
+    "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
+    "updated_at": "2026-11-19T20:27:28Z",
+    "hash": "ddea1f5993fab5c4d6c946dd3dd7d1b9",
+    "file": "articles/billing-purchase-orders-invoices-and-tax-exemption.md",
+    "openai_uploaded_hash": "ddea1f5993fab5c4d6c946dd3dd7d1b9",
+    "openai_file_id": "file-QiWFGQXsfxprWtggcMFKDd"
+  },
+  "37966066335891": {
+    "slug": "getting-started-with-an-optisigns-free-trial",
+    "title": "Getting Started with an OptiSigns Free Trial",
+    "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
+    "updated_at": "2026-11-19T20:21:58Z",
+    "hash": "101e2bcc9e820bff0750b52cebf4bcaa",
+    "file": "articles/getting-started-with-an-optisigns-free-trial.md",
+    "openai_uploaded_hash": "101e2bcc9e820bff0750b52cebf4bcaa",
+    "openai_file_id": "file-JNisswiPZxqZ9vaq64nrZN"
   }
 }
