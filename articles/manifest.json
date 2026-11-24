@@ -103,11 +103,11 @@
     "slug": "billing-changing-plans-or-screen-counts",
     "title": "Billing: Changing Plans or Screen Counts",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-    "updated_at": "2026-11-16T20:25:41Z",
-    "hash": "c6a7973e008e4e4f08994fcf62882b5d",
+    "updated_at": "2026-11-23T18:19:02Z",
+    "hash": "dc429be4e27a8584d460aa65d4b0ee0c",
     "file": "articles/billing-changing-plans-or-screen-counts.md",
-    "openai_uploaded_hash": "c6a7973e008e4e4f08994fcf62882b5d",
-    "openai_file_id": "file-6Nn97XQAUe51tDwh1C9QWB"
+    "openai_uploaded_hash": "dc429be4e27a8584d460aa65d4b0ee0c",
+    "openai_file_id": "file-WZPAo8y6HpHKjYaSq6vxdD"
   },
   "360035538093": {
     "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibrati",
@@ -1693,11 +1693,11 @@
     "slug": "how-to-use-google-sheets-with-optisigns",
     "title": "How to Use Google Sheets with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
-    "updated_at": "2026-09-18T19:56:41Z",
-    "hash": "19d0f414836dcb80e12d627f0b662bbf",
+    "updated_at": "2026-11-23T22:35:01Z",
+    "hash": "ea147c14e8313ee2be8d787a8cb15b2a",
     "file": "articles/how-to-use-google-sheets-with-optisigns.md",
-    "openai_uploaded_hash": "19d0f414836dcb80e12d627f0b662bbf",
-    "openai_file_id": "file-ANku2y1PgcdSL9ZbEbEp32"
+    "openai_uploaded_hash": "ea147c14e8313ee2be8d787a8cb15b2a",
+    "openai_file_id": "file-V6AXJYnJntUYguX3cVsoFu"
   },
   "360047499893": {
     "slug": "how-to-use-google-traffic-app",
@@ -2313,11 +2313,11 @@
     "slug": "how-to-use-the-google-drive-app",
     "title": "How to Use the Google Drive App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App",
-    "updated_at": "2026-10-16T16:33:18Z",
-    "hash": "5db363d975ad6f4789246baa29b94dee",
+    "updated_at": "2026-11-23T23:38:33Z",
+    "hash": "a17f8c3dc78096f89740d8ffb5f7ebcc",
     "file": "articles/how-to-use-the-google-drive-app.md",
-    "openai_uploaded_hash": "5db363d975ad6f4789246baa29b94dee",
-    "openai_file_id": "file-8wYn5ppbAh8mT6PSnjEaoT"
+    "openai_uploaded_hash": "a17f8c3dc78096f89740d8ffb5f7ebcc",
+    "openai_file_id": "file-VnCYvbK99wbWi95gwV9LgZ"
   },
   "30003143806099": {
     "slug": "how-to-use-the-optisigns-mobile-admin-app",
@@ -2603,11 +2603,11 @@
     "slug": "billing-details-failed-payments-receipts",
     "title": "Billing Details, Failed Payments & Receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-    "updated_at": "2026-11-18T22:06:47Z",
-    "hash": "d4bda782f337d55c64b27825b3feb41d",
+    "updated_at": "2026-11-23T18:20:03Z",
+    "hash": "0b581acaed32e06110efeeacd469989c",
     "file": "articles/billing-details-failed-payments-receipts.md",
-    "openai_uploaded_hash": "d4bda782f337d55c64b27825b3feb41d",
-    "openai_file_id": "file-N5Cs7umMTjqAb2Bkx4dN81"
+    "openai_uploaded_hash": "0b581acaed32e06110efeeacd469989c",
+    "openai_file_id": "file-8PFeA71xztxmPr3mR5626c"
   },
   "4407386819731": {
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
