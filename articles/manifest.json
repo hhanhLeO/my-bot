@@ -303,11 +303,11 @@
     "slug": "how-to-use-the-cap-alert-app",
     "title": "How to Use the CAP Alert App",
     "url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-    "updated_at": "2026-09-18T20:09:38Z",
-    "hash": "78316335c2d38ee2dc563b02474b737d",
+    "updated_at": "2026-11-25T18:12:16Z",
+    "hash": "0d8195e926b2ec4d6a900ad62d6c72e6",
     "file": "articles/how-to-use-the-cap-alert-app.md",
-    "openai_uploaded_hash": "78316335c2d38ee2dc563b02474b737d",
-    "openai_file_id": "file-JbFecNckFoFNk9sYMFKxhc"
+    "openai_uploaded_hash": "0d8195e926b2ec4d6a900ad62d6c72e6",
+    "openai_file_id": "file-2Luh15idtWZPjhNi95mC28"
   },
   "360021855653": {
     "slug": "what-hardware-and-devices-are-supported",
@@ -343,11 +343,11 @@
     "slug": "how-to-create-use-playlists",
     "title": "How to Create & Use Playlists",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-    "updated_at": "2026-11-24T23:00:00Z",
-    "hash": "049b0c103e8db99cb76aa42ab75a939e",
+    "updated_at": "2026-11-25T20:16:44Z",
+    "hash": "e4f55d105b96ef49b41531fca6bab22b",
     "file": "articles/how-to-create-use-playlists.md",
-    "openai_uploaded_hash": "049b0c103e8db99cb76aa42ab75a939e",
-    "openai_file_id": "file-KP88iQvT5LM3ukSYRbmahQ"
+    "openai_uploaded_hash": "e4f55d105b96ef49b41531fca6bab22b",
+    "openai_file_id": "file-1nkxDGHwCTyk5tST5deyKQ"
   },
   "15313086319763": {
     "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro",
@@ -463,21 +463,21 @@
     "slug": "how-to-perform-mass-provisioning-with-optisigns",
     "title": "How to Perform Mass Provisioning with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
-    "updated_at": "2026-07-23T09:04:57Z",
-    "hash": "1e6836d69713ce7c9bb9d62699664d18",
+    "updated_at": "2026-11-25T18:11:53Z",
+    "hash": "6dab12160762a85c3cf3b19bf284a3d8",
     "file": "articles/how-to-perform-mass-provisioning-with-optisigns.md",
-    "openai_uploaded_hash": "1e6836d69713ce7c9bb9d62699664d18",
-    "openai_file_id": "file-EqYed89PKHHKjMvRw6EsgD"
+    "openai_uploaded_hash": "6dab12160762a85c3cf3b19bf284a3d8",
+    "openai_file_id": "file-Q53cA7zRaNLg4XsGjxQv9n"
   },
   "360037463934": {
     "slug": "how-to-use-the-google-reviews-app",
     "title": "How to Use the Google Reviews App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-Use-the-Google-Reviews-App",
-    "updated_at": "2026-10-16T21:27:23Z",
-    "hash": "00073f0eb2782a291fff284b0286b353",
+    "updated_at": "2026-11-25T18:09:25Z",
+    "hash": "7fd048ae18caa54963232579dff41d1a",
     "file": "articles/how-to-use-the-google-reviews-app.md",
-    "openai_uploaded_hash": "00073f0eb2782a291fff284b0286b353",
-    "openai_file_id": "file-6hDAmSNXXhhnvvQyZNwq5V"
+    "openai_uploaded_hash": "7fd048ae18caa54963232579dff41d1a",
+    "openai_file_id": "file-KTgRKKuhXFpodhLaCw1vnQ"
   },
   "27463953562899": {
     "slug": "amazon-tv-firestick-troubleshooting-guide",
@@ -573,11 +573,11 @@
     "slug": "optidev-add-on-free-trial-and-pricing",
     "title": "OptiDev Add-on - Free Trial and Pricing",
     "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-    "updated_at": "2026-11-18T17:12:24Z",
-    "hash": "6e3f05f9264df65f657101a3021e7406",
+    "updated_at": "2026-11-25T18:11:48Z",
+    "hash": "c8f99dc0e86379141127d9da79323263",
     "file": "articles/optidev-add-on-free-trial-and-pricing.md",
-    "openai_uploaded_hash": "6e3f05f9264df65f657101a3021e7406",
-    "openai_file_id": "file-GkakpKd7SfYRy6z7WsQ7Kz"
+    "openai_uploaded_hash": "c8f99dc0e86379141127d9da79323263",
+    "openai_file_id": "file-Rp9zkXA567fyt82NSanNeH"
   },
   "4404608957075": {
     "slug": "how-to-delete-your-account-from-optisigns",
@@ -643,11 +643,11 @@
     "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
     "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "updated_at": "2026-11-11T20:29:28Z",
-    "hash": "cac9a033b84afef3b7a1493790a5f470",
+    "updated_at": "2026-11-25T18:09:41Z",
+    "hash": "6c0a2cf117080e9b47221da535f2ae88",
     "file": "articles/how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
-    "openai_uploaded_hash": "cac9a033b84afef3b7a1493790a5f470",
-    "openai_file_id": "file-D1XmA5SdairrEdvVjoQzSm"
+    "openai_uploaded_hash": "6c0a2cf117080e9b47221da535f2ae88",
+    "openai_file_id": "file-LQBRKPHeoL1nRZ6t2nhRys"
   },
   "360042950593": {
     "slug": "how-to-use-the-simple-clock-app",
@@ -693,11 +693,11 @@
     "slug": "how-to-use-the-website-app-and-display-urls-on-optisigns",
     "title": "How to Use the Website App and Display URLs on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-    "updated_at": "2026-08-19T20:31:24Z",
-    "hash": "2acebadb426fb41f0e44df24c0fde790",
+    "updated_at": "2026-11-25T18:10:05Z",
+    "hash": "0f862f89894b499883f5f4502688d5a3",
     "file": "articles/how-to-use-the-website-app-and-display-urls-on-optisigns.md",
-    "openai_uploaded_hash": "2acebadb426fb41f0e44df24c0fde790",
-    "openai_file_id": "file-2pCyEq3bXZ3vKcjH8hRJse"
+    "openai_uploaded_hash": "0f862f89894b499883f5f4502688d5a3",
+    "openai_file_id": "file-BKHe4JANJXqgzeKtDWrXas"
   },
   "15861880059283": {
     "slug": "silent-installation-process-for-optisigns-player-on-windows",
@@ -723,11 +723,11 @@
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
     "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-    "updated_at": "2026-09-24T08:59:57Z",
-    "hash": "3b7152707b69f60b3c123173c7ec817d",
+    "updated_at": "2026-11-25T18:12:10Z",
+    "hash": "e791ba4ffac6e231e616ef9611060520",
     "file": "articles/how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
-    "openai_uploaded_hash": "3b7152707b69f60b3c123173c7ec817d",
-    "openai_file_id": "file-Rdh4GYTjvrHe6Ww3fFt3ny"
+    "openai_uploaded_hash": "e791ba4ffac6e231e616ef9611060520",
+    "openai_file_id": "file-XEdJVfDY4caUv6xhSfRG4J"
   },
   "18823504383891": {
     "slug": "optisigns-getting-started-guide",
@@ -873,11 +873,11 @@
     "slug": "how-to-use-the-live-tv-with-ads-app",
     "title": "How to Use the Live TV with Ads App",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
-    "updated_at": "2026-09-07T09:04:05Z",
-    "hash": "c09e4f21259d26280a93c8d76b7c1ab0",
+    "updated_at": "2026-11-25T18:12:31Z",
+    "hash": "2e4ad19fccf6a14148ded6275b6c4473",
     "file": "articles/how-to-use-the-live-tv-with-ads-app.md",
-    "openai_uploaded_hash": "c09e4f21259d26280a93c8d76b7c1ab0",
-    "openai_file_id": "file-KvTLv3xdjj8EDCeLKnPTMA"
+    "openai_uploaded_hash": "2e4ad19fccf6a14148ded6275b6c4473",
+    "openai_file_id": "file-WGiCg5JRvH9Zp2qSGUwUEJ"
   },
   "38680194603155": {
     "slug": "promax",
@@ -943,11 +943,11 @@
     "slug": "how-to-display-microsoft-teams-chat-on-optisigns",
     "title": "How to Display Microsoft Teams Chat on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
-    "updated_at": "2026-10-01T20:13:18Z",
-    "hash": "3c332c7ead5ceed1e4b511532afc5e00",
+    "updated_at": "2026-11-25T18:12:25Z",
+    "hash": "d4bafc8f099a4ce7dfbdfe39e5a6faeb",
     "file": "articles/how-to-display-microsoft-teams-chat-on-optisigns.md",
-    "openai_uploaded_hash": "3c332c7ead5ceed1e4b511532afc5e00",
-    "openai_file_id": "file-SsugmnQjM2dxVpuf4atGm5"
+    "openai_uploaded_hash": "d4bafc8f099a4ce7dfbdfe39e5a6faeb",
+    "openai_file_id": "file-4435CA6UcUDNVTJk8ekEkX"
   },
   "360054557434": {
     "slug": "view-billing-history-and-download-receipts",
@@ -1093,11 +1093,11 @@
     "slug": "how-to-use-the-facebook-page-app",
     "title": "How to Use the Facebook Page App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
-    "updated_at": "2026-09-10T02:49:33Z",
-    "hash": "16dc21052cdd924ce758e70f8d44f7c5",
+    "updated_at": "2026-11-25T18:09:45Z",
+    "hash": "f78d14e53bf08012b001623b31beaf5e",
     "file": "articles/how-to-use-the-facebook-page-app.md",
-    "openai_uploaded_hash": "16dc21052cdd924ce758e70f8d44f7c5",
-    "openai_file_id": "file-WJg51bGJXmwm3JWPiqcriN"
+    "openai_uploaded_hash": "f78d14e53bf08012b001623b31beaf5e",
+    "openai_file_id": "file-MbarbrqWtMdrWWCDS1gGnd"
   },
   "360049872414": {
     "slug": "how-to-use-facebook-video-app",
@@ -1123,11 +1123,11 @@
     "slug": "how-to-use-the-news-app",
     "title": "How to Use the News App",
     "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
-    "updated_at": "2026-09-09T21:52:52Z",
-    "hash": "9c038a1ae83485927ede5e72f6eed5a7",
+    "updated_at": "2026-11-25T18:09:54Z",
+    "hash": "4c2e0f0ea035d9fef483a59ffa334a76",
     "file": "articles/how-to-use-the-news-app.md",
-    "openai_uploaded_hash": "9c038a1ae83485927ede5e72f6eed5a7",
-    "openai_file_id": "file-GNv1HN32GB2hbR4DfQeP33"
+    "openai_uploaded_hash": "4c2e0f0ea035d9fef483a59ffa334a76",
+    "openai_file_id": "file-V5TMFGrSUk8jwgC6Z4sabg"
   },
   "4414563797139": {
     "slug": "generate-manage-an-optisigns-api-key",
@@ -1293,11 +1293,11 @@
     "slug": "how-to-use-rss-feeds-with-optisigns",
     "title": "How to Use RSS feeds with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-Use-RSS-feeds-with-OptiSigns",
-    "updated_at": "2026-09-10T21:50:57Z",
-    "hash": "dff9df8479f49bbb799791f005482aa6",
+    "updated_at": "2026-11-25T18:09:34Z",
+    "hash": "040446530d33ac556ca2765964fd2334",
     "file": "articles/how-to-use-rss-feeds-with-optisigns.md",
-    "openai_uploaded_hash": "dff9df8479f49bbb799791f005482aa6",
-    "openai_file_id": "file-WEVPCvaZHohM2CUgeNuk4X"
+    "openai_uploaded_hash": "040446530d33ac556ca2765964fd2334",
+    "openai_file_id": "file-A3LngTnCzEmcr1ydAf7Yb2"
   },
   "1500006056101": {
     "slug": "multi-select-assets-in-files-assets-view",
@@ -1523,11 +1523,11 @@
     "slug": "how-to-use-the-local-folder-app-in-optisigns",
     "title": "How to Use the Local Folder App in OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-    "updated_at": "2026-09-22T15:01:01Z",
-    "hash": "3c62cd7de0e95b0ba46638b6eeb3ddbf",
+    "updated_at": "2026-11-25T18:12:04Z",
+    "hash": "b7cf558cbcce9f9cd3f39a4978f255db",
     "file": "articles/how-to-use-the-local-folder-app-in-optisigns.md",
-    "openai_uploaded_hash": "3c62cd7de0e95b0ba46638b6eeb3ddbf",
-    "openai_file_id": "file-61M9repxuT22TeKU44a6Tm"
+    "openai_uploaded_hash": "b7cf558cbcce9f9cd3f39a4978f255db",
+    "openai_file_id": "file-JEX7ANUhAotxrKA5boZuX5"
   },
   "20879903340947": {
     "slug": "how-to-use-content-tags-in-the-playlist",
@@ -1563,11 +1563,11 @@
     "slug": "how-to-use-the-emergency-feed-app",
     "title": "How to Use the Emergency Feed App",
     "url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
-    "updated_at": "2026-09-14T21:00:39Z",
-    "hash": "a51f0a0be37df3b58742a20bd5d5279f",
+    "updated_at": "2026-11-25T18:12:20Z",
+    "hash": "2244e7aca122ba79d9f27650f22d478d",
     "file": "articles/how-to-use-the-emergency-feed-app.md",
-    "openai_uploaded_hash": "a51f0a0be37df3b58742a20bd5d5279f",
-    "openai_file_id": "file-JsBqjEXaREVpzq1SPfxsZX"
+    "openai_uploaded_hash": "2244e7aca122ba79d9f27650f22d478d",
+    "openai_file_id": "file-D4M7NYyGAiLim5F6hQNPKt"
   },
   "1500009492202": {
     "slug": "how-to-use-the-on-this-day-app",
@@ -1863,11 +1863,11 @@
     "slug": "advanced-enforce-sso-login-for-your-account",
     "title": "Advanced: Enforce SSO login for your account",
     "url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
-    "updated_at": "2026-09-28T21:53:26Z",
-    "hash": "75b52e8329eb066305992f59744fe143",
+    "updated_at": "2026-11-25T20:20:52Z",
+    "hash": "c5d344ab67a28de2b382fdb41bef8857",
     "file": "articles/advanced-enforce-sso-login-for-your-account.md",
-    "openai_uploaded_hash": "75b52e8329eb066305992f59744fe143",
-    "openai_file_id": "file-M4EdPVoTX8ov2GH9Dn6r9d"
+    "openai_uploaded_hash": "c5d344ab67a28de2b382fdb41bef8857",
+    "openai_file_id": "file-BnimAQiRsApuxQBxx7nYdW"
   },
   "32860569148819": {
     "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
@@ -2043,11 +2043,11 @@
     "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
     "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "updated_at": "2026-10-01T15:00:40Z",
-    "hash": "845315502abe3c80afebda00dca776c7",
+    "updated_at": "2026-11-25T18:09:29Z",
+    "hash": "6cb46ce86a287afb60b60a0b8da12247",
     "file": "articles/how-to-use-microsoft-outlook-calendar-with-optisigns.md",
-    "openai_uploaded_hash": "845315502abe3c80afebda00dca776c7",
-    "openai_file_id": "file-9933GfTFAtC4973tKtBCYq"
+    "openai_uploaded_hash": "6cb46ce86a287afb60b60a0b8da12247",
+    "openai_file_id": "file-VYdUpHHS4nAGsffudreXwq"
   },
   "1500005889381": {
     "slug": "how-to-use-the-mindmeister-app",
@@ -2123,11 +2123,11 @@
     "slug": "how-to-display-vimeo-videos-with-optisigns",
     "title": "How to Display Vimeo Videos with OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-    "updated_at": "2026-10-13T17:40:15Z",
-    "hash": "038bc1b7e307b3105f8ed6b13a6f75e1",
+    "updated_at": "2026-11-25T18:10:02Z",
+    "hash": "402dd751a1ec888da5a6a2a586255187",
     "file": "articles/how-to-display-vimeo-videos-with-optisigns.md",
-    "openai_uploaded_hash": "038bc1b7e307b3105f8ed6b13a6f75e1",
-    "openai_file_id": "file-LXr2h9S553pnQmaDNwCuue"
+    "openai_uploaded_hash": "402dd751a1ec888da5a6a2a586255187",
+    "openai_file_id": "file-SNj2BL7XqEvG5kGQ2DZp3j"
   },
   "31113088917907": {
     "slug": "how-to-use-toast-api-data-with-optisigns",
@@ -2143,11 +2143,11 @@
     "slug": "how-to-display-a-smartsheet-report-on-optisigns",
     "title": "How to Display a Smartsheet Report on OptiSigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
-    "updated_at": "2026-10-12T18:33:37Z",
-    "hash": "ec3a4234a3cc07218a969776412e03e3",
+    "updated_at": "2026-11-25T18:11:59Z",
+    "hash": "161bca04c0f95eae764b481fa4bf6620",
     "file": "articles/how-to-display-a-smartsheet-report-on-optisigns.md",
-    "openai_uploaded_hash": "ec3a4234a3cc07218a969776412e03e3",
-    "openai_file_id": "file-V5y9YHbV8FyHG36U8P6L2L"
+    "openai_uploaded_hash": "161bca04c0f95eae764b481fa4bf6620",
+    "openai_file_id": "file-Cyix7gJLpYWgQsXH8aTRzt"
   },
   "360050244454": {
     "slug": "how-to-use-the-trello-app",
@@ -2603,11 +2603,11 @@
     "slug": "billing-details-failed-payments-receipts",
     "title": "Billing Details, Failed Payments & Receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-    "updated_at": "2026-11-23T18:20:03Z",
-    "hash": "0b581acaed32e06110efeeacd469989c",
+    "updated_at": "2026-11-25T20:26:20Z",
+    "hash": "fe046288ed3b1ee86d3cd0047d1dc7f5",
     "file": "articles/billing-details-failed-payments-receipts.md",
-    "openai_uploaded_hash": "0b581acaed32e06110efeeacd469989c",
-    "openai_file_id": "file-8PFeA71xztxmPr3mR5626c"
+    "openai_uploaded_hash": "fe046288ed3b1ee86d3cd0047d1dc7f5",
+    "openai_file_id": "file-UPFULvghLzW4RD4mowN9Ud"
   },
   "4407386819731": {
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
@@ -2728,5 +2728,105 @@
     "file": "articles/getting-started-with-an-optisigns-free-trial.md",
     "openai_uploaded_hash": "101e2bcc9e820bff0750b52cebf4bcaa",
     "openai_file_id": "file-JNisswiPZxqZ9vaq64nrZN"
+  },
+  "4407128433299": {
+    "slug": "saml-integration-strategies-best-practices",
+    "title": "SAML Integration Strategies & Best Practices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-Integration-Strategies-Best-Practices",
+    "updated_at": "2026-11-25T20:20:48Z",
+    "hash": "5ef7f7aafe53deddb01f0cb15e19efc3",
+    "file": "articles/saml-integration-strategies-best-practices.md",
+    "openai_uploaded_hash": "5ef7f7aafe53deddb01f0cb15e19efc3",
+    "openai_file_id": "file-5AQGxAwyYZUxxtUDgeN9QK"
+  },
+  "4407252213395": {
+    "slug": "how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD",
+    "updated_at": "2026-11-25T20:20:43Z",
+    "hash": "49787b82ff754952ad35e1c6f4979e9a",
+    "file": "articles/how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad.md",
+    "openai_uploaded_hash": "49787b82ff754952ad35e1c6f4979e9a",
+    "openai_file_id": "file-MbfWEHQbr41NPSgsoi7uYT"
+  },
+  "4407493404307": {
+    "slug": "how-to-set-up-saml-2-0-with-optisigns-and-google-workspace",
+    "title": "How to set up SAML 2.0 with OptiSigns and Google Workspace",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace",
+    "updated_at": "2026-11-25T20:20:38Z",
+    "hash": "f399b3795ac0662872aa0b1bd8e4737c",
+    "file": "articles/how-to-set-up-saml-2-0-with-optisigns-and-google-workspace.md",
+    "openai_uploaded_hash": "f399b3795ac0662872aa0b1bd8e4737c",
+    "openai_file_id": "file-BB65p8rk84EFpRN5EN58qE"
+  },
+  "4404590815635": {
+    "slug": "how-to-set-up-saml-2-0-with-optisigns-and-okta",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and Okta",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-Okta",
+    "updated_at": "2026-11-25T20:19:55Z",
+    "hash": "8e28984877f2aa06b9018fd4e8982f61",
+    "file": "articles/how-to-set-up-saml-2-0-with-optisigns-and-okta.md",
+    "openai_uploaded_hash": "8e28984877f2aa06b9018fd4e8982f61",
+    "openai_file_id": "file-UxMK3to8UyU9Ht74tNbaov"
+  },
+  "35337746613139": {
+    "slug": "how-to-create-custom-news-feeds-with-optisync",
+    "title": "How to Create Custom News Feeds with OptiSync",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-OptiSync",
+    "updated_at": "2026-11-25T20:19:52Z",
+    "hash": "882985a41a81a512bb880baad746ab14",
+    "file": "articles/how-to-create-custom-news-feeds-with-optisync.md",
+    "openai_uploaded_hash": "882985a41a81a512bb880baad746ab14",
+    "openai_file_id": "file-TPdWaUyLTNhSMatHgcb1PC"
+  },
+  "1500005467601": {
+    "slug": "clean-install-of-optisigns-player-on-windows",
+    "title": "Clean install of OptiSigns Player on Windows",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows",
+    "updated_at": "2026-11-25T20:02:43Z",
+    "hash": "0219d461965126527d19dfe5b54b2ba8",
+    "file": "articles/clean-install-of-optisigns-player-on-windows.md",
+    "openai_uploaded_hash": "0219d461965126527d19dfe5b54b2ba8",
+    "openai_file_id": "file-EC2gySgJB5NhVN3yvkznPR"
+  },
+  "360039264133": {
+    "slug": "how-to-create-and-use-qr-code-call-to-action-app",
+    "title": "How to create and use QR Code, Call To Action app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039264133-How-to-create-and-use-QR-Code-Call-To-Action-app",
+    "updated_at": "2026-11-25T18:12:36Z",
+    "hash": "86b291a38d6b35c283d2cf755430ae16",
+    "file": "articles/how-to-create-and-use-qr-code-call-to-action-app.md",
+    "openai_uploaded_hash": "86b291a38d6b35c283d2cf755430ae16",
+    "openai_file_id": "file-SqH6bxfaMMTciePakDX5jP"
+  },
+  "360019517953": {
+    "slug": "how-to-use-google-calendar-with-optisigns",
+    "title": "How to use Google Calendar with OptiSigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360019517953-How-to-use-Google-Calendar-with-OptiSigns",
+    "updated_at": "2026-11-25T18:09:57Z",
+    "hash": "4c89aaf8a52be173850ea9a834ed3b9c",
+    "file": "articles/how-to-use-google-calendar-with-optisigns.md",
+    "openai_uploaded_hash": "4c89aaf8a52be173850ea9a834ed3b9c",
+    "openai_file_id": "file-FjgHd45ySBzGAS2kKQ5RGN"
+  },
+  "360016375573": {
+    "slug": "how-to-use-published-google-slides-with-optisigns-old-way",
+    "title": "How to use published Google Slides with OptiSigns (old way)",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way",
+    "updated_at": "2026-11-25T18:09:50Z",
+    "hash": "7665d48b8a8eb3136f44c5082387cee6",
+    "file": "articles/how-to-use-published-google-slides-with-optisigns-old-way.md",
+    "openai_uploaded_hash": "7665d48b8a8eb3136f44c5082387cee6",
+    "openai_file_id": "file-E56Vaijr1QCybkcKqmqumi"
+  },
+  "360035815114": {
+    "slug": "how-to-use-embed-app",
+    "title": "How to use Embed App",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App",
+    "updated_at": "2026-11-25T18:09:38Z",
+    "hash": "5a519eb2a27eb9c924a8bf3717869933",
+    "file": "articles/how-to-use-embed-app.md",
+    "openai_uploaded_hash": "5a519eb2a27eb9c924a8bf3717869933",
+    "openai_file_id": "file-JCQ4AUCQE4MxbjBQjKE9Rq"
   }
 }
